@@ -1,6 +1,9 @@
+export type EntityKind = 'person' | 'organization' | 'country' | 'group'
+
 export interface Entity {
   id: string
   name: string
+  kind?: EntityKind
 }
 
 export interface Topic {

@@ -10,7 +10,10 @@ const props = defineProps<{
   event: TimelineEvent
   entities: readonly Entity[]
   topics: readonly Topic[]
+  compact?: boolean
 }>()
+
+const emit = defineEmits<{ zoom: [] }>()
 
 const occurredLabel = computed(() =>
   formatFullDate(parseTimelineDate(props.event.occurredAt)),
@@ -33,6 +36,13 @@ const eventTopics = computed(() =>
 const description = computed(
   () => props.event.description ?? props.event.preview?.description ?? '',
 )
+const image = computed(
+  () => props.event.coverImage ?? props.event.preview?.image ?? '',
+)
+const imageAlt = computed(
+  () => props.event.preview?.title ?? props.event.title,
+)
+const compactTopics = computed(() => eventTopics.value.slice(0, 2))
 const source = computed(() =>
   displaySource(props.event.link, props.event.preview?.site),
 )
@@ -40,7 +50,6 @@ const involvedNames = computed(() =>
   involved.value.map((entity) => entity.name).join(' · '),
 )
 const visibleEntities = computed(() => involved.value.slice(0, 3))
-
 function initials(name: string): string {
   return name
     .split(/\s+/)
@@ -61,7 +70,76 @@ function avatarStyle(entity: Entity): Record<string, string> {
 </script>
 
 <template>
-  <article class="event-card">
+  <template v-if="compact">
+    <button
+      type="button"
+      class="event-card is-compact"
+      :class="{ 'has-thumb': image }"
+      title="Ampliar este evento na linha do tempo"
+      @click="emit('zoom')"
+    >
+      <span v-if="image" class="compact-thumb">
+        <img
+          :src="image"
+          :alt="imageAlt"
+          loading="lazy"
+          decoding="async"
+          draggable="false"
+        />
+      </span>
+
+      <span class="compact-body">
+        <span class="compact-meta">
+          <time :datetime="event.occurredAt">{{ occurredLabel }}</time>
+        </span>
+
+        <span class="compact-title">{{ event.title }}</span>
+
+        <span v-if="compactTopics.length > 0" class="compact-topics">
+          <span
+            v-for="topic in compactTopics"
+            :key="topic.id"
+            class="compact-topic"
+          >
+            {{ topic.name }}
+          </span>
+        </span>
+
+        <span
+          v-if="involved.length > 0 || source"
+          class="compact-footer"
+        >
+          <span
+            v-if="involved.length > 0"
+            class="avatar-stack"
+            :title="involvedNames"
+          >
+            <span
+              v-for="entity in visibleEntities"
+              :key="entity.id"
+              class="avatar"
+              :style="avatarStyle(entity)"
+            >
+              {{ initials(entity.name) }}
+            </span>
+            <span
+              v-if="involved.length > visibleEntities.length"
+              class="avatar avatar-more"
+            >
+              +{{ involved.length - visibleEntities.length }}
+            </span>
+          </span>
+
+          <span v-if="source" class="compact-source">
+            {{ source }}
+            <span v-if="event.link" aria-hidden="true">↗</span>
+          </span>
+        </span>
+      </span>
+    </button>
+  </template>
+
+  <article v-else class="event-card">
     <MediaCard :event="event" />
 
     <div class="info-card">
@@ -132,6 +210,131 @@ function avatarStyle(entity: Entity): Record<string, string> {
 </template>
 
 <style scoped>
+.event-card.is-compact {
+  display: grid;
+  width: 100%;
+  grid-template-columns: minmax(0, 1fr);
+  text-align: left;
+  height: calc(var(--compact-row-step, 128px) - 12px);
+  gap: 8px;
+  overflow: hidden;
+  padding: 9px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: rgba(15, 17, 25, 0.94);
+  box-shadow:
+    0 12px 28px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  color: var(--text);
+  text-decoration: none;
+  transition:
+    border-color 200ms ease,
+    background 200ms ease,
+    transform 200ms ease;
+}
+
+.event-card.is-compact.has-thumb {
+  grid-template-columns: 58px minmax(0, 1fr);
+}
+
+.event-card.is-compact:hover {
+  border-color: rgba(200, 255, 94, 0.22);
+  background: rgba(17, 20, 29, 0.96);
+  transform: translateY(-2px);
+}
+
+.compact-thumb {
+  display: block;
+  width: 58px;
+  height: 100%;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #0b0d13;
+}
+
+.compact-thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.compact-body {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 4px;
+  overflow: hidden;
+}
+
+.compact-meta {
+  color: #cfd4de;
+  font-family: var(--font-mono);
+  font-size: 8.5px;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+
+.compact-title {
+  display: -webkit-box;
+  overflow: hidden;
+  color: var(--text);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.25;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.compact-topics {
+  display: flex;
+  gap: 4px;
+  overflow: hidden;
+}
+
+.compact-topic {
+  overflow: hidden;
+  padding: 2px 5px;
+  border: 1px solid rgba(200, 255, 94, 0.16);
+  border-radius: 999px;
+  background: rgba(200, 255, 94, 0.055);
+  color: #d9f5a4;
+  font-family: var(--font-mono);
+  font-size: 7px;
+  letter-spacing: 0.04em;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.compact-footer {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  margin-top: auto;
+}
+
+.compact-footer .avatar {
+  width: 18px;
+  height: 18px;
+  font-size: 6.5px;
+}
+
+.compact-source {
+  overflow: hidden;
+  color: var(--muted-soft);
+  font-family: var(--font-mono);
+  font-size: 7.5px;
+  letter-spacing: 0.02em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .event-card {
   display: flex;
   flex-direction: column;

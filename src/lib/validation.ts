@@ -1,5 +1,6 @@
 import type {
   Entity,
+  EntityKind,
   LinkPreview,
   TimelineData,
   TimelineEvent,
@@ -112,11 +113,30 @@ function parseMarker(value: unknown, path: string): TimelineMarker {
   return marker
 }
 
+function isEntityKind(value: string): value is EntityKind {
+  return (
+    value === 'person' ||
+    value === 'organization' ||
+    value === 'country' ||
+    value === 'group'
+  )
+}
+
 function parseEntity(value: unknown, path: string): Entity {
   const record = asRecord(value, path)
+  const kind = readOptionalString(record, 'kind', path)
+
+  if (kind !== undefined && !isEntityKind(kind)) {
+    throw new TimelineDataError(
+      'Esperado que "kind" seja person, organization, country ou group',
+      `${path}.kind`,
+    )
+  }
+
   return {
     id: readRequiredString(record, 'id', path),
     name: readRequiredString(record, 'name', path),
+    kind,
   }
 }
 

@@ -2,7 +2,6 @@
 import { computed, ref, watch } from 'vue'
 import TweetEmbed from './TweetEmbed.vue'
 import type { TimelineEvent } from '../types'
-import { hashHue } from '../lib/color'
 import { displaySource } from '../lib/links'
 import { extractTweetId } from '../lib/twitter'
 
@@ -21,13 +20,6 @@ const imageAlt = computed(
 const site = computed(() =>
   displaySource(props.event.link, props.event.preview?.site),
 )
-const fallbackInitial = computed(
-  () => props.event.title.trim().charAt(0).toUpperCase() || '◦',
-)
-const fallbackBackground = computed(() => {
-  const hue = hashHue(props.event.id)
-  return `hsl(${hue} 46% 17%)`
-})
 const linkAttrs = computed(() =>
   props.event.link
     ? {
@@ -51,7 +43,7 @@ watch(
 </script>
 
 <template>
-  <div class="media-card" :class="{ 'is-tweet': showTweet }">
+  <div v-if="showTweet || image" class="media-card" :class="{ 'is-tweet': showTweet }">
     <TweetEmbed
       v-if="showTweet && tweetId"
       :tweet-id="tweetId"
@@ -67,7 +59,6 @@ watch(
       :title="event.link ? `Abrir ${site}` : undefined"
     >
       <img
-        v-if="image"
         class="media-image"
         :src="image"
         :alt="imageAlt"
@@ -75,16 +66,6 @@ watch(
         decoding="async"
         draggable="false"
       />
-      <span
-        v-else
-        class="media-fallback"
-        :style="{ background: fallbackBackground }"
-        aria-hidden="true"
-      >
-        <span class="fallback-orbit fallback-orbit-a" />
-        <span class="fallback-orbit fallback-orbit-b" />
-        <span class="fallback-initial">{{ fallbackInitial }}</span>
-      </span>
 
       <span v-if="site" class="media-site">{{ site }}</span>
       <span v-if="event.link" class="media-open" aria-hidden="true">↗</span>
@@ -188,41 +169,5 @@ watch(
 .media-link:hover .media-open {
   background: var(--accent);
   color: #0a0b10;
-}
-
-.media-fallback {
-  position: relative;
-  display: grid;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  place-items: center;
-}
-
-.fallback-orbit {
-  position: absolute;
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  border-radius: 50%;
-}
-
-.fallback-orbit-a {
-  width: 190px;
-  height: 190px;
-  transform: translate(34%, -18%);
-}
-
-.fallback-orbit-b {
-  width: 280px;
-  height: 280px;
-  opacity: 0.55;
-  transform: translate(34%, -18%);
-}
-
-.fallback-initial {
-  color: rgba(255, 255, 255, 0.18);
-  font-size: 96px;
-  font-weight: 650;
-  letter-spacing: -0.08em;
-  line-height: 1;
 }
 </style>

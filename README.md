@@ -5,11 +5,15 @@ Linha do tempo interativa para acompanhar a trajetória pública da família Bol
 ## O que tem
 
 - Linha do tempo horizontal e infinita, navegável nos dois sentidos.
-- Cards alternados acima e abaixo do eixo.
+- Até três faixas de cards acima e abaixo do eixo, com layout compacto no enquadramento geral.
+- Cards completos acima de 10× de zoom; clicar em um card compacto centraliza o evento e aplica zoom de 20×.
+- Cards sem imagem não exibem bloco de mídia.
 - Marcadores verticais com título para destacar períodos e acontecimentos importantes.
 - Pessoas e temas associados a cada evento.
+- Filtros por pessoa e por tópico, com contagem de resultados.
 - Embeds do X/Twitter e prévias de links.
 - Zoom, arrasto e atalhos de teclado.
+- Zoom e posição salvos no navegador via `localStorage`.
 - Interface em português do Brasil.
 - Validação dos dados em tempo de execução.
 
@@ -47,6 +51,7 @@ Os dados ficam em `src/data/timeline.json`. Essa pasta não é versionada no rep
 ### Regras
 
 - `entities`, `topics` e `events` são obrigatórios.
+- `entities[].kind` é opcional e aceita `person`, `organization`, `country` ou `group`; o filtro de pessoas usa `person`.
 - `markers` é opcional; quando ausente, é tratado como uma lista vazia.
 - Todos os `id` devem ser únicos dentro da própria coleção.
 - `occurredAt` e `retrievedAt` aceitam ISO 8601 ou `AAAA-MM-DD`.
@@ -95,6 +100,8 @@ npm run add-event -- https://example.com/materia
 ```
 
 Também é aceito `GOOGLE_API_KEY`. Sem chave, o script usa a extração local e avisa no terminal.
+
+O mapeamento reutiliza temas e envolvidos existentes e cria os que faltarem. O Gemini escolhe de 1 a 4 temas e de 1 a 6 envolvidos, cada um com `kind` (`person`, `organization`, `country` ou `group`); novos envolvidos e temas são adicionados ao JSON automaticamente. Todo evento recebe pelo menos um tema.
 
 ## Atualizar prévias de links
 

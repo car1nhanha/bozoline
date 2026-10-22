@@ -25,6 +25,41 @@ export interface AxisScale {
   years: YearMarker[]
 }
 
+export interface MonthBand {
+  startTime: number
+  endTime: number
+  index: number
+}
+
+export function buildMonthBands(minTime: number, maxTime: number): MonthBand[] {
+  if (maxTime <= minTime) return []
+
+  const first = new Date(minTime)
+  let cursor = Date.UTC(first.getUTCFullYear(), first.getUTCMonth(), 1)
+  const bands: MonthBand[] = []
+  let guard = 0
+
+  while (cursor < maxTime && guard < 20_000) {
+    const date = new Date(cursor)
+    const next = Date.UTC(date.getUTCFullYear(), date.getUTCMonth() + 1, 1)
+    const startTime = Math.max(cursor, minTime)
+    const endTime = Math.min(next, maxTime)
+
+    if (endTime > startTime) {
+      bands.push({
+        startTime,
+        endTime,
+        index: date.getUTCFullYear() * 12 + date.getUTCMonth(),
+      })
+    }
+
+    cursor = next
+    guard += 1
+  }
+
+  return bands
+}
+
 interface TickStrategy {
   unit: TickUnit
   step: number

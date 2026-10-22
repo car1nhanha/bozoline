@@ -74,6 +74,17 @@ describe('placeEvents', () => {
       'd',
     ])
   })
+
+  it('uses additional rows to show colliding events', () => {
+    const single = placeEvents(events, { ...options, pxPerDay: 0.2, rows: 1 })
+    const multi = placeEvents(events, { ...options, pxPerDay: 0.2, rows: 3 })
+
+    expect(multi.every((placement) => placement.visible)).toBe(true)
+    expect(multi.filter((placement) => placement.visible).length).toBeGreaterThan(
+      single.filter((placement) => placement.visible).length,
+    )
+    expect(multi.some((placement) => placement.row > 0)).toBe(true)
+  })
 })
 
 describe('getTimelineBounds', () => {

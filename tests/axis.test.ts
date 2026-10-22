@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import {
   buildAxisScale,
+  buildMonthBands,
   chooseTickStrategy,
 } from '../src/lib/axis'
 import { parseTimelineDate } from '../src/lib/dates'
@@ -49,5 +50,37 @@ describe('buildAxisScale', () => {
       { time: min, label: '2023' },
       { time: parseTimelineDate('2024-01-01'), label: '2024' },
     ])
+  })
+})
+
+describe('buildMonthBands', () => {
+  it('covers the range with contiguous month bands', () => {
+    const bands = buildMonthBands(
+      parseTimelineDate('2023-01-15'),
+      parseTimelineDate('2023-03-10'),
+    )
+
+    expect(bands).toEqual([
+      {
+        startTime: parseTimelineDate('2023-01-15'),
+        endTime: parseTimelineDate('2023-02-01'),
+        index: 2023 * 12,
+      },
+      {
+        startTime: parseTimelineDate('2023-02-01'),
+        endTime: parseTimelineDate('2023-03-01'),
+        index: 2023 * 12 + 1,
+      },
+      {
+        startTime: parseTimelineDate('2023-03-01'),
+        endTime: parseTimelineDate('2023-03-10'),
+        index: 2023 * 12 + 2,
+      },
+    ])
+  })
+
+  it('returns no bands for an empty range', () => {
+    const time = parseTimelineDate('2023-01-15')
+    expect(buildMonthBands(time, time)).toEqual([])
   })
 })

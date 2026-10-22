@@ -12,6 +12,7 @@ export interface EventPlacement {
   centerX: number
   visible: boolean
   lane: EventLane
+  row: number
 }
 
 export type EventLane = 'above' | 'below'
@@ -22,6 +23,7 @@ export interface LayoutOptions {
   leftPad: number
   cardWidth: number
   gap: number
+  rows?: number
 }
 
 export function getTimelineBounds(
@@ -65,25 +67,39 @@ export function placeEvents(
   options: LayoutOptions,
 ): EventPlacement[] {
   const halfCard = options.cardWidth / 2
-  const lastRight: Record<EventLane, number> = {
-    above: Number.NEGATIVE_INFINITY,
-    below: Number.NEGATIVE_INFINITY,
+  const rows = Math.max(1, Math.floor(options.rows ?? 1))
+  const lastRight: Record<EventLane, number[]> = {
+    above: Array.from({ length: rows }, () => Number.NEGATIVE_INFINITY),
+    below: Array.from({ length: rows }, () => Number.NEGATIVE_INFINITY),
   }
 
   return [...events].sort(compareEvents).map((event, index) => {
-    const lane: EventLane = index % 2 === 0 ? 'below' : 'above'
+    const preferred: EventLane = index % 2 === 0 ? 'below' : 'above'
+    const fallback: EventLane = preferred === 'below' ? 'above' : 'below'
     const centerX =
       options.leftPad +
       ((parseTimelineDate(event.occurredAt) - options.startTime) / DAY_MS) *
         options.pxPerDay
     const left = centerX - halfCard
     const right = centerX + halfCard
-    const visible = left >= lastRight[lane] + options.gap
 
-    if (visible) {
-      lastRight[lane] = right
+    let lane = preferred
+    let row = 0
+    let visible = false
+
+    for (let candidateRow = 0; candidateRow < rows && !visible; candidateRow += 1) {
+      for (const candidateLane of [preferred, fallback]) {
+        const last = lastRight[candidateLane][candidateRow]
+        if (last === undefined || left < last + options.gap) continue
+
+        lane = candidateLane
+        row = candidateRow
+        visible = true
+        lastRight[candidateLane][candidateRow] = right
+        break
+      }
     }
 
-    return { event, centerX, visible, lane }
+    return { event, centerX, visible, lane, row }
   })
 }

@@ -8,6 +8,18 @@ describe('parseTimelineData', () => {
     expect(data.events.length).toBeGreaterThan(0)
     expect(data.entities.length).toBeGreaterThan(0)
     expect(data.topics.length).toBeGreaterThan(0)
+    expect(data.entities.some((entity) => entity.kind === 'person')).toBe(true)
+    expect(data.topics.some((topic) => topic.id === 'twitter')).toBe(true)
+  })
+
+  it('rejects invalid entity kinds', () => {
+    const invalid = {
+      entities: [{ id: 'entity', name: 'Entidade', kind: 'alien' }],
+      topics: [],
+      events: [],
+    }
+
+    expect(() => parseTimelineData(invalid)).toThrow(/kind/)
   })
 
   it('parses markers with a title and date', () => {
