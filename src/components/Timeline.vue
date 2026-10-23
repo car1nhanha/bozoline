@@ -244,33 +244,79 @@ function panBy(direction: number): void {
   offset.value += direction * viewportWidth.value * 0.28;
 }
 
+interface TouchPoint {
+  x: number;
+  y: number;
+}
+
+const touchPointers = new Map<number, TouchPoint>();
 let dragStartX = 0;
 let dragStartOffset = 0;
 let dragMoved = false;
 let activePointer: number | null = null;
 let suppressClick = false;
+let pinching = false;
+let pinchStartDistance = 0;
+let pinchStartScale = 1;
+let pinchAnchorContentX = 0;
 
-function onPointerDown(event: PointerEvent): void {
-  if (event.button !== 0 || !stage.value) return;
-  const target = event.target;
-  if (target instanceof Element && target.closest("a, button, .no-drag")) return;
+function firstTwoTouches(): [TouchPoint, TouchPoint] | null {
+  const points = [...touchPointers.values()];
+  const first = points[0];
+  const second = points[1];
+  return first && second ? [first, second] : null;
+}
 
-  activePointer = event.pointerId;
-  dragStartX = event.clientX;
+function touchDistance(first: TouchPoint, second: TouchPoint): number {
+  return Math.hypot(first.x - second.x, first.y - second.y);
+}
+
+function beginPan(pointerId: number, clientX: number): void {
+  activePointer = pointerId;
+  dragStartX = clientX;
   dragStartOffset = offset.value;
   dragMoved = false;
   dragging.value = true;
-  stage.value.setPointerCapture(event.pointerId);
 }
 
-function onPointerMove(event: PointerEvent): void {
-  if (!dragging.value || activePointer !== event.pointerId) return;
-  const delta = event.clientX - dragStartX;
-  if (Math.abs(delta) > 4) dragMoved = true;
-  offset.value = dragStartOffset + delta;
+function startPinch(): void {
+  const pair = firstTwoTouches();
+  const rect = stage.value?.getBoundingClientRect();
+  if (!pair || !rect) return;
+
+  const [first, second] = pair;
+  const distance = touchDistance(first, second);
+  if (distance < 1) return;
+
+  const midX = (first.x + second.x) / 2 - rect.left;
+  pinching = true;
+  dragging.value = true;
+  dragMoved = true;
+  pinchStartDistance = distance;
+  pinchStartScale = pxPerDay.value;
+  pinchAnchorContentX = midX - offset.value;
 }
 
-function endDrag(event: PointerEvent): void {
+function updatePinch(): void {
+  const pair = firstTwoTouches();
+  const rect = stage.value?.getBoundingClientRect();
+  if (!pair || !rect) return;
+
+  const [first, second] = pair;
+  const distance = touchDistance(first, second);
+  if (distance < 1) return;
+
+  const midX = (first.x + second.x) / 2 - rect.left;
+  const nextScale = Math.min(
+    maxScale.value,
+    Math.max(minScale.value, pinchStartScale * (distance / pinchStartDistance)),
+  );
+
+  pxPerDay.value = nextScale;
+  offset.value = midX - pinchAnchorContentX * (nextScale / pinchStartScale);
+}
+
+function finishPan(event: PointerEvent): void {
   if (activePointer !== event.pointerId) return;
   dragging.value = false;
   activePointer = null;
@@ -283,6 +329,92 @@ function endDrag(event: PointerEvent): void {
       suppressClick = false;
     }, 0);
   }
+}
+
+function onPointerDown(event: PointerEvent): void {
+  if (event.pointerType === "touch") {
+    touchPointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    if (touchPointers.size === 2) {
+      startPinch();
+      return;
+    }
+    if (touchPointers.size > 2) return;
+
+    const target = event.target;
+    if (target instanceof Element && target.closest("a, button, .no-drag")) return;
+    beginPan(event.pointerId, event.clientX);
+    return;
+  }
+
+  if (event.button !== 0 || !stage.value) return;
+  const target = event.target;
+  if (target instanceof Element && target.closest("a, button, .no-drag")) return;
+
+  beginPan(event.pointerId, event.clientX);
+  stage.value.setPointerCapture(event.pointerId);
+}
+
+function onPointerMove(event: PointerEvent): void {
+  if (event.pointerType === "touch") {
+    const point = touchPointers.get(event.pointerId);
+    if (!point) return;
+    point.x = event.clientX;
+    point.y = event.clientY;
+
+    if (pinching) {
+      updatePinch();
+      return;
+    }
+
+    if (!dragging.value || activePointer !== event.pointerId) return;
+    const delta = event.clientX - dragStartX;
+    if (Math.abs(delta) > 4) dragMoved = true;
+    offset.value = dragStartOffset + delta;
+    return;
+  }
+
+  if (!dragging.value || activePointer !== event.pointerId) return;
+  const delta = event.clientX - dragStartX;
+  if (Math.abs(delta) > 4) dragMoved = true;
+  offset.value = dragStartOffset + delta;
+}
+
+function endDrag(event: PointerEvent): void {
+  if (event.pointerType === "touch") {
+    touchPointers.delete(event.pointerId);
+    if (pinching) {
+      if (touchPointers.size >= 2) {
+        pinching = false;
+        startPinch();
+        return;
+      }
+
+      pinching = false;
+      const remaining = [...touchPointers.entries()][0];
+      if (remaining) {
+        const [pointerId, point] = remaining;
+        activePointer = pointerId;
+        dragStartX = point.x;
+        dragStartOffset = offset.value;
+        dragMoved = true;
+        dragging.value = true;
+      } else {
+        activePointer = null;
+        dragging.value = false;
+      }
+
+      suppressClick = true;
+      window.setTimeout(() => {
+        suppressClick = false;
+      }, 0);
+      return;
+    }
+
+    finishPan(event);
+    return;
+  }
+
+  finishPan(event);
 }
 
 function onClickCapture(event: MouseEvent): void {
@@ -462,7 +594,7 @@ onBeforeUnmount(() => {
         '--compact-row-step': `${compactRowStep}px`,
         '--axis-gap': `${layout.axisGapEstimate}px`,
       }"
-      title="Arraste para navegar · deslize dois dedos na vertical para dar zoom"
+      title="Arraste para navegar · use a pinça com dois dedos para dar zoom"
       @pointerdown="onPointerDown"
       @pointermove="onPointerMove"
       @pointerup="endDrag"
