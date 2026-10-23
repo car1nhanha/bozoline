@@ -7,7 +7,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/28/jair-bolsonaro-e-eleito-presidente-e-interrompe-serie-de-vitorias-do-pt.ghtml",
       "topicIds": [
         "eleicoes_2018",
-        "governo_e_transicao"
+        "partidos_politicos"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -28,6 +28,7 @@
       "retrievedAt": "2026-10-21T22:05:07.000Z",
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/06/datafolha-para-presidente-votos-validos-bolsonaro-40-haddad-25-ciro-15-alckmin-8.ghtml",
       "topicIds": [
+        "pesquisas_e_popularidade",
         "eleicoes_2018"
       ],
       "entityIds": [
@@ -49,8 +50,8 @@
       "retrievedAt": "2026-10-21T22:24:54.555Z",
       "link": "https://x.com/jairbolsonaro/status/1049126717363838976",
       "topicIds": [
-        "redes_sociais",
-        "twitter"
+        "redes_sociais_e_desinformacao",
+        "eleicoes_2018"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -68,9 +69,7 @@
       "retrievedAt": "2026-10-21T22:48:51.587Z",
       "link": "https://x.com/jairbolsonaro/status/1056688568024907777",
       "topicIds": [
-        "eleicoes_2018",
-        "redes_sociais",
-        "twitter"
+        "eleicoes_2018"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -88,7 +87,7 @@
       "retrievedAt": "2026-10-21T23:36:53.804Z",
       "link": "https://oeco.org.br/noticias/bolsonaro-confirma-promessa-ministerio-do-meio-ambiente-deixara-de-existir/",
       "topicIds": [
-        "governo_e_transicao",
+        "administracao_publica",
         "meio_ambiente"
       ],
       "entityIds": [
@@ -111,8 +110,9 @@
       "retrievedAt": "2026-10-22T00:19:10.858Z",
       "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2018-11/stf-intima-eduardo-bolsonaro-se-explicar-por-denuncia-de-ameaca",
       "topicIds": [
-        "justica_e_stf",
-        "imprensa_e_liberdade_de_expressao"
+        "familia_bolsonaro",
+        "stf",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "eduardo_bolsonaro",
@@ -133,8 +133,7 @@
       "retrievedAt": "2026-10-22T00:22:09.958Z",
       "link": "https://veja.abril.com.br/politica/bolsonaro-defende-gravacao-de-professores-por-alunos-em-sala-de-aula/",
       "topicIds": [
-        "educacao",
-        "direitos_lgbt"
+        "educacao"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -172,7 +171,7 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-11/bolsonaro-confirma-visita-do-assessor-de-seguranca-nacional-dos-eua",
       "topicIds": [
         "relacoes_exteriores",
-        "governo_e_transicao"
+        "estados_unidos"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -193,7 +192,8 @@
       "link": "https://oglobo.globo.com/brasil/bolsonaro-diz-que-pediu-cancelamento-da-cop-25-no-brasil-cita-triplo-a-23266445",
       "topicIds": [
         "meio_ambiente",
-        "relacoes_exteriores"
+        "mudancas_climaticas",
+        "onu"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -215,7 +215,8 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-12/flavio-bolsonaro-diz-que-ex-assessor-vai-se-explicar-ao-mpf",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "justica_e_stf"
+        "caso_queiroz",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -235,7 +236,7 @@
       "retrievedAt": "2026-10-22T00:31:58.915Z",
       "link": "https://www.andes.org.br/conteudos/noticia/bolsonaro-decide-extinguir-ministerio-do-trabalho1",
       "topicIds": [
-        "governo_e_transicao",
+        "administracao_publica",
         "trabalho_e_renda"
       ],
       "entityIds": [
@@ -256,7 +257,8 @@
       "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/12/06/coaf-aponta-que-ex-motorista-de-flavio-bolsonaro-movimentou-mais-de-r-12-milhao-em-operacoes-suspeitas.ghtml",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "caso_queiroz",
+        "corrupcao_e_lavagem"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -275,8 +277,9 @@
       "retrievedAt": "2026-10-22T00:43:20.901Z",
       "link": "https://www12.senado.leg.br/radio/1/noticia/2018/12/21/presidente-eleito-jair-bolsonaro-toma-posse-no-congresso-as-15-horas-do-dia-1o-de-janeiro",
       "topicIds": [
-        "governo_e_transicao",
-        "congresso_e_politica"
+        "transicao_presidencial",
+        "congresso_nacional",
+        "senado_federal"
       ],
       "entityIds": [
         "jair_bolsonaro",

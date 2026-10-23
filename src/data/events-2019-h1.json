@@ -6,9 +6,8 @@
       "retrievedAt": "2026-10-22T01:01:04.895Z",
       "link": "https://andes.org.br/conteudos/noticia/bolsonaro-exclui-lGBT-de-diretrizes-de-direitos-humanos1",
       "topicIds": [
-        "direitos_humanos",
         "direitos_lgbt",
-        "governo_e_transicao"
+        "direitos_humanos"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -26,9 +25,7 @@
       "retrievedAt": "2026-10-22T01:08:58.101Z",
       "link": "https://www.viomundo.com.br/politica/depois-do-marketing-da-primeira-dama-com-discurso-em-libras-governo-bolsonaro-extingue-secretaria-da-educacao-de-surdos.html",
       "topicIds": [
-        "educacao",
-        "direitos_humanos",
-        "governo_e_transicao"
+        "educacao"
       ],
       "entityIds": [
         "mec"
@@ -46,8 +43,8 @@
       "retrievedAt": "2026-10-22T01:15:21.889Z",
       "link": "https://reporterbrasil.org.br/2019/01/governo-bolsonaro-suspende-reforma-agraria-por-tempo-indeterminado/",
       "topicIds": [
-        "indigenas_e_reforma_agraria",
-        "governo_e_transicao"
+        "povos_indigenas",
+        "reforma_agraria_e_agronegocio"
       ],
       "entityIds": [
         "incra",
@@ -68,7 +65,7 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-01/flavio-bolsonaro-se-dispoe-prestar-esclarecimentos-ao-mprj",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "justica_e_stf"
+        "justica_e_investigacoes"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -87,8 +84,7 @@
       "retrievedAt": "2026-10-22T01:18:17.482Z",
       "link": "https://www.bbc.com/portuguese/brasil-46832821",
       "topicIds": [
-        "seguranca_publica_e_armas",
-        "governo_e_transicao"
+        "armas_e_decretos"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -107,7 +103,7 @@
       "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-pediu-para-stf-anular-provas-no-caso-do-coaf-23380012",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "justica_e_stf"
+        "stf"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -129,7 +125,7 @@
       "link": "https://www1.folha.uol.com.br/poder/2019/01/coaf-aponta-48-depositos-suspeitos-na-conta-de-flavio-bolsonaro.shtml",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "corrupcao_e_lavagem"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -148,6 +144,7 @@
       "retrievedAt": "2026-10-22T01:19:29.072Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-01/bolsonaro-concede-ordem-nacional-do-cruzeiro-do-sul-netanyahu",
       "topicIds": [
+        "israel_e_oriente_medio",
         "relacoes_exteriores"
       ],
       "entityIds": [
@@ -168,8 +165,7 @@
       "retrievedAt": "2026-10-22T01:21:49.594Z",
       "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-construiu-patrimonio-antes-de-ser-empresario-diz-jornal-23391260",
       "topicIds": [
-        "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "caso_flavio_bolsonaro"
       ],
       "entityIds": [
         "flavio_bolsonaro"
@@ -187,8 +183,8 @@
       "retrievedAt": "2026-10-22T01:32:47.404Z",
       "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-deixara-presidencia-do-psl-no-rio-de-janeiro-23412076",
       "topicIds": [
-        "caso_flavio_bolsonaro",
-        "congresso_e_politica"
+        "familia_bolsonaro",
+        "partidos_politicos"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -207,8 +203,9 @@
       "retrievedAt": "2026-10-22T01:33:03.860Z",
       "link": "https://www1.folha.uol.com.br/mundo/2019/02/bannon-anuncia-eduardo-bolsonaro-como-lider-sul-americano-de-movimento-de-ultradireita.shtml",
       "topicIds": [
+        "familia_bolsonaro",
         "relacoes_exteriores",
-        "congresso_e_politica"
+        "estados_unidos"
       ],
       "entityIds": [
         "eduardo_bolsonaro",
@@ -229,7 +226,7 @@
       "link": "https://oglobo.globo.com/politica/a-trajetoria-de-flavio-bolsonaro-de-deputado-mais-jovem-do-rio-senador-sob-suspeita-23392525",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "congresso_e_politica"
+        "senado_federal"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -250,7 +247,8 @@
       "link": "https://oglobo.globo.com/politica/investigacao-sobre-negociacoes-relampago-de-imoveis-de-flavio-bolsonaro-chega-pgr-23431462",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "corrupcao_e_lavagem",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -270,8 +268,9 @@
       "retrievedAt": "2026-10-22T01:50:27.318Z",
       "link": "https://www1.folha.uol.com.br/poder/2019/02/ministro-de-bolsonaro-criou-candidatos-laranjas-para-desviar-recursos-na-eleicao.shtml",
       "topicIds": [
-        "corrupcao_e_laranjas",
-        "eleicoes_2018"
+        "laranjas_e_funcionarios_fantasmas",
+        "corrupcao_e_lavagem",
+        "partidos_politicos"
       ],
       "entityIds": [
         "marcelo_alvaro_antonio",
@@ -290,8 +289,7 @@
       "retrievedAt": "2026-10-22T01:51:22.753Z",
       "link": "https://cimi.org.br/2019/02/povo-tupinamba-de-olivenca-reafirma-resistencia-as-medidas-do-governo-bolsonaro/",
       "topicIds": [
-        "indigenas_e_reforma_agraria",
-        "direitos_humanos"
+        "povos_indigenas"
       ],
       "entityIds": [
         "povo_tupinamba"
@@ -309,8 +307,7 @@
       "retrievedAt": "2026-10-22T01:51:39.629Z",
       "link": "https://vladimirherzog.org/os-ataques-aos-direitos-humanos-no-1o-mes-do-governo-bolsonaro/",
       "topicIds": [
-        "direitos_humanos",
-        "governo_e_transicao"
+        "direitos_humanos"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -328,8 +325,8 @@
       "retrievedAt": "2026-10-22T02:28:10.580Z",
       "link": "https://oglobo.globo.com/economia/previdencia-bolsonaro-define-idade-minima-de-65-anos-para-homens-62-anos-para-mulheres-23453266",
       "topicIds": [
-        "economia_e_previdencia",
-        "governo_e_transicao"
+        "previdencia",
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -348,8 +345,7 @@
       "retrievedAt": "2026-10-22T02:28:58.696Z",
       "link": "https://www.bbc.com/portuguese/brasil-47215161",
       "topicIds": [
-        "justica_e_stf",
-        "governo_e_transicao"
+        "stf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -369,9 +365,8 @@
       "retrievedAt": "2026-10-22T02:30:40.064Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-02/bolsonaro-assina-projeto-de-lei-anticrime",
       "topicIds": [
-        "seguranca_publica_e_armas",
-        "justica_e_stf",
-        "governo_e_transicao"
+        "seguranca_publica",
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -392,8 +387,8 @@
       "retrievedAt": "2026-10-22T02:31:33.064Z",
       "link": "https://www.bbc.com/portuguese/brasil-47287096",
       "topicIds": [
-        "governo_e_transicao",
-        "redes_sociais"
+        "administracao_publica",
+        "redes_sociais_e_desinformacao"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -413,8 +408,8 @@
       "link": "https://veja.abril.com.br/brasil/mpf-no-rj-vai-apurar-se-flavio-bolsonaro-lavou-dinheiro-com-imoveis/",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "justica_e_stf"
+        "corrupcao_e_lavagem",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -435,8 +430,7 @@
       "link": "https://oglobo.globo.com/politica/irma-de-milicianos-assinou-cheques-de-campanha-de-flavio-bolsonaro-diz-revista-23473320",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "eleicoes_2018"
+        "milicias_e_crime_organizado"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -456,7 +450,9 @@
       "link": "https://www.bbc.com/portuguese/brasil-47418488",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "justica_e_stf"
+        "caso_queiroz",
+        "pgr_e_mpf",
+        "justica_e_investigacoes"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -476,9 +472,8 @@
       "retrievedAt": "2026-10-22T02:39:26.498Z",
       "link": "https://oglobo.globo.com/politica/bolsonaro-exalta-militares-elogia-ditador-do-paraguai-se-irrita-com-pergunta-sobre-laranjas-23482768",
       "topicIds": [
-        "militarismo_e_ditadura",
-        "corrupcao_e_laranjas",
-        "relacoes_exteriores"
+        "militares_e_forcas_armadas",
+        "america_latina_e_mercosul"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -499,6 +494,7 @@
       "retrievedAt": "2026-10-22T02:39:38.429Z",
       "link": "https://brasil.elpais.com/brasil/2019/02/28/internacional/1551378266_935933.html",
       "topicIds": [
+        "america_latina_e_mercosul",
         "relacoes_exteriores"
       ],
       "entityIds": [
@@ -519,8 +515,8 @@
       "retrievedAt": "2026-10-22T02:39:51.362Z",
       "link": "https://www.intercept.com.br/2019/02/28/documentos-nathalia-queiroz-funcionaria-fantasma/",
       "topicIds": [
-        "corrupcao_e_laranjas",
-        "congresso_e_politica"
+        "camara_dos_deputados",
+        "laranjas_e_funcionarios_fantasmas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -540,9 +536,9 @@
       "retrievedAt": "2026-10-22T02:41:39.021Z",
       "link": "https://auditoriacidada.org.br/rede-brasil-atual-reforma-de-bolsonaro-corta-abono-do-pis-pasep-de-23-milhoes-de-trabalhadores/",
       "topicIds": [
-        "economia_e_previdencia",
+        "previdencia",
         "trabalho_e_renda",
-        "orcamento_e_contas_publicas"
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -561,8 +557,8 @@
       "retrievedAt": "2026-10-22T02:43:47.969Z",
       "link": "https://g1.globo.com/politica/noticia/2019/02/28/bolsonaro-da-posse-a-roberto-campos-neto-novo-presidente-do-banco-central.ghtml",
       "topicIds": [
-        "economia_e_previdencia",
-        "governo_e_transicao"
+        "banco_central_e_juros",
+        "senado_federal"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -583,8 +579,7 @@
       "retrievedAt": "2026-10-22T02:43:57.792Z",
       "link": "https://brasil.elpais.com/brasil/2019/02/25/politica/1551131887_454015.html",
       "topicIds": [
-        "educacao",
-        "governo_e_transicao"
+        "educacao"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -604,6 +599,7 @@
       "link": "https://oglobo.globo.com/brasil/bolsonaro-sugere-que-pais-rasguem-paginas-sobre-educacao-sexual-de-caderneta-de-saude-da-adolescente-23506442",
       "topicIds": [
         "educacao",
+        "criancas_e_adolescentes",
         "saude"
       ],
       "entityIds": [
@@ -622,8 +618,7 @@
       "retrievedAt": "2026-10-22T02:50:35.868Z",
       "link": "https://g1.globo.com/politica/noticia/2019/03/06/apos-postar-video-com-pornografia-bolsonaro-pergunta-o-que-e-golden-shower.ghtml",
       "topicIds": [
-        "redes_sociais",
-        "direitos_lgbt"
+        "redes_sociais_e_desinformacao"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -641,8 +636,8 @@
       "retrievedAt": "2026-10-22T02:55:56.672Z",
       "link": "https://brasil.elpais.com/brasil/2019/03/08/politica/1552078710_217334.html",
       "topicIds": [
-        "igualdade_de_genero",
-        "religiao_e_politica"
+        "administracao_publica",
+        "genero_e_mulheres"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -661,8 +656,7 @@
       "retrievedAt": "2026-10-22T02:58:32.594Z",
       "link": "https://www.migalhas.com.br/quentes/297778/bolsonaro-usa-poder-para-tentar-intimidar-a-imprensa--afirmam-oab-e-abraji",
       "topicIds": [
-        "imprensa_e_liberdade_de_expressao",
-        "direitos_humanos"
+        "imprensa_e_liberdade_de_expressao"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -682,6 +676,7 @@
       "retrievedAt": "2026-10-22T02:58:48.983Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-03/presidente-do-paraguai-e-recebido-por-bolsonaro-no-palacio-do-planalto",
       "topicIds": [
+        "america_latina_e_mercosul",
         "relacoes_exteriores"
       ],
       "entityIds": [
@@ -702,8 +697,9 @@
       "retrievedAt": "2026-10-22T02:59:02.497Z",
       "link": "https://oglobo.globo.com/mundo/cuba-venezuela-sao-escoria-da-humanidade-diz-eduardo-bolsonaro-apos-eleicao-na-camara-23521746",
       "topicIds": [
-        "relacoes_exteriores",
-        "congresso_e_politica"
+        "camara_dos_deputados",
+        "familia_bolsonaro",
+        "relacoes_exteriores"
       ],
       "entityIds": [
         "eduardo_bolsonaro",
@@ -726,8 +722,7 @@
       "retrievedAt": "2026-10-22T03:01:31.672Z",
       "link": "https://www12.senado.leg.br/noticias/materias/2019/03/20/bolsonaro-retroage-alcance-da-ficha-limpa-nas-nomeacoes-do-governo",
       "topicIds": [
-        "administracao_publica",
-        "governo_e_transicao"
+        "administracao_publica"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -744,7 +739,8 @@
       "retrievedAt": "2026-10-22T03:02:25.922Z",
       "link": "https://conectas.org/noticias/ao-lado-de-trump-bolsonaro-titubeia-sobre-intervencao-militar-na-venezuela/",
       "topicIds": [
-        "relacoes_exteriores"
+        "estados_unidos",
+        "america_latina_e_mercosul"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -765,8 +761,9 @@
       "retrievedAt": "2026-10-22T03:03:04.583Z",
       "link": "https://www12.senado.leg.br/noticias/materias/2019/03/21/rogerio-carvalho-politica-externa-de-bolsonaro-e-de-total-submissao-aos-eua",
       "topicIds": [
-        "relacoes_exteriores",
-        "congresso_e_politica"
+        "senado_federal",
+        "estados_unidos",
+        "relacoes_exteriores"
       ],
       "entityIds": [
         "rogerio_carvalho",
@@ -785,8 +782,8 @@
       "retrievedAt": "2026-10-22T03:03:48.047Z",
       "link": "https://www.bbc.com/portuguese/internacional-47674503",
       "topicIds": [
-        "relacoes_exteriores",
-        "militarismo_e_ditadura"
+        "ditadura_e_ai5",
+        "relacoes_exteriores"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -826,8 +823,9 @@
       "retrievedAt": "2026-10-22T03:06:28.121Z",
       "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-propoe-maioridade-penal-de-14-anos-para-crimes-hediondos-23557890",
       "topicIds": [
-        "seguranca_publica_e_armas",
-        "congresso_e_politica"
+        "senado_federal",
+        "familia_bolsonaro",
+        "criancas_e_adolescentes"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -846,6 +844,7 @@
       "retrievedAt": "2026-10-22T03:06:41.340Z",
       "link": "https://www.bbc.com/portuguese/brasil-47766575",
       "topicIds": [
+        "israel_e_oriente_medio",
         "relacoes_exteriores"
       ],
       "entityIds": [
@@ -865,8 +864,8 @@
       "retrievedAt": "2026-10-22T03:07:01.134Z",
       "link": "https://www.bbc.com/portuguese/brasil-47741593",
       "topicIds": [
-        "militarismo_e_ditadura",
-        "governo_e_transicao"
+        "ditadura_e_ai5",
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -886,8 +885,9 @@
       "retrievedAt": "2026-10-22T03:10:05.199Z",
       "link": "https://www.bbc.com/portuguese/brasil-47819967",
       "topicIds": [
-        "governo_e_transicao",
-        "economia_e_previdencia"
+        "governo_bolsonaro",
+        "previdencia",
+        "congresso_nacional"
       ],
       "entityIds": [
         "fernando_henrique_cardoso",
@@ -907,7 +907,7 @@
       "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-04/bolsonaro-assina-projeto-de-lei-sobre-educacao-domiciliar",
       "topicIds": [
         "educacao",
-        "governo_e_transicao"
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -926,8 +926,7 @@
       "retrievedAt": "2026-10-22T03:13:35.367Z",
       "link": "https://conjur.com.br/2019-abr-14/presidente-jair-bolsonaro-extingue-centenas-conselhos-federais/",
       "topicIds": [
-        "administracao_publica",
-        "governo_e_transicao"
+        "administracao_publica"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -944,8 +943,8 @@
       "retrievedAt": "2026-10-22T03:13:46.879Z",
       "link": "https://www12.senado.leg.br/noticias/materias/2019/04/11/bolsonaro-propoe-autonomia-do-bc-assunto-e-discutido-no-senado-ha-30-anos",
       "topicIds": [
-        "economia_e_previdencia",
-        "congresso_e_politica"
+        "banco_central_e_juros",
+        "senado_federal"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -965,7 +964,7 @@
       "link": "https://oglobo.globo.com/politica/a-pedido-de-bolsonaro-governo-vai-dificultar-destruicao-de-equipamentos-em-operacoes-do-ibama-23599046",
       "topicIds": [
         "meio_ambiente",
-        "governo_e_transicao"
+        "amazonia_e_desmatamento"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -985,8 +984,7 @@
       "retrievedAt": "2026-10-22T03:15:09.259Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-04/bolsonaro-cria-13o-salario-para-o-bolsa-familia",
       "topicIds": [
-        "assistencia_social",
-        "governo_e_transicao"
+        "assistencia_social"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1005,7 +1003,7 @@
       "link": "https://www.greenpeace.org/brasil/blog/retrocessos-ambientais-marcam-os-100-dias-do-governo-bolsonaro/",
       "topicIds": [
         "meio_ambiente",
-        "governo_e_transicao"
+        "amazonia_e_desmatamento"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1025,7 +1023,7 @@
       "retrievedAt": "2026-10-22T03:16:06.413Z",
       "link": "https://oglobo.globo.com/mundo/bolsonaro-diz-que-brasil-passou-votar-na-onu-seguindo-biblia-23591655",
       "topicIds": [
-        "relacoes_exteriores",
+        "onu",
         "religiao_e_politica"
       ],
       "entityIds": [
@@ -1045,8 +1043,9 @@
       "retrievedAt": "2026-10-22T03:18:30.223Z",
       "link": "https://oglobo.globo.com/brasil/projeto-de-flavio-bolsonaro-quer-acabar-com-reserva-legal-em-propriedades-rurais-23608474",
       "topicIds": [
-        "meio_ambiente",
-        "congresso_e_politica"
+        "familia_bolsonaro",
+        "senado_federal",
+        "meio_ambiente"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -1065,8 +1064,9 @@
       "retrievedAt": "2026-10-22T03:19:08.643Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-04/bolsonaro-defende-mineracao-e-agropecuaria-em-terras-indigenas",
       "topicIds": [
-        "indigenas_e_reforma_agraria",
-        "meio_ambiente"
+        "povos_indigenas",
+        "mineracao_e_garimpo",
+        "reforma_agraria_e_agronegocio"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1084,7 +1084,7 @@
       "retrievedAt": "2026-10-22T03:19:26.576Z",
       "link": "https://www1.folha.uol.com.br/mercado/2019/04/bolsonaro-acaba-com-politica-de-aumento-real-do-salario-minimo.shtml",
       "topicIds": [
-        "economia_e_previdencia",
+        "economia",
         "trabalho_e_renda",
         "orcamento_e_contas_publicas"
       ],
@@ -1104,8 +1104,8 @@
       "retrievedAt": "2026-10-22T03:19:45.927Z",
       "link": "https://oeco.org.br/noticias/mpf-recomenda-intensificar-fiscalizacao-desautorizada-por-bolsonaro/",
       "topicIds": [
-        "meio_ambiente",
-        "justica_e_stf"
+        "pgr_e_mpf",
+        "meio_ambiente"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1125,7 +1125,8 @@
       "retrievedAt": "2026-10-22T03:22:14.493Z",
       "link": "https://oglobo.globo.com/economia/presidente-do-bb-diz-que-bolsonaro-pediu-queda-de-juros-em-tom-de-brincadeira-23630411",
       "topicIds": [
-        "economia_e_previdencia"
+        "banco_central_e_juros",
+        "privatizacoes_e_estatais"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1145,8 +1146,8 @@
       "retrievedAt": "2026-10-22T03:22:39.861Z",
       "link": "https://apublica.org/2019/04/encontramos-mais-cinco-ex-assessoras-de-bolsonaro-que-nem-pisaram-no-congresso/",
       "topicIds": [
-        "corrupcao_e_laranjas",
-        "congresso_e_politica"
+        "camara_dos_deputados",
+        "laranjas_e_funcionarios_fantasmas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1165,9 +1166,8 @@
       "retrievedAt": "2026-10-22T03:23:53.683Z",
       "link": "https://spbancarios.com.br/04/2019/bolsonaro-faz-apologia-exploracao-sexual-de-brasileiras",
       "topicIds": [
-        "direitos_humanos",
-        "igualdade_de_genero",
-        "direitos_lgbt"
+        "turismo",
+        "genero_e_mulheres"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1186,7 +1186,7 @@
       "link": "https://oglobo.globo.com/brasil/bolsonaro-diz-que-vai-mudar-patrono-da-educacao-brasileira-titulo-conferido-paulo-freire-23630439",
       "topicIds": [
         "educacao",
-        "governo_e_transicao"
+        "cultura"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1206,8 +1206,7 @@
       "retrievedAt": "2026-10-22T03:24:42.420Z",
       "link": "https://g1.globo.com/educacao/noticia/2019/04/26/bolsonaro-diz-que-mec-estuda-descentralizar-investimento-em-cursos-de-filosofia-e-sociologia.ghtml",
       "topicIds": [
-        "educacao",
-        "governo_e_transicao"
+        "educacao"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1226,8 +1225,8 @@
       "retrievedAt": "2026-10-22T12:38:50.801Z",
       "link": "https://oglobo.globo.com/politica/apos-declaracao-de-bolsonaro-sobre-tema-estados-lancam-campanhas-contra-turismo-sexual-23642854",
       "topicIds": [
-        "direitos_humanos",
-        "igualdade_de_genero"
+        "turismo",
+        "genero_e_mulheres"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1245,7 +1244,7 @@
       "retrievedAt": "2026-10-22T12:40:38.998Z",
       "link": "https://www.brasildefato.com.br/2019/05/03/bolsonaro-corta-95-do-orcamento-das-acoes-destinadas-a-combater-mudancas-climaticas/",
       "topicIds": [
-        "meio_ambiente",
+        "mudancas_climaticas",
         "orcamento_e_contas_publicas"
       ],
       "entityIds": [
@@ -1265,8 +1264,7 @@
       "retrievedAt": "2026-10-22T12:48:54.874Z",
       "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2019-05/bolsonaro-assina-novas-regras-para-atiradores-e-cacadores",
       "topicIds": [
-        "seguranca_publica_e_armas",
-        "governo_e_transicao"
+        "armas_e_decretos"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1284,9 +1282,8 @@
       "retrievedAt": "2026-10-22T12:49:05.925Z",
       "link": "https://blogs.oglobo.globo.com/bela-megale/post/governo-bolsonaro-exonera-primeira-mulher-nomeada-para-sua-equipe.html",
       "topicIds": [
-        "igualdade_de_genero",
         "administracao_publica",
-        "governo_e_transicao"
+        "genero_e_mulheres"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1306,7 +1303,7 @@
       "link": "https://oglobo.globo.com/politica/bolsonaro-diz-que-flavio-vitima-de-acusacao-politica-maldosa-23660321",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "familia_bolsonaro"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1327,7 +1324,7 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-05/bolsonaro-diz-que-meta-e-implantar-um-colegio-militar-em-cada-capital",
       "topicIds": [
         "educacao",
-        "militarismo_e_ditadura"
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1346,8 +1343,8 @@
       "retrievedAt": "2026-10-22T12:50:06.189Z",
       "link": "https://g1.globo.com/politica/noticia/2019/05/12/bolsonaro-diz-que-vai-indicar-sergio-moro-para-vaga-no-stf.ghtml",
       "topicIds": [
-        "justica_e_stf",
-        "congresso_e_politica"
+        "stf",
+        "senado_federal"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1369,8 +1366,7 @@
       "link": "https://www.andes.org.br/conteudos/noticia/bolsonaro-corta-bolsas-de-mestrado-doutorado-e-pos-doutorado1",
       "topicIds": [
         "educacao",
-        "orcamento_e_contas_publicas",
-        "governo_e_transicao"
+        "ciencia_e_pesquisa"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -1388,8 +1384,8 @@
       "retrievedAt": "2026-10-22T12:55:17.705Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-05/governo-bloqueia-r-58-bilhoes-do-orcamento-das-forcas-armadas",
       "topicIds": [
-        "orcamento_e_contas_publicas",
-        "governo_e_transicao"
+        "militares_e_forcas_armadas",
+        "orcamento_e_contas_publicas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1410,8 +1406,7 @@
       "retrievedAt": "2026-10-22T13:47:57.594Z",
       "link": "https://www1.folha.uol.com.br/poder/2019/05/bolsonaro-defende-olavo-e-diz-esperar-fim-de-embates-com-militares.shtml",
       "topicIds": [
-        "governo_e_transicao",
-        "militarismo_e_ditadura"
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1435,7 +1430,8 @@
       "link": "https://www1.folha.uol.com.br/ambiente/2019/05/bolsonaro-defende-revogacao-de-reserva-ecologica-para-estimular-turismo.shtml",
       "topicIds": [
         "meio_ambiente",
-        "governo_e_transicao"
+        "turismo",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1459,8 +1455,8 @@
       "link": "https://www.dw.com/pt-br/caso-queiroz-mant%C3%A9m-sombra-da-corrup%C3%A7%C3%A3o-sobre-cl%C3%A3-bolsonaro/a-48750997",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "governo_e_transicao"
+        "caso_queiroz",
+        "corrupcao_e_lavagem"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1484,8 +1480,8 @@
       "link": "https://www.cut.org.br/noticias/flavio-bolsonaro-tinha-organizacao-criminosa-em-gabinete-diz-mpf-1e9c",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "justica_e_stf"
+        "corrupcao_e_lavagem",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1508,9 +1504,8 @@
       "retrievedAt": "2026-10-22T13:53:50.264Z",
       "link": "https://oglobo.globo.com/epoca/os-13-parentes-de-jair-bolsonaro-nomeados-nos-gabinetes-da-familia-23665952",
       "topicIds": [
-        "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "administracao_publica"
+        "familia_bolsonaro",
+        "laranjas_e_funcionarios_fantasmas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1534,8 +1529,9 @@
       "link": "https://www.bbc.com/portuguese/brasil-48259927",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "justica_e_stf",
-        "corrupcao_e_laranjas"
+        "caso_queiroz",
+        "stf",
+        "justica_e_investigacoes"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -1558,8 +1554,8 @@
       "retrievedAt": "2026-10-22T13:56:21.144Z",
       "link": "https://valor.globo.com/politica/noticia/2019/05/13/bolsonaro-anuncia-reducao-de-90-de-normas-de-seguranca-no-trabalho.ghtml",
       "topicIds": [
-        "trabalho_e_renda",
-        "governo_e_transicao"
+        "administracao_publica",
+        "trabalho_e_renda"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1580,8 +1576,7 @@
       "link": "https://oglobo.globo.com/politica/mp-aponta-indicios-de-organizacao-criminosa-em-gabinete-de-flavio-bolsonaro-desde-2007-23668817",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "justica_e_stf"
+        "milicias_e_crime_organizado"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -1603,8 +1598,7 @@
       "link": "https://oglobo.globo.com/brasil/nos-eua-bolsonaro-chama-manifestantes-da-educacao-de-idiotas-uteis-23667150",
       "topicIds": [
         "educacao",
-        "governo_e_transicao",
-        "relacoes_exteriores"
+        "estados_unidos"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1624,7 +1618,7 @@
       "link": "https://oglobo.globo.com/epoca/patrimonio-de-flavio-bolsonaro-aumentou-3971-em-12-anos-23665550",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas"
+        "corrupcao_e_lavagem"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1647,8 +1641,8 @@
       "retrievedAt": "2026-10-22T14:12:48.365Z",
       "link": "https://oglobo.globo.com/politica/bolsonaro-critica-orgaos-de-fiscalizacao-controle-tudo-mp-se-mete-algumas-vezes-com-razao-outras-nao-23679295",
       "topicIds": [
-        "governo_e_transicao",
-        "administracao_publica"
+        "democracia_e_instituicoes",
+        "pgr_e_mpf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1668,7 +1662,8 @@
       "retrievedAt": "2026-10-22T14:16:03.337Z",
       "link": "https://www.congressoemfoco.com.br/noticia/25760/decreto-de-armas-de-jair-bolsonaro-libera-venda-de-fuzil-a-cidadao-comum",
       "topicIds": [
-        "educacao"
+        "armas_e_decretos",
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1688,8 +1683,7 @@
       "link": "https://oglobo.globo.com/politica/caso-flavio-bolsonaro-quebras-de-sigilo-atingem-tesoureiras-do-psl-do-rio-23683790",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "eleicoes_2018"
+        "partidos_politicos"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -1708,7 +1702,7 @@
       "retrievedAt": "2026-10-22T14:51:25.798Z",
       "link": "https://oglobo.globo.com/politica/bolsonaro-condecora-os-filhos-eduardo-flavio-pela-segunda-vez-em-menos-de-um-mes-23682462",
       "topicIds": [
-        "governo_e_transicao"
+        "familia_bolsonaro"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1731,7 +1725,7 @@
       "retrievedAt": "2026-10-22T15:00:02.050Z",
       "link": "https://www.migalhas.com.br/quentes/302817/bolsonaro-altera-decreto-de-armas-e-libera-porte-a-advogados",
       "topicIds": [
-        "direitos_humanos"
+        "armas_e_decretos"
       ],
       "entityIds": [],
       "preview": {
@@ -1747,8 +1741,8 @@
       "retrievedAt": "2026-10-22T15:03:56.962Z",
       "link": "https://www.bbc.com/portuguese/brasil-48391614",
       "topicIds": [
-        "seguranca_publica_e_armas",
-        "governo_e_transicao"
+        "armas_e_decretos",
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1771,7 +1765,8 @@
       "retrievedAt": "2026-10-22T15:04:12.367Z",
       "link": "https://www.congressoemfoco.com.br/noticia/32473/todos-os-nove-parentes-de-ex-madrasta-lotados-em-seu-gabinete-eram-qualificados-diz-flavio-bolsonaro",
       "topicIds": [
-        "educacao"
+        "caso_flavio_bolsonaro",
+        "laranjas_e_funcionarios_fantasmas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1793,9 +1788,9 @@
       "retrievedAt": "2026-10-22T15:04:27.843Z",
       "link": "https://www.bbc.com/portuguese/brasil-48402241",
       "topicIds": [
-        "meio_ambiente",
-        "direitos_humanos",
-        "relacoes_exteriores"
+        "relacoes_exteriores",
+        "mudancas_climaticas",
+        "estados_unidos"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1818,8 +1813,7 @@
       "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-empregou-assessores-que-recebiam-salario-mas-nao-tinham-cracha-ficavam-longe-da-alerj-23712490",
       "topicIds": [
         "caso_flavio_bolsonaro",
-        "corrupcao_e_laranjas",
-        "administracao_publica"
+        "laranjas_e_funcionarios_fantasmas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1842,9 +1836,8 @@
       "retrievedAt": "2026-10-22T15:05:26.846Z",
       "link": "https://oglobo.globo.com/politica/bolsonaro-diz-que-seria-ditador-se-vencesse-todas-as-pautas-no-congresso-23707288",
       "topicIds": [
-        "congresso_e_politica",
-        "governo_e_transicao",
-        "redes_sociais"
+        "democracia_e_instituicoes",
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1865,7 +1858,7 @@
       "retrievedAt": "2026-10-22T15:05:36.968Z",
       "link": "https://noticias.cancaonova.com/brasil/bolsonaro-recebe-dom-walmor-novo-presidente-da-cnbb/",
       "topicIds": [
-        "id_o6ob4rewy"
+        "religiao_e_politica"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1884,8 +1877,8 @@
       "retrievedAt": "2026-10-22T15:09:34.448Z",
       "link": "https://deolhonosruralistas.com.br/2019/06/06/flavio-bolsonaro-propoe-emenda-contra-a-funcao-social-da-terra/",
       "topicIds": [
-        "meio_ambiente",
-        "id_o6ob4rewy"
+        "reforma_agraria_e_agronegocio",
+        "senado_federal"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -1907,7 +1900,7 @@
       "link": "https://www.bbc.com/portuguese/brasil-48539977",
       "topicIds": [
         "relacoes_exteriores",
-        "governo_e_transicao"
+        "america_latina_e_mercosul"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1931,7 +1924,7 @@
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-06/bolsonaro-e-macri-se-reunem-em-buenos-aires-nesta-quinta-feira",
       "topicIds": [
         "relacoes_exteriores",
-        "governo_e_transicao"
+        "america_latina_e_mercosul"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1952,8 +1945,8 @@
       "retrievedAt": "2026-10-22T15:10:13.685Z",
       "link": "https://oglobo.globo.com/economia/bolsonaro-diz-que-moeda-unica-pode-ser-uma-trava-para-aventuras-socialistas-na-america-do-sul-23724623",
       "topicIds": [
-        "economia_e_previdencia",
-        "relacoes_exteriores"
+        "economia",
+        "america_latina_e_mercosul"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1973,8 +1966,8 @@
       "retrievedAt": "2026-10-22T15:10:48.429Z",
       "link": "https://oglobo.globo.com/politica/projeto-de-bolsonaro-acaba-com-multa-no-transporte-de-crianca-sem-cadeirinha-23717090",
       "topicIds": [
-        "congresso_e_politica",
-        "governo_e_transicao"
+        "infraestrutura_e_transportes",
+        "criancas_e_adolescentes"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -1993,9 +1986,8 @@
       "retrievedAt": "2026-10-22T15:11:30.238Z",
       "link": "https://veja.abril.com.br/politica/bolsonaro-veta-pena-mais-dura-a-quem-divulga-fake-news-em-eleicoes/",
       "topicIds": [
-        "eleicoes_2018",
-        "congresso_e_politica",
-        "imprensa_e_liberdade_de_expressao"
+        "redes_sociais_e_desinformacao",
+        "eleicoes_2020"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -2013,9 +2005,8 @@
       "retrievedAt": "2026-10-22T15:11:43.908Z",
       "link": "https://oglobo.globo.com/economia/bolsonaro-comemora-decisao-do-stf-que-libera-privatizacao-das-estatais-23723619",
       "topicIds": [
-        "justica_e_stf",
-        "economia_e_previdencia",
-        "governo_e_transicao"
+        "privatizacoes_e_estatais",
+        "stf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2034,9 +2025,8 @@
       "retrievedAt": "2026-10-22T15:18:34.726Z",
       "link": "https://www1.folha.uol.com.br/poder/2019/06/site-publica-mensagens-que-mostram-colaboracao-entre-moro-e-deltan-na-lava-jato.shtml",
       "topicIds": [
-        "justica_e_stf",
-        "corrupcao_e_laranjas",
-        "governo_e_transicao"
+        "justica_e_investigacoes",
+        "stf"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2059,7 +2049,8 @@
       "retrievedAt": "2026-10-22T15:36:06.665Z",
       "link": "https://blogs.correiobraziliense.com.br/vicente/flavio-bolsonaro-usa-carro-oficial-do-senado-para-ir-ao-shopping-no-fim-de-semana/",
       "topicIds": [
-        "id_o6ob4rewy"
+        "senado_federal",
+        "familia_bolsonaro"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2083,7 +2074,7 @@
       "link": "https://apublica.org/2019/06/jair-bolsonaro-exonera-todos-os-peritos-do-mecanismo-de-combate-a-tortura/",
       "topicIds": [
         "direitos_humanos",
-        "id_o6ob4rewy"
+        "administracao_publica"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2105,7 +2096,7 @@
       "retrievedAt": "2026-10-22T15:36:29.491Z",
       "link": "https://www.cartacapital.com.br/opiniao/a-cristologia-cristofascista-de-jair-bolsonaro/",
       "topicIds": [
-        "id_o6ob4rewy"
+        "religiao_e_politica"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2126,7 +2117,8 @@
       "retrievedAt": "2026-10-22T15:36:41.849Z",
       "link": "https://www.congressoemfoco.com.br/noticia/25620/general-santos-cruz-e-demitido-por-bolsonaro",
       "topicIds": [
-        "id_o6ob4rewy"
+        "administracao_publica",
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2147,7 +2139,8 @@
       "retrievedAt": "2026-10-22T17:27:37.393Z",
       "link": "https://x.com/jairbolsonaro/status/1141100416828096513",
       "topicIds": [
-        "id_o6ob4rewy"
+        "previdencia",
+        "orcamento_e_contas_publicas"
       ],
       "entityIds": [],
       "preview": {
@@ -2163,7 +2156,8 @@
       "retrievedAt": "2026-10-22T17:28:24.647Z",
       "link": "https://www.bbc.com/portuguese/brasil-48670698",
       "topicIds": [
-        "id_o6ob4rewy"
+        "armas_e_decretos",
+        "seguranca_publica"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2186,7 +2180,8 @@
       "retrievedAt": "2026-10-22T17:28:41.750Z",
       "link": "https://brasil.elpais.com/brasil/2019/06/18/politica/1560864965_530788.html",
       "topicIds": [
-        "id_o6ob4rewy"
+        "redes_sociais_e_desinformacao",
+        "eleicoes_2018"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2206,7 +2201,8 @@
       "retrievedAt": "2026-10-22T17:30:00.751Z",
       "link": "https://www12.senado.leg.br/noticias/materias/2019/06/17/bolsonaro-veta-isencao-de-cobranca-de-bagagem-em-voos-domesticos",
       "topicIds": [
-        "id_o6ob4rewy"
+        "infraestrutura_e_transportes",
+        "congresso_nacional"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2225,7 +2221,8 @@
       "retrievedAt": "2026-10-22T17:31:36.317Z",
       "link": "https://oglobo.globo.com/politica/na-marcha-para-jesus-bolsonaro-diz-que-tenta-reeleicao-se-povo-quiser-recebe-bencao-de-lideres-religiosos-23754013",
       "topicIds": [
-        "id_o6ob4rewy"
+        "religiao_e_politica",
+        "pesquisas_e_popularidade"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2245,7 +2242,8 @@
       "retrievedAt": "2026-10-22T17:32:57.129Z",
       "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-06/bolsonaro-revoga-decreto-de-armas-e-publica-novas-regras",
       "topicIds": [
-        "id_o6ob4rewy"
+        "armas_e_decretos",
+        "senado_federal"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2265,7 +2263,8 @@
       "retrievedAt": "2026-10-22T17:33:07.070Z",
       "link": "https://www1.folha.uol.com.br/poder/2019/06/de-bananas-a-cnh-relembre-obsessoes-de-bolsonaro-em-seus-seis-meses-de-governo.shtml",
       "topicIds": [
-        "id_o6ob4rewy"
+        "governo_bolsonaro",
+        "infraestrutura_e_transportes"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2288,7 +2287,8 @@
       "retrievedAt": "2026-10-22T17:34:18.022Z",
       "link": "https://g1.globo.com/politica/noticia/2019/06/29/com-media-de-13-decreto-por-dia-governo-bolsonaro-so-editou-menos-que-collor-em-seis-meses.ghtml",
       "topicIds": [
-        "id_o6ob4rewy"
+        "administracao_publica",
+        "governo_bolsonaro"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2308,7 +2308,9 @@
       "retrievedAt": "2026-10-22T17:35:58.231Z",
       "link": "https://oglobo.globo.com/rio/justica-proibe-artistas-de-rua-no-metro-apos-acao-de-flavio-bolsonaro-23761693",
       "topicIds": [
-        "id_o6ob4rewy"
+        "cultura",
+        "familia_bolsonaro",
+        "justica_e_investigacoes"
       ],
       "entityIds": [
         "flavio_bolsonaro",
@@ -2327,7 +2329,10 @@
       "retrievedAt": "2026-10-22T17:36:50.993Z",
       "link": "https://www.bbc.com/portuguese/internacional-48809137",
       "topicIds": [
-        "id_o6ob4rewy"
+        "america_latina_e_mercosul",
+        "comercio_exterior",
+        "meio_ambiente",
+        "mudancas_climaticas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2350,7 +2355,8 @@
       "retrievedAt": "2026-10-22T17:37:04.011Z",
       "link": "https://brasil.elpais.com/brasil/2019/06/26/politica/1561577623_739675.html",
       "topicIds": [
-        "id_o6ob4rewy"
+        "trafico_e_drogas",
+        "militares_e_forcas_armadas"
       ],
       "entityIds": [
         "jair_bolsonaro",
@@ -2373,7 +2379,7 @@
       "retrievedAt": "2026-10-22T17:37:42.558Z",
       "link": "https://brasil.elpais.com/brasil/2019/06/27/cultura/1561664077_032428.html",
       "topicIds": [
-        "id_o6ob4rewy"
+        "democracia_e_instituicoes"
       ],
       "entityIds": [
         "donald_trump",
@@ -2393,7 +2399,9 @@
       "retrievedAt": "2026-10-22T17:40:20.923Z",
       "link": "https://brasil.elpais.com/brasil/2019/06/27/politica/1561656006_263638.html",
       "topicIds": [
-        "id_o6ob4rewy"
+        "meio_ambiente",
+        "g20",
+        "relacoes_exteriores"
       ],
       "entityIds": [
         "jair_bolsonaro",

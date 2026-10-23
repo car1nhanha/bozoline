@@ -348,80 +348,228 @@
   ],
   "topics": [
     {
+      "id": "governo_bolsonaro",
+      "name": "Governo Bolsonaro"
+    },
+    {
+      "id": "transicao_presidencial",
+      "name": "Transição presidencial"
+    },
+    {
       "id": "eleicoes_2018",
       "name": "Eleições 2018"
     },
     {
-      "id": "governo_e_transicao",
-      "name": "Governo e transição"
+      "id": "eleicoes_2020",
+      "name": "Eleições 2020"
     },
     {
-      "id": "economia_e_previdencia",
-      "name": "Economia e Previdência"
+      "id": "pesquisas_e_popularidade",
+      "name": "Pesquisas e popularidade"
     },
     {
-      "id": "orcamento_e_contas_publicas",
-      "name": "Orçamento e contas públicas"
+      "id": "partidos_politicos",
+      "name": "Partidos políticos"
     },
     {
-      "id": "meio_ambiente",
-      "name": "Meio ambiente"
+      "id": "congresso_nacional",
+      "name": "Congresso Nacional"
     },
     {
-      "id": "educacao",
-      "name": "Educação"
+      "id": "camara_dos_deputados",
+      "name": "Câmara dos Deputados"
     },
     {
-      "id": "seguranca_publica_e_armas",
-      "name": "Segurança pública e armas"
+      "id": "senado_federal",
+      "name": "Senado Federal"
     },
     {
-      "id": "direitos_humanos",
-      "name": "Direitos humanos"
+      "id": "stf",
+      "name": "STF"
     },
     {
-      "id": "direitos_lgbt",
-      "name": "Direitos LGBT"
+      "id": "pgr_e_mpf",
+      "name": "PGR e MPF"
     },
     {
-      "id": "igualdade_de_genero",
-      "name": "Gênero e mulheres"
-    },
-    {
-      "id": "relacoes_exteriores",
-      "name": "Relações exteriores"
-    },
-    {
-      "id": "justica_e_stf",
-      "name": "Justiça e STF"
+      "id": "justica_e_investigacoes",
+      "name": "Justiça e investigações"
     },
     {
       "id": "caso_flavio_bolsonaro",
       "name": "Caso Flávio Bolsonaro"
     },
     {
-      "id": "corrupcao_e_laranjas",
-      "name": "Corrupção e laranjas"
+      "id": "caso_queiroz",
+      "name": "Caso Queiroz"
     },
     {
-      "id": "indigenas_e_reforma_agraria",
-      "name": "Indígenas e reforma agrária"
+      "id": "corrupcao_e_lavagem",
+      "name": "Corrupção e lavagem de dinheiro"
+    },
+    {
+      "id": "laranjas_e_funcionarios_fantasmas",
+      "name": "Laranjas e funcionários fantasmas"
+    },
+    {
+      "id": "milicias_e_crime_organizado",
+      "name": "Milícias e crime organizado"
+    },
+    {
+      "id": "familia_bolsonaro",
+      "name": "Família Bolsonaro"
+    },
+    {
+      "id": "administracao_publica",
+      "name": "Administração pública"
+    },
+    {
+      "id": "democracia_e_instituicoes",
+      "name": "Democracia e instituições"
+    },
+    {
+      "id": "armas_e_decretos",
+      "name": "Armas e decretos"
+    },
+    {
+      "id": "seguranca_publica",
+      "name": "Segurança pública"
+    },
+    {
+      "id": "violencia_policial",
+      "name": "Violência policial"
+    },
+    {
+      "id": "militares_e_forcas_armadas",
+      "name": "Militares e Forças Armadas"
+    },
+    {
+      "id": "ditadura_e_ai5",
+      "name": "Ditadura e AI-5"
+    },
+    {
+      "id": "povos_indigenas",
+      "name": "Povos indígenas"
+    },
+    {
+      "id": "reforma_agraria_e_agronegocio",
+      "name": "Reforma agrária e agronegócio"
+    },
+    {
+      "id": "mineracao_e_garimpo",
+      "name": "Mineração e garimpo"
+    },
+    {
+      "id": "meio_ambiente",
+      "name": "Meio ambiente"
+    },
+    {
+      "id": "amazonia_e_desmatamento",
+      "name": "Amazônia e desmatamento"
+    },
+    {
+      "id": "mudancas_climaticas",
+      "name": "Mudanças climáticas"
+    },
+    {
+      "id": "energia_e_petroleo",
+      "name": "Energia e petróleo"
+    },
+    {
+      "id": "educacao",
+      "name": "Educação"
+    },
+    {
+      "id": "ciencia_e_pesquisa",
+      "name": "Ciência e pesquisa"
+    },
+    {
+      "id": "saude",
+      "name": "Saúde"
+    },
+    {
+      "id": "genero_e_mulheres",
+      "name": "Gênero e mulheres"
+    },
+    {
+      "id": "direitos_lgbt",
+      "name": "Direitos LGBT"
+    },
+    {
+      "id": "direitos_humanos",
+      "name": "Direitos humanos"
+    },
+    {
+      "id": "criancas_e_adolescentes",
+      "name": "Crianças e adolescentes"
     },
     {
       "id": "imprensa_e_liberdade_de_expressao",
       "name": "Imprensa e liberdade de expressão"
     },
     {
-      "id": "militarismo_e_ditadura",
-      "name": "Militarismo e ditadura"
+      "id": "redes_sociais_e_desinformacao",
+      "name": "Redes sociais e desinformação"
     },
     {
-      "id": "congresso_e_politica",
-      "name": "Congresso e política"
+      "id": "religiao_e_politica",
+      "name": "Religião e política"
     },
     {
-      "id": "redes_sociais",
-      "name": "Redes sociais e comunicação"
+      "id": "relacoes_exteriores",
+      "name": "Relações exteriores"
+    },
+    {
+      "id": "estados_unidos",
+      "name": "Estados Unidos"
+    },
+    {
+      "id": "america_latina_e_mercosul",
+      "name": "América Latina e Mercosul"
+    },
+    {
+      "id": "israel_e_oriente_medio",
+      "name": "Israel e Oriente Médio"
+    },
+    {
+      "id": "china",
+      "name": "China"
+    },
+    {
+      "id": "onu",
+      "name": "ONU"
+    },
+    {
+      "id": "ocde",
+      "name": "OCDE"
+    },
+    {
+      "id": "brics",
+      "name": "BRICS"
+    },
+    {
+      "id": "g20",
+      "name": "G20"
+    },
+    {
+      "id": "economia",
+      "name": "Economia"
+    },
+    {
+      "id": "previdencia",
+      "name": "Previdência"
+    },
+    {
+      "id": "banco_central_e_juros",
+      "name": "Banco Central e juros"
+    },
+    {
+      "id": "privatizacoes_e_estatais",
+      "name": "Privatizações e estatais"
+    },
+    {
+      "id": "orcamento_e_contas_publicas",
+      "name": "Orçamento e contas públicas"
     },
     {
       "id": "trabalho_e_renda",
@@ -432,32 +580,28 @@
       "name": "Assistência social"
     },
     {
-      "id": "administracao_publica",
-      "name": "Administração pública"
-    },
-    {
-      "id": "saude",
-      "name": "Saúde"
-    },
-    {
-      "id": "religiao_e_politica",
-      "name": "Religião e política"
-    },
-    {
-      "id": "twitter",
-      "name": "Twitter/X"
-    },
-    {
-      "id": "id_o6ob4rewy",
-      "name": "Política"
-    },
-    {
-      "id": "id_16uc3xm1y",
-      "name": "Economia"
-    },
-    {
-      "id": "id_ydtfhei06",
+      "id": "cultura",
       "name": "Cultura"
+    },
+    {
+      "id": "turismo",
+      "name": "Turismo"
+    },
+    {
+      "id": "infraestrutura_e_transportes",
+      "name": "Infraestrutura e transportes"
+    },
+    {
+      "id": "trafico_e_drogas",
+      "name": "Tráfico e drogas"
+    },
+    {
+      "id": "tecnologia_e_5g",
+      "name": "Tecnologia e 5G"
+    },
+    {
+      "id": "comercio_exterior",
+      "name": "Comércio exterior"
     }
   ],
   "markers": [

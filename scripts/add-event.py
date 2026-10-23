@@ -624,7 +624,7 @@ Regras:
 - title: título curto, factual e específico do acontecimento principal, em português.
 - description: 1 a 3 frases objetivas em português explicando o que aconteceu, quem e quando.
 - occurredAt: data e hora do acontecimento principal em UTC. Se houver apenas a data, use 12:00:00.000Z. Se a data do acontecimento não estiver explícita, use a data de publicação.
-- topics: de 1 a 4 temas amplos, em português. Reutilize exatamente um tema existente quando ele cobrir o assunto. Se nenhum tema existente servir, crie um tema novo, curto e específico (2 a 5 palavras).
+- topics: de 1 a 4 temas específicos, em português. Reutilize exatamente um tema existente quando ele cobrir o assunto. Se nenhum tema existente servir, crie um tema novo, curto e específico (2 a 5 palavras).
 - Inclua um tema somente quando ele for central para o acontecimento. Não use temas que aparecem apenas em menus, rodapés, links relacionados ou seções do site.
 - Use Saúde somente quando o fato principal envolver saúde pública, doença, atendimento médico, vacinação, medicamentos ou vigilância sanitária.
 - entities: de 1 a 6 pessoas, organizações ou países centrais para a matéria. Reutilize exatamente o nome de um envolvido existente quando for a mesma pessoa/organização/país.
@@ -1007,16 +1007,16 @@ def local_taxonomy(
 
 def fallback_topic(page: Page) -> str:
     sections = {
-        "politica": "Política",
+        "politica": "Governo Bolsonaro",
         "economia": "Economia",
         "mundo": "Relações exteriores",
         "internacional": "Relações exteriores",
-        "brasil": "Política",
+        "brasil": "Governo Bolsonaro",
         "educacao": "Educação",
         "saude": "Saúde",
         "meio ambiente": "Meio ambiente",
         "ambiente": "Meio ambiente",
-        "tecnologia": "Tecnologia",
+        "tecnologia": "Tecnologia e 5G",
         "esportes": "Esportes",
         "cultura": "Cultura",
     }
@@ -1024,7 +1024,7 @@ def fallback_topic(page: Page) -> str:
         key = normalized(segment)
         if key in sections:
             return sections[key]
-    return "Política"
+    return "Governo Bolsonaro"
 
 
 def fallback_description(page: Page) -> str:

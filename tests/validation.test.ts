@@ -9,7 +9,7 @@ describe('parseTimelineData', () => {
     expect(data.entities.length).toBeGreaterThan(0)
     expect(data.topics.length).toBeGreaterThan(0)
     expect(data.entities.some((entity) => entity.kind === 'person')).toBe(true)
-    expect(data.topics.some((topic) => topic.id === 'twitter')).toBe(true)
+    expect(data.topics.some((topic) => topic.id === 'redes_sociais_e_desinformacao')).toBe(true)
   })
 
 

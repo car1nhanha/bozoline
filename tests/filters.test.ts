@@ -18,9 +18,9 @@ function event(
 }
 
 const events = [
-  event('jair-twitter', ['jair'], ['twitter']),
+  event('jair-redes', ['jair'], ['redes_sociais_e_desinformacao']),
   event('jair-economia', ['jair'], ['economia']),
-  event('flavio-twitter', ['flavio'], ['twitter']),
+  event('flavio-redes', ['flavio'], ['redes_sociais_e_desinformacao']),
   event('flavio-justica', ['flavio'], ['justica']),
 ]
 
@@ -33,25 +33,25 @@ describe('filterEvents', () => {
     expect(
       filterEvents(events, {
         entityIds: ['jair', 'flavio'],
-        topicIds: ['twitter'],
+        topicIds: ['redes_sociais_e_desinformacao'],
       }).map((entry) => entry.id),
-    ).toEqual(['jair-twitter', 'flavio-twitter'])
+    ).toEqual(['jair-redes', 'flavio-redes'])
 
     expect(
       filterEvents(events, {
         entityIds: ['jair'],
-        topicIds: ['twitter', 'economia'],
+        topicIds: ['redes_sociais_e_desinformacao', 'economia'],
       }).map((entry) => entry.id),
-    ).toEqual(['jair-twitter', 'jair-economia'])
+    ).toEqual(['jair-redes', 'jair-economia'])
   })
 
   it('requires entity and topic filters to match together', () => {
     expect(
       filterEvents(events, {
         entityIds: ['flavio'],
-        topicIds: ['twitter'],
+        topicIds: ['redes_sociais_e_desinformacao'],
       }).map((entry) => entry.id),
-    ).toEqual(['flavio-twitter'])
+    ).toEqual(['flavio-redes'])
 
     expect(
       filterEvents(events, {

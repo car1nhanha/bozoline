@@ -41,7 +41,7 @@ export interface TimelineConfig {
 export const TIMELINE_CONFIG: TimelineConfig = {
   cards: {
     // Até este nível de zoom (inclusive), os cards aparecem no modo compacto.
-    compactUntilZoom: 100,
+    compactUntilZoom: 200,
     // Ao clicar em um card compacto, o zoom pula para compactUntilZoom + este valor.
     compactFocusZoomOffset: 1,
     // Quantidade máxima de faixas de cards acima e abaixo do eixo.
@@ -69,7 +69,7 @@ export const TIMELINE_CONFIG: TimelineConfig = {
     // Nível mínimo de zoom em relação ao enquadramento geral.
     minLevel: 0.85 / 3,
     // Nível máximo de zoom em relação ao enquadramento geral.
-    maxLevel: 200,
+    maxLevel: 400,
     // Escala absoluta mínima para telas ou timelines muito extensas.
     minAbsoluteScale: 0.001,
     // Fator de zoom ao clicar no indicador de eventos ocultos.
