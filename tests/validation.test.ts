@@ -1,15 +1,65 @@
 import { describe, expect, it } from 'vitest'
-import timelineJson from '../src/data/timeline.json'
+import { loadTimelineInput } from '../src/lib/timelineData'
 import { parseTimelineData, TimelineDataError } from '../src/lib/validation'
 
 describe('parseTimelineData', () => {
   it('accepts the bundled timeline', () => {
-    const data = parseTimelineData(timelineJson)
+    const data = parseTimelineData(loadTimelineInput())
     expect(data.events.length).toBeGreaterThan(0)
     expect(data.entities.length).toBeGreaterThan(0)
     expect(data.topics.length).toBeGreaterThan(0)
     expect(data.entities.some((entity) => entity.kind === 'person')).toBe(true)
     expect(data.topics.some((topic) => topic.id === 'twitter')).toBe(true)
+  })
+
+
+  it('accepts events with content only in the preview', () => {
+    const data = parseTimelineData({
+      entities: [],
+      topics: [],
+      events: [
+        {
+          id: 'event',
+          occurredAt: '2024-01-01',
+          retrievedAt: '2024-01-02',
+          link: 'https://example.com/materia',
+          preview: {
+            title: 'Título da matéria',
+            description: 'Descrição da matéria',
+            image: 'https://example.com/capa.jpg',
+            site: 'Exemplo',
+          },
+          topicIds: [],
+          entityIds: [],
+        },
+      ],
+    })
+
+    expect(data.events[0]?.title).toBeUndefined()
+    expect(data.events[0]?.preview?.title).toBe('Título da matéria')
+  })
+
+  it('accepts empty optional content fields', () => {
+    const data = parseTimelineData({
+      entities: [],
+      topics: [],
+      events: [
+        {
+          id: 'event',
+          title: '',
+          description: '',
+          coverImage: '',
+          occurredAt: '2024-01-01',
+          retrievedAt: '2024-01-02',
+          topicIds: [],
+          entityIds: [],
+        },
+      ],
+    })
+
+    expect(data.events[0]?.title).toBeUndefined()
+    expect(data.events[0]?.description).toBeUndefined()
+    expect(data.events[0]?.coverImage).toBeUndefined()
   })
 
   it('rejects invalid entity kinds', () => {

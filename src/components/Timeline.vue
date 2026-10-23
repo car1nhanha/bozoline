@@ -2,27 +2,18 @@
 import { computed, onBeforeUnmount, onMounted, ref, watch } from "vue";
 import { buildAxisScale, buildMonthBands } from "../lib/axis";
 import { DAY_MS, formatRange, parseTimelineDate } from "../lib/dates";
+import { eventTitle } from "../lib/eventContent";
 import { filterEvents } from "../lib/filters";
 import { getTimelineBounds, placeEvents } from "../lib/layout";
 import { loadTimelineView, saveTimelineView } from "../lib/viewState";
+import { TIMELINE_CONFIG } from "../timeline.config";
 import type { TimelineData, TimelineEvent } from "../types";
 import EventCard from "./EventCard.vue";
 
 const props = defineProps<{ data: TimelineData }>();
 
-const CARD_GAP = 26;
-const ZOOM_RANGE_MULTIPLIER = 3;
-const MAX_SCALE = 140 * ZOOM_RANGE_MULTIPLIER;
-const MIN_SCALE_RATIO = 0.85 / ZOOM_RANGE_MULTIPLIER;
-const MIN_ABS_SCALE = 0.001;
-const SMALL_SCREEN = 720;
-const VIEW_SAVE_DELAY = 180;
-const COMPACT_ROW_STEP = 128;
-const FULL_CARD_ZOOM = 10;
-const CARD_FOCUS_ZOOM = 20;
-const MAX_ROWS_PER_SIDE = 3;
-const VIEW_MARGIN = 24;
-const AXIS_GAP_ESTIMATE = 38;
+const { cards, zoom, layout } = TIMELINE_CONFIG;
+const cardFocusZoom = cards.compactUntilZoom + cards.compactFocusZoomOffset;
 
 const stage = ref<HTMLDivElement | null>(null);
 const viewportWidth = ref(0);
@@ -38,15 +29,25 @@ const fullscreenSupported = typeof document !== "undefined" && document.fullscre
 
 const bounds = computed(() => getTimelineBounds(props.data.events, props.data.markers));
 const spanDays = computed(() => bounds.value.spanDays);
-const cardWidth = computed(() => (viewportWidth.value < 680 ? 264 : 304));
-const leftPad = computed(() => cardWidth.value / 2 + 48);
-const rightPad = computed(() => leftPad.value + 24);
+const cardWidth = computed(() =>
+  viewportWidth.value < cards.narrowBreakpoint ? cards.narrowWidth : cards.width,
+);
+const leftPad = computed(() => cardWidth.value / 2 + layout.edgePadding);
+const rightPad = computed(() => leftPad.value + layout.extraRightPadding);
 const contentWidth = computed(() => leftPad.value + rightPad.value + spanDays.value * pxPerDay.value);
 const fitScale = computed(() => {
-  const available = Math.max(140, viewportWidth.value - leftPad.value - rightPad.value);
+  const available = Math.max(
+    layout.minFitWidth,
+    viewportWidth.value - leftPad.value - rightPad.value,
+  );
   return available / spanDays.value;
 });
-const minScale = computed(() => Math.max(MIN_ABS_SCALE, fitScale.value * MIN_SCALE_RATIO));
+const minScale = computed(() =>
+  Math.max(zoom.minAbsoluteScale, fitScale.value * zoom.minLevel),
+);
+const maxScale = computed(() =>
+  Math.max(zoom.minAbsoluteScale, fitScale.value * zoom.maxLevel),
+);
 const zoomLabel = computed(() => `${(pxPerDay.value / fitScale.value).toFixed(1).replace(".", ",")}×`);
 const rangeLabel = computed(() => formatRange(bounds.value.startTime, bounds.value.endTime));
 const people = computed(() =>
@@ -73,11 +74,24 @@ const eventCountLabel = computed(() => {
   }
   return `${count} ${count === 1 ? "evento" : "eventos"}`;
 });
-const rowsPerSide = computed(() => {
-  const available = viewportHeight.value / 2 - AXIS_GAP_ESTIMATE - VIEW_MARGIN;
-  return Math.max(1, Math.min(MAX_ROWS_PER_SIDE, Math.floor(available / COMPACT_ROW_STEP)));
+const rowsAvailableHeight = computed(
+  () => viewportHeight.value / 2 - layout.axisGapEstimate - layout.viewMargin,
+);
+const compactRowStep = computed(() => {
+  const fittedStep = rowsAvailableHeight.value / cards.maxRowsPerSide;
+  return Math.max(cards.minRowStep, Math.min(cards.rowStep, fittedStep));
 });
-const compact = computed(() => pxPerDay.value <= fitScale.value * FULL_CARD_ZOOM);
+const rowsPerSide = computed(() =>
+  Math.max(
+    1,
+    Math.min(
+      cards.maxRowsPerSide,
+      Math.floor(rowsAvailableHeight.value / compactRowStep.value),
+    ),
+  ),
+);
+const compact = computed(() => pxPerDay.value <= fitScale.value * cards.compactUntilZoom);
+const denseCompact = computed(() => compactRowStep.value < cards.denseRowStep);
 const rowCount = computed(() => (compact.value ? rowsPerSide.value : 1));
 
 const placements = computed(() =>
@@ -86,7 +100,7 @@ const placements = computed(() =>
     pxPerDay: pxPerDay.value,
     leftPad: leftPad.value,
     cardWidth: cardWidth.value,
-    gap: CARD_GAP,
+    gap: cards.gap,
     rows: rowCount.value,
   }),
 );
@@ -150,8 +164,11 @@ function fitView(): void {
 }
 
 function focusLatest(): void {
-  const preferred = Math.max(fitScale.value * 3, 2.4);
-  pxPerDay.value = Math.min(MAX_SCALE, Math.max(minScale.value, preferred));
+  const preferred = Math.max(
+    fitScale.value * layout.initialMobileZoom,
+    layout.initialMobileMinScale,
+  );
+  pxPerDay.value = Math.min(maxScale.value, Math.max(minScale.value, preferred));
   const latestX = leftPad.value + ((bounds.value.endTime - bounds.value.startTime) / DAY_MS) * pxPerDay.value;
   offset.value = viewportWidth.value * 0.5 - latestX;
 }
@@ -189,8 +206,8 @@ function toggleFullscreen(): void {
 function focusEvent(event: TimelineEvent): void {
   const time = parseTimelineDate(event.occurredAt);
   const targetScale = Math.min(
-    MAX_SCALE,
-    Math.max(minScale.value, fitScale.value * CARD_FOCUS_ZOOM),
+    maxScale.value,
+    Math.max(minScale.value, fitScale.value * cardFocusZoom),
   );
   const eventX = leftPad.value + ((time - bounds.value.startTime) / DAY_MS) * targetScale;
 
@@ -198,9 +215,9 @@ function focusEvent(event: TimelineEvent): void {
   offset.value = viewportWidth.value / 2 - eventX;
 }
 
-function zoomAt(factor: number, clientX?: number): void {
+function setZoom(target: number, clientX?: number): void {
   const previous = pxPerDay.value;
-  const next = Math.min(MAX_SCALE, Math.max(minScale.value, previous * factor));
+  const next = Math.min(maxScale.value, Math.max(minScale.value, target));
   if (Math.abs(next - previous) < 1e-6) return;
 
   const rect = stage.value?.getBoundingClientRect();
@@ -211,6 +228,16 @@ function zoomAt(factor: number, clientX?: number): void {
 
   pxPerDay.value = next;
   offset.value = nextOffset;
+}
+
+function zoomAt(factor: number, clientX?: number): void {
+  setZoom(pxPerDay.value * factor, clientX);
+}
+
+function stepZoom(direction: 1 | -1): void {
+  const currentLevel = pxPerDay.value / fitScale.value;
+  const targetLevel = currentLevel + direction * zoom.buttonStep;
+  setZoom(targetLevel * fitScale.value);
 }
 
 function panBy(direction: number): void {
@@ -283,7 +310,7 @@ function onWheel(event: WheelEvent): void {
       : event.deltaMode === WheelEvent.DOM_DELTA_PAGE
         ? viewportWidth.value
         : 1;
-  const factor = Math.exp(-event.deltaY * unit * 0.0025);
+  const factor = Math.exp(-event.deltaY * unit * zoom.wheelSensitivity);
   zoomAt(factor, event.clientX);
 }
 
@@ -300,11 +327,11 @@ function onKeydown(event: KeyboardEvent): void {
   switch (event.key) {
     case "+":
     case "=":
-      zoomAt(1.45);
+      stepZoom(1);
       break;
     case "-":
     case "_":
-      zoomAt(1 / 1.45);
+      stepZoom(-1);
       break;
     case "0":
       fitView();
@@ -341,10 +368,10 @@ function handleResize(): void {
   viewportHeight.value = nextHeight;
   if (!widthChanged || !initialized.value) return;
 
-  if (pxPerDay.value < fitScale.value * MIN_SCALE_RATIO) {
+  if (pxPerDay.value < fitScale.value * zoom.minLevel) {
     pxPerDay.value = fitScale.value;
   }
-  if (pxPerDay.value > MAX_SCALE) pxPerDay.value = MAX_SCALE;
+  if (pxPerDay.value > maxScale.value) pxPerDay.value = maxScale.value;
 
   const centerShift = (nextWidth - previousWidth) / 2;
   offset.value -= centerShift;
@@ -354,7 +381,7 @@ function restoreView(): boolean {
   const saved = loadTimelineView();
   if (!saved) return false;
 
-  pxPerDay.value = Math.min(MAX_SCALE, Math.max(minScale.value, saved.pxPerDay));
+  pxPerDay.value = Math.min(maxScale.value, Math.max(minScale.value, saved.pxPerDay));
   offset.value = saved.offset;
   return true;
 }
@@ -369,7 +396,7 @@ function persistView(): void {
 watch([pxPerDay, offset], () => {
   if (!initialized.value) return;
   window.clearTimeout(saveTimer);
-  saveTimer = window.setTimeout(persistView, VIEW_SAVE_DELAY);
+  saveTimer = window.setTimeout(persistView, layout.viewSaveDelay);
 });
 
 let resizeObserver: ResizeObserver | null = null;
@@ -387,7 +414,7 @@ onMounted(() => {
       return;
     }
     if (!restoreView()) {
-      if (viewportWidth.value < SMALL_SCREEN) {
+      if (viewportWidth.value < layout.smallScreenWidth) {
         focusLatest();
       } else {
         fitView();
@@ -431,6 +458,10 @@ onBeforeUnmount(() => {
       ref="stage"
       class="timeline-stage"
       :class="{ 'is-dragging': dragging }"
+      :style="{
+        '--compact-row-step': `${compactRowStep}px`,
+        '--axis-gap': `${layout.axisGapEstimate}px`,
+      }"
       title="Arraste para navegar · deslize dois dedos na vertical para dar zoom"
       @pointerdown="onPointerDown"
       @pointermove="onPointerMove"
@@ -493,7 +524,7 @@ onBeforeUnmount(() => {
           :key="`hidden-${placement.event.id}`"
           class="hidden-marker"
           :style="{ left: `${placement.centerX}px` }"
-          :title="`${placement.event.title} — oculto neste nível de zoom`"
+          :title="`${eventTitle(placement.event)} — oculto neste nível de zoom`"
         >
           <span class="hidden-dot" />
         </div>
@@ -507,7 +538,7 @@ onBeforeUnmount(() => {
             left: `${placement.centerX}px`,
             width: `${cardWidth}px`,
             zIndex: 10 - placement.row,
-            '--row-offset': `${placement.row * COMPACT_ROW_STEP}px`,
+            '--row-offset': `${placement.row * compactRowStep}px`,
           }"
         >
           <span class="event-stem" />
@@ -518,6 +549,7 @@ onBeforeUnmount(() => {
               :entities="data.entities"
               :topics="data.topics"
               :compact="compact"
+              :dense="denseCompact"
               @zoom="focusEvent(placement.event)"
             />
           </div>
@@ -600,7 +632,7 @@ onBeforeUnmount(() => {
       <div v-if="data.events.length === 0" class="empty-state">
         <p class="empty-kicker">Linha do tempo vazia</p>
         <h2>Nenhum evento ainda</h2>
-        <p>Adicione entradas em <code>src/data/timeline.json</code>.</p>
+        <p>Adicione entradas nos arquivos <code>src/data/events-*.json</code>.</p>
       </div>
 
       <div v-else-if="filteredEvents.length === 0" class="empty-state">
@@ -629,14 +661,14 @@ onBeforeUnmount(() => {
           type="button"
           class="hidden-button"
           :title="`${hiddenPlacements.length} eventos ocultos neste zoom — clique para ampliar`"
-          @click="zoomAt(1.8)"
+          @click="zoomAt(zoom.hiddenEventsStep)"
         >
           <span class="hidden-pulse" />
           {{ hiddenPlacements.length }}
         </button>
         <span v-if="hiddenPlacements.length > 0" class="zoom-divider" />
-        <button type="button" class="zoom-button" aria-label="Diminuir zoom" @click="zoomAt(1 / 1.45)">−</button>
-        <button type="button" class="zoom-button" aria-label="Aumentar zoom" @click="zoomAt(1.45)">+</button>
+        <button type="button" class="zoom-button" aria-label="Diminuir zoom" @click="stepZoom(-1)">−</button>
+        <button type="button" class="zoom-button" aria-label="Aumentar zoom" @click="stepZoom(1)">+</button>
         <span class="zoom-level" title="Nível de zoom">{{ zoomLabel }}</span>
         <span class="zoom-divider" />
         <button type="button" class="fit-button" @click="fitView">Ajustar</button>
@@ -1282,7 +1314,6 @@ onBeforeUnmount(() => {
 
 @media (max-height: 840px) {
   .timeline-stage {
-    --axis-gap: 32px;
     --media-height: 132px;
   }
 
@@ -1294,7 +1325,6 @@ onBeforeUnmount(() => {
 
 @media (max-height: 720px) {
   .timeline-stage {
-    --axis-gap: 26px;
     --media-height: 112px;
   }
 

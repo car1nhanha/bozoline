@@ -1,0 +1,2412 @@
+{
+  "events": [
+    {
+      "id": "id_pt54an1y4",
+      "occurredAt": "2019-01-03T01:01:04.895Z",
+      "retrievedAt": "2026-10-22T01:01:04.895Z",
+      "link": "https://andes.org.br/conteudos/noticia/bolsonaro-exclui-lGBT-de-diretrizes-de-direitos-humanos1",
+      "topicIds": [
+        "direitos_humanos",
+        "direitos_lgbt",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR",
+        "description": "A Medida Provisória (MP) 870/19 exclui a população LGBT da lista de...",
+        "image": "https://www.andes.org.br/img/midias/ce8e7289591fa8ba825efa2ac10ec932_1546534986.jpg",
+        "site": "ANDES-SN"
+      }
+    },
+    {
+      "id": "id_3vuq2uxoa",
+      "occurredAt": "2019-01-02T22:26:10.000Z",
+      "retrievedAt": "2026-10-22T01:08:58.101Z",
+      "link": "https://www.viomundo.com.br/politica/depois-do-marketing-da-primeira-dama-com-discurso-em-libras-governo-bolsonaro-extingue-secretaria-da-educacao-de-surdos.html",
+      "topicIds": [
+        "educacao",
+        "direitos_humanos",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "mec"
+      ],
+      "preview": {
+        "title": "MEC extingue secretaria que cuidava da educação de surdos, diz PT, mas governo afirma que houve transferência",
+        "description": "Sinais vazios",
+        "image": "https://www.viomundo.com.br/wp-content/uploads/2019/01/mcmgo-abr-010120192515.jpg",
+        "site": "Viomundo"
+      }
+    },
+    {
+      "id": "id_xta93nd6l",
+      "occurredAt": "2019-01-08T12:25:37.000Z",
+      "retrievedAt": "2026-10-22T01:15:21.889Z",
+      "link": "https://reporterbrasil.org.br/2019/01/governo-bolsonaro-suspende-reforma-agraria-por-tempo-indeterminado/",
+      "topicIds": [
+        "indigenas_e_reforma_agraria",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "incra",
+        "alessandra_munduruku",
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "O secretário ruralista Temo perder a Constituição e o STF, diz líder indígena Alessandra Munduruku",
+        "description": "Documentos distribuídos às superintendências do Incra determinam interrupção da compra e demarcação de terras para a criação de assentamentos. Órgão diz que medida é temporária, mas não informa quanto tempo ficará em vigor",
+        "image": "https://reporterbrasil.org.br/wp-content/uploads/2019/01/Anapu-menor_lunaeparracho.jpg",
+        "site": "Repórter Brasil"
+      }
+    },
+    {
+      "id": "id_daxgs1sex",
+      "occurredAt": "2019-01-10T21:08:00.000Z",
+      "retrievedAt": "2026-10-22T01:15:50.775Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-01/flavio-bolsonaro-se-dispoe-prestar-esclarecimentos-ao-mprj",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "mprj"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro se dispõe a prestar esclarecimentos ao MPRJ",
+        "description": "O deputado estadual e senador eleito Flávio Bolsonaro (PSL-RJ) pediu ao Ministério Público do Rio de Janeiro (MPRJ) uma cópia integral da investigação sobre as movimentações financeiras de funcionários do seu gabinete na Assembleia Legislativa do Rio de Janeiro (Alerj), apontadas no relatório do Conselho de Controle de Atividades Financeiras (Coaf). O deputado estadual e senador eleito pelo Rio de Janeiro Flávio Bolsonaro - Tânia Rêgo/Arquivo/Agência Brasil A solicitação foi divulgada hoje (10) pelo MPRJ.",
+        "image": "https://imagens.ebc.com.br/2uixfYIizbSisrwUuDkd19k68-8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_0709184585.jpg?itok=lZocEg-8",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_6ychar8lq",
+      "occurredAt": "2019-01-15T18:24:15.000Z",
+      "retrievedAt": "2026-10-22T01:18:17.482Z",
+      "link": "https://www.bbc.com/portuguese/brasil-46832821",
+      "topicIds": [
+        "seguranca_publica_e_armas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Decreto de Bolsonaro facilita posse de arma; entenda como funciona a lei e o que muda agora",
+        "description": "Presidente Jair Bolsonaro altera o texto do Estatuto do Desarmamento, aprovado em 2003. A BBC News Brasil explica o que é o estatuto, qual é sua eficácia, o que muda a partir de agora e quais são os próximos passos na discussão de acesso a armas no Brasil.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/154FD/production/_105139278_e984296c-3d67-4a07-b375-50976192944f.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_jvfpv535r",
+      "occurredAt": "2019-01-17T16:22:00.000Z",
+      "retrievedAt": "2026-10-22T01:18:40.715Z",
+      "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-pediu-para-stf-anular-provas-no-caso-do-coaf-23380012",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "stf",
+        "luiz_fux",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro pediu para STF anular provas no caso do Coaf",
+        "description": "Em decisão, Fux afirma que MP 'teria solicitado' ao Coaf informações sobre deputado estadual",
+        "image": "https://ogimg.infoglobo.com.br/in/23380017-519-b87/FT1086A/760/80680248_FILE-PHOTO-Flavio-Bolsonaro-son-of-Brazils-President-Jair-Bolsonaro-is-seen-behind-him.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_00oz10gi5",
+      "occurredAt": "2019-01-18T21:52:00.000Z",
+      "retrievedAt": "2026-10-22T01:18:59.895Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/01/coaf-aponta-48-depositos-suspeitos-na-conta-de-flavio-bolsonaro.shtml",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Coaf aponta 48 depósitos suspeitos na conta de Flávio Bolsonaro, diz TV",
+        "description": "Segundo reportagem, filho do presidente teria recebido R$ 96 mil em cinco dias; valor depositado era sempre de R$ 2.000",
+        "image": "https://f.i.uol.com.br/fotografia/2019/01/17/15477635445c40ff5826d62_1547763544_3x2_xl.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_q0eccbowg",
+      "occurredAt": "2019-01-18T11:36:00.000Z",
+      "retrievedAt": "2026-10-22T01:19:29.072Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-01/bolsonaro-concede-ordem-nacional-do-cruzeiro-do-sul-netanyahu",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "benjamin_netanyahu",
+        "israel"
+      ],
+      "preview": {
+        "title": "Bolsonaro concede Ordem Nacional do Cruzeiro do Sul a Netanyahu",
+        "description": "O presidente Jair Bolsonaro concedeu a Ordem Nacional do Cruzeiro do Sul, no grau de Grã-Cruz, ao primeiro-ministro de Israel, Benjamin Netanyahu. O decreto com a concessão foi publicado no Diário Oficial da União de hoje (18). A concessão ocorre menos de um mês depois da primeira visita de Netanyahu ao Brasil. Na ocasião, ele classificou o país como “grande potência”, lembrando que reúne a quinta maior população mundial. A mensagem foi postada em sua conta no Twitter. “É uma grande mudança com Bolsonaro.",
+        "image": "https://imagens.ebc.com.br/gjHNmu-xcDuBvbVnVjUc4A1ONHs=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_2812189336_0.jpg?itok=Y1y3j5Uj",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_yis9dvlmw",
+      "occurredAt": "2019-01-22T10:26:00.000Z",
+      "retrievedAt": "2026-10-22T01:21:49.594Z",
+      "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-construiu-patrimonio-antes-de-ser-empresario-diz-jornal-23391260",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro construiu patrimônio antes de ser empresário, diz jornal",
+        "description": "Atividade citada para explicar movimentação financeira teve início em 2015, após compra de imóvel",
+        "image": "https://ogimg.infoglobo.com.br/in/23332003-3cd-af5/FT1086A/760/Flavio-Bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_xxxh44k5c",
+      "occurredAt": "2019-01-29T19:04:00.000Z",
+      "retrievedAt": "2026-10-22T01:32:47.404Z",
+      "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-deixara-presidencia-do-psl-no-rio-de-janeiro-23412076",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "psl"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro deixará a presidência do PSL no Rio de Janeiro",
+        "description": "'Já cumpri minha missão', disse o parlamentar com a justificativa de se mudar para Brasília",
+        "image": "https://ogimg.infoglobo.com.br/in/23412055-55e-162/FT1086A/760/Flavio-Bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_j1jncnxst",
+      "occurredAt": "2019-02-01T18:35:00.000Z",
+      "retrievedAt": "2026-10-22T01:33:03.860Z",
+      "link": "https://www1.folha.uol.com.br/mundo/2019/02/bannon-anuncia-eduardo-bolsonaro-como-lider-sul-americano-de-movimento-de-ultradireita.shtml",
+      "topicIds": [
+        "relacoes_exteriores",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "eduardo_bolsonaro",
+        "steve_bannon",
+        "the_movement"
+      ],
+      "preview": {
+        "title": "Bannon anuncia Eduardo Bolsonaro como líder sul-americano de movimento de direita populista",
+        "description": "Deputado federal será representante do The Movement, grupo que apoia o nacionalismo",
+        "image": "https://f.i.uol.com.br/fotografia/2018/11/28/15434165505bfeaae6ca18c_1543416550_3x2_xl.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_gqv0tok0y",
+      "occurredAt": "2019-02-01T01:33:14.747Z",
+      "retrievedAt": "2026-10-22T01:33:14.747Z",
+      "link": "https://oglobo.globo.com/politica/a-trajetoria-de-flavio-bolsonaro-de-deputado-mais-jovem-do-rio-senador-sob-suspeita-23392525",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "alerj",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "A trajetória de Flávio Bolsonaro: de deputado mais jovem do Rio a senador sob suspeita",
+        "description": "Primogênito do presidente exerceu quatro mandatos consecutivos na Alerj antes de se cacifar ao Senado Federal, mas vive maior desafio de sua vida política",
+        "image": "https://ogimg.infoglobo.com.br/in/23394663-ba5-a18/FT1086A/760/78796889_BRASILBrasilia-DF10-09-2018O-candidato-a-presidencia-da-Republica-Flavio-Bolso.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_xn4tzppns",
+      "occurredAt": "2019-02-06T01:49:25.535Z",
+      "retrievedAt": "2026-10-22T01:49:25.535Z",
+      "link": "https://oglobo.globo.com/politica/investigacao-sobre-negociacoes-relampago-de-imoveis-de-flavio-bolsonaro-chega-pgr-23431462",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "pgr",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Investigação sobre 'negociações relâmpago' de imóveis de Flávio Bolsonaro chega à PGR",
+        "description": "Inquérito aberto pela PF apura suspeita de lavagem de dinheiro",
+        "image": "https://ogimg.infoglobo.com.br/in/23423440-5e7-75f/FT1086A/760/80926886_BRASILBrasilia-DF02-02-2019Segunda-reuniao-partidaria-para-eleicao-e-posse-do.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_tq4l7vg4n",
+      "occurredAt": "2019-02-04T02:00:00.000Z",
+      "retrievedAt": "2026-10-22T01:50:27.318Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/02/ministro-de-bolsonaro-criou-candidatos-laranjas-para-desviar-recursos-na-eleicao.shtml",
+      "topicIds": [
+        "corrupcao_e_laranjas",
+        "eleicoes_2018"
+      ],
+      "entityIds": [
+        "marcelo_alvaro_antonio",
+        "psl"
+      ],
+      "preview": {
+        "title": "Ministro de Bolsonaro criou candidatos laranjas para desviar recursos na eleição",
+        "description": "Diretório presidido por Marcelo Álvaro Antônio repassou R$ 279 mil a postulantes que pagaram empresas de assessores",
+        "image": "https://f.i.uol.com.br/fotografia/2019/01/16/15476646715c3f7d1fbb3b3_1547664671_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_3fyfxdd2e",
+      "occurredAt": "2019-02-04T18:07:50.000Z",
+      "retrievedAt": "2026-10-22T01:51:22.753Z",
+      "link": "https://cimi.org.br/2019/02/povo-tupinamba-de-olivenca-reafirma-resistencia-as-medidas-do-governo-bolsonaro/",
+      "topicIds": [
+        "indigenas_e_reforma_agraria",
+        "direitos_humanos"
+      ],
+      "entityIds": [
+        "povo_tupinamba"
+      ],
+      "preview": {
+        "title": "Povo Tupinambá de Olivença reafirma resistência às medidas do governo Bolsonaro | Cimi",
+        "description": "Por meio de uma carta às instâncias brasileiras e internacionais, indígenas da Bahia asseguram que não desistirão da luta por seu território",
+        "image": "https://cimi.org.br/wp-content/uploads/2019/02/2016-03_Babau-teity_tupinamba_renato-santana-01.jpg",
+        "site": "cimi.org.br"
+      }
+    },
+    {
+      "id": "id_ornd3q1cc",
+      "occurredAt": "2019-02-04T13:55:35.000Z",
+      "retrievedAt": "2026-10-22T01:51:39.629Z",
+      "link": "https://vladimirherzog.org/os-ataques-aos-direitos-humanos-no-1o-mes-do-governo-bolsonaro/",
+      "topicIds": [
+        "direitos_humanos",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Os ataques aos direitos humanos no 1º mês do governo Bolsonaro",
+        "description": "Produzida pela Ponte, veja lista de ações colocadas em prática pelo presidente eleito, além de declarações com promessas de novos ataques às garantias básicas.",
+        "image": "https://vladimirherzog.org/wp-content/uploads/2019/02/Untitled-1.jpg",
+        "site": "Instituto Vladimir Herzog"
+      }
+    },
+    {
+      "id": "id_5pszb47ud",
+      "occurredAt": "2019-02-14T17:13:00.000Z",
+      "retrievedAt": "2026-10-22T02:28:10.580Z",
+      "link": "https://oglobo.globo.com/economia/previdencia-bolsonaro-define-idade-minima-de-65-anos-para-homens-62-anos-para-mulheres-23453266",
+      "topicIds": [
+        "economia_e_previdencia",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Previdência: Bolsonaro define idade mínima de 65 anos para homens e 62 anos para mulheres",
+        "description": "Texto será assinado pelo presidente na próxima quarta-feira e encaminhado ao Congresso",
+        "image": "https://ogimg.infoglobo.com.br/economia/23300503-029-9f2/FT1086A/760/80174100_Brazilian-President-elect-Jair-Bolsonaro-addresses-the-press-after-a-meeting-at-the-Brazili.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_iv9uiz48h",
+      "occurredAt": "2019-02-12T18:00:39.000Z",
+      "retrievedAt": "2026-10-22T02:28:58.696Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47215161",
+      "topicIds": [
+        "justica_e_stf",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "stf",
+        "luiz_fux"
+      ],
+      "preview": {
+        "title": "Governo Bolsonaro: a justificativa de Fux para suspender as ações penais em que presidente é réu no STF",
+        "description": "Ministro, que é relator dos processos, aponta que é constitucionalmente vedado processar e julgar o presidente da República durante o exercício do mandato.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/10537/production/_105617866_jbefux.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_xdvb5t397",
+      "occurredAt": "2019-02-19T17:54:00.000Z",
+      "retrievedAt": "2026-10-22T02:30:40.064Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-02/bolsonaro-assina-projeto-de-lei-anticrime",
+      "topicIds": [
+        "seguranca_publica_e_armas",
+        "justica_e_stf",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "ministerio_justica",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Bolsonaro assina Projeto de Lei Anticrime",
+        "description": "O presidente Jair Bolsonaro assinou hoje (19), em solenidade no Palácio do Planalto, o Projeto de Lei Anticrime. O ministro da Justiça e Segurança Pública, Sergio Moro, responsável pelo texto, deve ir ao Congresso nesta tarde para protocolar a proposta, dando início à tramitação do projeto. O governo tratou das alterações das competências da Justiça Eleitoral em um projeto de lei complementar e a tipificação do caixa dois como crime em um projeto de lei ordinária. A proposta de criminalização do caixa dois será apresentada em um projeto separado.",
+        "image": "https://imagens.ebc.com.br/BvUWSEoWVyyoQKYZHA3n1fOJ3BU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/19022019-6-reunio-do-conselho-de-governo_46422028944_o.jpg?itok=yef4oUQV",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_tehtpsqg5",
+      "occurredAt": "2019-02-18T23:18:08.000Z",
+      "retrievedAt": "2026-10-22T02:31:33.064Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47287096",
+      "topicIds": [
+        "governo_e_transicao",
+        "redes_sociais"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "gustavo_bebianno"
+      ],
+      "preview": {
+        "title": "Bebianno exonerado: o que a saída de ministro indica sobre a influência dos filhos de Bolsonaro e das redes sociais no governo",
+        "description": "Cientistas políticos ouvidos pela BBC News Brasil apontam que o presidente fugiu dos padrões ao expor o desentendimento em rede social, em vez de solucioná-lo de forma privada.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1125/production/_105698340_ffraz_abr_1810186365.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_cj231pjp6",
+      "occurredAt": "2019-02-22T00:33:01.000Z",
+      "retrievedAt": "2026-10-22T02:32:20.764Z",
+      "link": "https://veja.abril.com.br/brasil/mpf-no-rj-vai-apurar-se-flavio-bolsonaro-lavou-dinheiro-com-imoveis/",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "mpf",
+        "raquel_dodge"
+      ],
+      "preview": {
+        "title": "MPF no RJ vai apurar se Flávio Bolsonaro lavou dinheiro com imóveis",
+        "description": "Procuradora-Geral da República, Raquel Dodge, determinou que apuração fique na 1ª instância com base em entendimento do STF sobre foro privilegiado",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/02/brasil-politica-flavio-bolsonaro-20190201-003.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_as3cz8x9q",
+      "occurredAt": "2019-02-22T11:21:00.000Z",
+      "retrievedAt": "2026-10-22T02:33:28.450Z",
+      "link": "https://oglobo.globo.com/politica/irma-de-milicianos-assinou-cheques-de-campanha-de-flavio-bolsonaro-diz-revista-23473320",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "eleicoes_2018"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "valdenice_meliga"
+      ],
+      "preview": {
+        "title": "Irmã de milicianos assinou cheques de campanha de Flávio Bolsonaro, diz revista",
+        "description": "Valdenice Meliga era lotada no gabinete do então deputado na Alerj e recebeu procuração dele para liberar gastos eleitorais",
+        "image": "https://ogimg.infoglobo.com.br/in/23473373-50d-a47/FT1086A/760/flavio-milicianos.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_zs8kwqrn3",
+      "occurredAt": "2019-03-01T20:21:39.000Z",
+      "retrievedAt": "2026-10-22T02:39:11.596Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47418488",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "mpf"
+      ],
+      "preview": {
+        "title": "Caso Queiroz: o que acontece agora com investigação sobre ex-assessor de Flávio Bolsonaro",
+        "description": "Ministério Público enfim conseguiu colher depoimento de Queiroz, após assessor não comparecer a quatro convocações para dar explicações sobre movimentações financeiras suspeitas.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/E089/production/_104918475_insta.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_i10i16eao",
+      "occurredAt": "2019-02-26T16:03:00.000Z",
+      "retrievedAt": "2026-10-22T02:39:26.498Z",
+      "link": "https://oglobo.globo.com/politica/bolsonaro-exalta-militares-elogia-ditador-do-paraguai-se-irrita-com-pergunta-sobre-laranjas-23482768",
+      "topicIds": [
+        "militarismo_e_ditadura",
+        "corrupcao_e_laranjas",
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "mario_abdo_benitez",
+        "paraguai",
+        "forcas_armadas"
+      ],
+      "preview": {
+        "title": "Bolsonaro exalta militares, elogia ditador do Paraguai e se irrita com pergunta sobre laranjas",
+        "description": "Segundo presidente, governos militares foram responsáveis por construção de Itaipu",
+        "image": "https://ogimg.infoglobo.com.br/in/23482830-ecc-01b/FT1086A/760/bolsonaro_paraguai.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_65jz7vq8n",
+      "occurredAt": "2019-02-28T20:34:51.000Z",
+      "retrievedAt": "2026-10-22T02:39:38.429Z",
+      "link": "https://brasil.elpais.com/brasil/2019/02/28/internacional/1551378266_935933.html",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "juan_guaido",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Bolsonaro dá a Guaidó apoio político com uma recepção informal em Brasília",
+        "description": "Bolsonaro: “Não regularemos esforços dentro da legalidade para reinstaurar a democracia na Venezuela”",
+        "image": "https://imagenes.elpais.com/resizer/v2/JU2ATQO7AMV4VZ6KBMMCMU3QXE.jpg?auth=af9c3909d69932d80ba0bad7e79494941cf7733e958c8097de379a51a4a83535&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_gggf3llys",
+      "occurredAt": "2019-03-01T03:03:39.000Z",
+      "retrievedAt": "2026-10-22T02:39:51.362Z",
+      "link": "https://www.intercept.com.br/2019/02/28/documentos-nathalia-queiroz-funcionaria-fantasma/",
+      "topicIds": [
+        "corrupcao_e_laranjas",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "nathalia_queiroz",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Documentos provam que Nathalia Queiroz – a assessora de Jair Bolsonaro na Câmara – nunca pisou lá",
+        "description": "Mas gabinete de Bolsonaro diz que ela nunca faltou ao trabalho.",
+        "image": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2023/03/Nathalia-queiroz-1551436802.jpg",
+        "site": "Intercept Brasil"
+      }
+    },
+    {
+      "id": "id_vyeftnp9b",
+      "occurredAt": "2019-02-25T15:09:04.000Z",
+      "retrievedAt": "2026-10-22T02:41:39.021Z",
+      "link": "https://auditoriacidada.org.br/rede-brasil-atual-reforma-de-bolsonaro-corta-abono-do-pis-pasep-de-23-milhoes-de-trabalhadores/",
+      "topicIds": [
+        "economia_e_previdencia",
+        "trabalho_e_renda",
+        "orcamento_e_contas_publicas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Rede Brasil Atual: “‘Reforma’ de Bolsonaro corta abono do PIS/Pasep de 23 milhões de trabalhadores”",
+        "description": "São Paulo – As mudanças pretendidas pelo governo de Jair Bolsonaro (PSL) nas aposentadorias dos trabalhadores, reunidas na Proposta de Emenda à Constituição (PEC) 6/2019, que trata da reforma da Previdência, trazem outros prejuízos aos trabalhadores de baixa renda. Apresentado na semana passada ao Congresso, o projeto de “reforma” da Previdência, vai restringir o pagamento […]",
+        "image": "https://auditoriacidada.org.br/wp-content/uploads/2019/05/brasil-atual.jpg",
+        "site": "Auditoria Cidadã da Dívida"
+      }
+    },
+    {
+      "id": "id_ju50jsc2u",
+      "occurredAt": "2019-02-28T13:18:10.312Z",
+      "retrievedAt": "2026-10-22T02:43:47.969Z",
+      "link": "https://g1.globo.com/politica/noticia/2019/02/28/bolsonaro-da-posse-a-roberto-campos-neto-novo-presidente-do-banco-central.ghtml",
+      "topicIds": [
+        "economia_e_previdencia",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "roberto_campos_neto",
+        "banco_central",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro dá posse a Roberto Campos Neto, novo presidente do Banco Central",
+        "description": "Assinatura do termo de posse ocorreu no Palácio do Planalto. Economista, Campos Neto teve a indicação aprovada na terça-feira pelo Senado.",
+        "image": "https://s2-g1.glbimg.com/xVKqPFcD5quFgAnL9FrRGofcldQ=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/G/h/e4yui9ThyM5s1yywdk2g/47237707931-49846620e7-k.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_s3kvjkl3c",
+      "occurredAt": "2019-02-26T19:34:00.000Z",
+      "retrievedAt": "2026-10-22T02:43:57.792Z",
+      "link": "https://brasil.elpais.com/brasil/2019/02/25/politica/1551131887_454015.html",
+      "topicIds": [
+        "educacao",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "mec"
+      ],
+      "preview": {
+        "title": "MEC envia slogan de campanha de Bolsonaro para ser lido em todas as escolas",
+        "description": "Governo pede que mensagem de ministro seja reproduzida e que \"professores, alunos e funcionários da escola fiquem perfilados diante da bandeira do Brasil e que seja executado o Hino Nacional\"",
+        "image": "https://imagenes.elpais.com/resizer/v2/EJNQWUCFYEEEJSXBTNG7745VFQ.jpg?auth=0f86d49edb558b5c5b97240cb7569149b71b8c222552ec125f3300152d74e3bc&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_l2bowkju5",
+      "occurredAt": "2019-03-07T02:47:53.739Z",
+      "retrievedAt": "2026-10-22T02:47:53.739Z",
+      "link": "https://oglobo.globo.com/brasil/bolsonaro-sugere-que-pais-rasguem-paginas-sobre-educacao-sexual-de-caderneta-de-saude-da-adolescente-23506442",
+      "topicIds": [
+        "educacao",
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro sugere que pais rasguem páginas sobre educação sexual de Caderneta de Saúde da Adolescente",
+        "description": "Presidente critica ilustrações que mostram genitália feminina e ensinam como usar camisinha",
+        "image": "https://ogimg.infoglobo.com.br/in/23506438-49f-f73/FT1086A/760/bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_0e0xjd091",
+      "occurredAt": "2019-03-06T16:08:46.842Z",
+      "retrievedAt": "2026-10-22T02:50:35.868Z",
+      "link": "https://g1.globo.com/politica/noticia/2019/03/06/apos-postar-video-com-pornografia-bolsonaro-pergunta-o-que-e-golden-shower.ghtml",
+      "topicIds": [
+        "redes_sociais",
+        "direitos_lgbt"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Após postar vídeo com pornografia, Bolsonaro pergunta o que é 'golden shower'",
+        "description": "Presidente compartilhou na terça (5) uma cena de bloco de carnaval, em que um homem dança e em determinado momento se abaixa para outro urinar nele. Nesta quarta, perguntou sobre a prática sexual e causou ainda mais reações nas redes sociais.",
+        "image": "https://s2-g1.glbimg.com/hrXq-hxfHmXRZlEMaSkyocfCW5w=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/7434265.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_adkrsjowg",
+      "occurredAt": "2019-03-09T02:15:49.000Z",
+      "retrievedAt": "2026-10-22T02:55:56.672Z",
+      "link": "https://brasil.elpais.com/brasil/2019/03/08/politica/1552078710_217334.html",
+      "topicIds": [
+        "igualdade_de_genero",
+        "religiao_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "damares_alves"
+      ],
+      "preview": {
+        "title": "Com duas ministras, Bolsonaro diz que há equilíbrio em ministérios: “Cada uma equivale a dez homens”",
+        "description": "Ao homenagear mulheres, Bolsonaro recorre à “costela de Adão”. Damares Alves lança informação falsa de que pela primeira vez há um ministério das Mulheres",
+        "image": "https://imagenes.elpais.com/resizer/v2/HTYFW5T6BZ3C77TE7RT5JPA4AM.jpg?auth=40b17b4cec4926d76f871687479d72b74624c5955055589e8f7c54efcf9c82ec&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_foyiuc766",
+      "occurredAt": "2019-03-11T03:00:00.000Z",
+      "retrievedAt": "2026-10-22T02:58:32.594Z",
+      "link": "https://www.migalhas.com.br/quentes/297778/bolsonaro-usa-poder-para-tentar-intimidar-a-imprensa--afirmam-oab-e-abraji",
+      "topicIds": [
+        "imprensa_e_liberdade_de_expressao",
+        "direitos_humanos"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "oab",
+        "abraji"
+      ],
+      "preview": {
+        "title": "Bolsonaro usa poder para tentar intimidar a imprensa, afirmam OAB e Abraji",
+        "description": "Entidades afirmaram que a atitude do presidente ao usar declaração falsa é incompatível com seu discurso de defesa da liberdade de expressão.",
+        "image": "https://medproc.migalhas.com.br/https__img5.migalhas.com.br__SL__gf_base__SL__empresas__SL__miga__SL__imagens__SL__37a6c666528d2bbea19adc7dc65c5458ce27_constanza.jpg._PROC_CP75CCH31622400.jpg",
+        "site": "Migalhas"
+      }
+    },
+    {
+      "id": "id_9m6glbuq8",
+      "occurredAt": "2019-03-12T16:59:00.000Z",
+      "retrievedAt": "2026-10-22T02:58:48.983Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-03/presidente-do-paraguai-e-recebido-por-bolsonaro-no-palacio-do-planalto",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "mario_abdo_benitez",
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Presidente do Paraguai é recebido por Bolsonaro no Palácio do Planalto",
+        "description": "O presidente do Paraguai, Mario Abdo Benítez, é recebido na manhã de hoje (12) pelo presidente Jair Bolsonaro, em Brasília, em uma visita oficial de Estado. A cerimônia de chegada começou com revista às tropas e subida da rampa do Palácio do Planalto. Após os cumprimentos e apresentação das delegações, os dois seguiram para um encontro privado. Em seguida, haverá uma reunião ampliada com os ministros e outras autoridades. A previsão é que os dois presidentes façam uma declaração à imprensa, no final da manhã, antes de seguirem para o Palácio Itamaraty, onde será oferecido um almoço Abdo.",
+        "image": "https://imagens.ebc.com.br/Dodv2t7jJtXSSTXomUXsBg9AmR0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/edit_antcrz_abr_12031912953.jpg?itok=_PF7DfId",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_b8yrin72l",
+      "occurredAt": "2019-03-14T10:19:00.000Z",
+      "retrievedAt": "2026-10-22T02:59:02.497Z",
+      "link": "https://oglobo.globo.com/mundo/cuba-venezuela-sao-escoria-da-humanidade-diz-eduardo-bolsonaro-apos-eleicao-na-camara-23521746",
+      "topicIds": [
+        "relacoes_exteriores",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "eduardo_bolsonaro",
+        "cuba",
+        "venezuela",
+        "camara_deputados",
+        "luiz_philippe_orleans_braganca",
+        "psl"
+      ],
+      "preview": {
+        "title": "Cuba e Venezuela são 'escória da humanidade', diz Eduardo Bolsonaro após eleição na Câmara",
+        "description": "Deputado do PSL foi eleito nesta quinta para presidir Comissão de Relações Exteriores; vice-presidente será Luiz Philippe de Orleans e Bragança",
+        "image": "https://ogimg.infoglobo.com.br/in/23517261-7fb-371/FT1086A/760/81547392_Brazilian-Federal-Deputy-Eduardo-Bolsonaro-is-seen-after-a-meeting-between-Brazils-Preside.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_yzh46g0wa",
+      "occurredAt": "2019-03-20T21:11:51.000Z",
+      "retrievedAt": "2026-10-22T03:01:31.672Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2019/03/20/bolsonaro-retroage-alcance-da-ficha-limpa-nas-nomeacoes-do-governo",
+      "topicIds": [
+        "administracao_publica",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro retroage alcance da Ficha Limpa nas nomeações do governo",
+        "description": "O presidente da República, Jair Bolsonaro, republicou nesta quarta-feira (20) o decreto que estabelece regras para nomeações no Executivo Federal. O novo decreto mantém as mesmas exigências do decreto publicado na última sexta-feira (15), mas passa a valer para todas as nomeações feitas pelo governo federal desde o dia 1º de janeiro. O decreto anterior começaria a valer em 15 de maio.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_wattopw0x",
+      "occurredAt": "2019-03-19T20:31:46.000Z",
+      "retrievedAt": "2026-10-22T03:02:25.922Z",
+      "link": "https://conectas.org/noticias/ao-lado-de-trump-bolsonaro-titubeia-sobre-intervencao-militar-na-venezuela/",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "donald_trump",
+        "estados_unidos",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Ao lado de Trump, Bolsonaro titubeia sobre intervenção militar na Venezuela",
+        "description": "Conectas ‒ Direitos Humanos",
+        "image": "https://conectas.org/wp-content/uploads/2019/03/Trump-e-Bolsonaro.jpg",
+        "site": "Conectas"
+      }
+    },
+    {
+      "id": "id_j4q0nv8x1",
+      "occurredAt": "2019-03-21T19:56:10.000Z",
+      "retrievedAt": "2026-10-22T03:03:04.583Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2019/03/21/rogerio-carvalho-politica-externa-de-bolsonaro-e-de-total-submissao-aos-eua",
+      "topicIds": [
+        "relacoes_exteriores",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "rogerio_carvalho",
+        "pt",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Rogério Carvalho: política externa de Bolsonaro é de total submissão aos EUA",
+        "description": "O senador Rogério Carvalho (PT-SE) criticou a política do presidente da República, Jair Bolsonaro, em relação aos Estados Unidos. Para o senador, em sua recente viagem àquele país, Bolsonaro tomou clara decisão política de alinhar automaticamente o Brasil aos interesses geopolíticos norte-americanos.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_rrab2ycd3",
+      "occurredAt": "2019-03-22T18:43:03.000Z",
+      "retrievedAt": "2026-10-22T03:03:48.047Z",
+      "link": "https://www.bbc.com/portuguese/internacional-47674503",
+      "topicIds": [
+        "relacoes_exteriores",
+        "militarismo_e_ditadura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "augusto_pinochet",
+        "chile"
+      ],
+      "preview": {
+        "title": "As homenagens de Bolsonaro a Pinochet e por que o general ainda divide o Chile",
+        "description": "A visita do presidente Jair Bolsonaro ao Chile, com as reverências que já fez ao general e ex-ditador Augusto Pinochet, cutuca feridas de um passado dolorido, mexendo com traumas de uma ditadura que o país se esforça há 29 anos para superar.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1EA4/production/_106144870_5027d61b-82a4-486c-b443-374c28b4b571.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_14ttkh8d7",
+      "occurredAt": "2019-03-28T18:23:20.000Z",
+      "retrievedAt": "2026-10-22T03:06:10.528Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/32625/ibama-exonera-servidor-que-multou-bolsonaro-por-crime-ambiental",
+      "topicIds": [
+        "meio_ambiente",
+        "administracao_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ibama"
+      ],
+      "preview": {
+        "title": "Ibama exonera servidor que multou Bolsonaro por crime ambiental",
+        "description": "Ibama exonera servidor que multou Bolsonaro por crime ambiental",
+        "image": "https://static.congressoemfoco.com.br/2019/03/bolsonaro-sunga.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_pulzjxlbi",
+      "occurredAt": "2019-03-28T16:59:00.000Z",
+      "retrievedAt": "2026-10-22T03:06:28.121Z",
+      "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-propoe-maioridade-penal-de-14-anos-para-crimes-hediondos-23557890",
+      "topicIds": [
+        "seguranca_publica_e_armas",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro propõe maioridade penal de 14 anos para crimes hediondos",
+        "description": "Senador quer fixar idade de 16 anos para demais crimes, ressaltando o 'desenvolvimento precoce das crianças e adolescentes'",
+        "image": "https://ogimg.infoglobo.com.br/in/23557892-ec8-7c6/FT1086A/760/33604947338_a43c1ce849_o-1.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_ojwkwe6i5",
+      "occurredAt": "2019-03-31T16:52:10.000Z",
+      "retrievedAt": "2026-10-22T03:06:41.340Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47766575",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "israel"
+      ],
+      "preview": {
+        "title": "Bolsonaro em Israel: Presidente brasileiro recua sobre embaixada e anuncia escritório comercial em Jerusalém",
+        "description": "Segundo governo brasileiro, o escritório não terá status diplomático; eventual mudança da embaixada de Tel Aviv para Jerusalém ainda não está descartada por Bolsonaro.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/165FC/production/_106244619_bolsonaroenetanyahuemisraelcreditoalansantos-pr.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_f0ijp76o2",
+      "occurredAt": "2019-03-29T20:51:47.000Z",
+      "retrievedAt": "2026-10-22T03:07:01.134Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47741593",
+      "topicIds": [
+        "militarismo_e_ditadura",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "forcas_armadas",
+        "ministerio_defesa"
+      ],
+      "preview": {
+        "title": "Como ordem de Bolsonaro para comemorar golpe de 1964 se transformou em problema para as Forças Armadas",
+        "description": "O presidente determinou que o Ministério da Defesa faça 'comemorações devidas' sobre o evento que instalou a ditadura militar no Brasil, depois disse que o objetivo não era 'comemorar', mas 'rememorar'.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2447/production/_104978290_5d6da1e9-d88e-4a0a-ab18-1e3e0259c7ff.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_lthv0tir6",
+      "occurredAt": "2019-04-04T19:28:24.000Z",
+      "retrievedAt": "2026-10-22T03:10:05.199Z",
+      "link": "https://www.bbc.com/portuguese/brasil-47819967",
+      "topicIds": [
+        "governo_e_transicao",
+        "economia_e_previdencia"
+      ],
+      "entityIds": [
+        "fernando_henrique_cardoso",
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "FHC: Governo Bolsonaro é pior do que eu imaginava porque 'não vi nada' até agora",
+        "description": "Ex-presidente diz que administração \"precisa andar depressa\" para convencer parlamentares e população sobre agendas importantes, como a reforma da Previdência. \"Quando não há programa o governo fica muito frágil, e o Congresso derruba.\"",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/10C2A/production/_106305686_fhc2.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_2pv04vhsc",
+      "occurredAt": "2019-04-11T20:18:00.000Z",
+      "retrievedAt": "2026-10-22T03:13:20.591Z",
+      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-04/bolsonaro-assina-projeto-de-lei-sobre-educacao-domiciliar",
+      "topicIds": [
+        "educacao",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Bolsonaro assina projeto de lei sobre educação domiciliar",
+        "description": "O presidente Jair Bolsonaro assinou hoje (11) projeto de lei que regula a educação domiciliar de crianças e adolescentes, prática conhecida como homeschooling. Segundo o Palácio do Planalto, o texto traz os requisitos mínimos que os pais ou responsáveis legais deverão cumprir para exercer essa opção, tais como o cadastro em plataforma a ser oferecida pelo Ministério da Educação (MEC) e a possibilidade de avaliação.",
+        "image": "https://imagens.ebc.com.br/8oHAXtWDtoTyuJ6Um-LLDroACK0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_abr_11041914292df.jpg?itok=m3jKUJoB",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_syicexeqi",
+      "occurredAt": "2019-04-14T16:44:00.000Z",
+      "retrievedAt": "2026-10-22T03:13:35.367Z",
+      "link": "https://conjur.com.br/2019-abr-14/presidente-jair-bolsonaro-extingue-centenas-conselhos-federais/",
+      "topicIds": [
+        "administracao_publica",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Presidente Jair Bolsonaro extingue centenas de conselhos federais",
+        "description": "Assinado na quinta-feira (11/4) pelo presidente Jair Bolsonaro (PSL), o Decreto 9.759 extingue colegiados da administração pública federal direta, autárquica e fundacional, que incluem grupos como comitês e comissões, instituídos via decreto, ato normativo inferior ao decreto e ato de outro colegiado. Marcos Corrêa/PRBolsonaro assina decreto para extinguir cerca de 650 conselhos federais criados em […]",
+        "site": "Consultor Jurídico"
+      }
+    },
+    {
+      "id": "id_zn0vs9dvz",
+      "occurredAt": "2019-04-11T22:23:43.000Z",
+      "retrievedAt": "2026-10-22T03:13:46.879Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2019/04/11/bolsonaro-propoe-autonomia-do-bc-assunto-e-discutido-no-senado-ha-30-anos",
+      "topicIds": [
+        "economia_e_previdencia",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "banco_central",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro propõe autonomia do BC; assunto é discutido no Senado há 30 anos",
+        "description": "Uma das medidas propostas pelo presidente da República, Jair Bolsonaro, nesta quinta-feira (11), para marcar os 100 primeiros dias do seu governo, foi um projeto de lei complementar que garante a autonomia do Banco Central. O texto ainda não foi remetido para o Congresso. No entanto, o tema já é assunto de debates e projetos no Senado Federal desde 1991.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_e8l48tgz4",
+      "occurredAt": "2019-04-14T17:30:00.000Z",
+      "retrievedAt": "2026-10-22T03:14:57.147Z",
+      "link": "https://oglobo.globo.com/politica/a-pedido-de-bolsonaro-governo-vai-dificultar-destruicao-de-equipamentos-em-operacoes-do-ibama-23599046",
+      "topicIds": [
+        "meio_ambiente",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ibama",
+        "ministerio_meio_ambiente"
+      ],
+      "preview": {
+        "title": "A pedido de Bolsonaro, governo vai dificultar destruição de equipamentos em operações do Ibama",
+        "description": "Queima de máquinas e veículos é adotada nas operações em lugares de difícil acesso; ministro quer destinar equipamentos apreendidos a órgãos de proteção do Meio Ambiente",
+        "image": "https://ogimg.infoglobo.com.br/in/23588075-a66-ffd/FT1086A/760/82144444_BSBBrasiliaBrasil10-04-2019PARicardo-Salles-ministro-do-Meio-Ambiente-fala-s.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_u4s8wlon3",
+      "occurredAt": "2019-04-11T15:42:00.000Z",
+      "retrievedAt": "2026-10-22T03:15:09.259Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-04/bolsonaro-cria-13o-salario-para-o-bolsa-familia",
+      "topicIds": [
+        "assistencia_social",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro cria 13º salário para o Bolsa Família",
+        "description": "O presidente Jair Bolsonaro assinou nesta manhã vários instrumentos de mudanças e novas políticas para o país, que fazem parte das ações de 100 dias de governo, celebrados hoje (11) em cerimônia no Palácio do Planalto. Entre eles, a Política Nacional de Alfabetização e a revogação de colegiados com a participação da sociedade civil no âmbito da administração pública federal. Bolsonaro também anunciou o 13º para famílias que recebem o Bolsa Família.",
+        "image": "https://imagens.ebc.com.br/VNEqyMzYpkgrcTx-hutzolAFSfk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_abr_09041914123_0.jpg?itok=ZjuRqQXZ",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_awgb91h88",
+      "occurredAt": "2019-04-09T20:07:13.000Z",
+      "retrievedAt": "2026-10-22T03:15:26.383Z",
+      "link": "https://www.greenpeace.org/brasil/blog/retrocessos-ambientais-marcam-os-100-dias-do-governo-bolsonaro/",
+      "topicIds": [
+        "meio_ambiente",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ministerio_meio_ambiente",
+        "ibama"
+      ],
+      "preview": {
+        "title": "Retrocessos ambientais marcam os 100 dias do governo Bolsonaro",
+        "description": "Apoiado pelos ruralistas desde a sua campanha, Jair Bolsonaro elege a agenda ambiental como inimiga do governo e promove uma avalanche de retrocessos",
+        "image": "https://www.greenpeace.org/static/planet4-brasil-stateless/2019/04/047dd385-gp0stsl79_web_size.jpg",
+        "site": "Greenpeace Brasil"
+      }
+    },
+    {
+      "id": "id_cazwnq9hk",
+      "occurredAt": "2019-04-11T16:10:00.000Z",
+      "retrievedAt": "2026-10-22T03:16:06.413Z",
+      "link": "https://oglobo.globo.com/mundo/bolsonaro-diz-que-brasil-passou-votar-na-onu-seguindo-biblia-23591655",
+      "topicIds": [
+        "relacoes_exteriores",
+        "religiao_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "onu"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que Brasil passou a votar na ONU seguindo a Bíblia",
+        "description": "Para presidente, falta fé para que o país 'se transforme no que é Israel'",
+        "image": "https://ogimg.infoglobo.com.br/in/23591664-ed5-184/FT1086A/760/82166900_RIRio-de-Janeiro-RJ-11-04-2019Encontro-de-bolsonaro-com-evangelicosalcolumbre-mala.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_wil57131p",
+      "occurredAt": "2019-04-18T03:18:30.223Z",
+      "retrievedAt": "2026-10-22T03:18:30.223Z",
+      "link": "https://oglobo.globo.com/brasil/projeto-de-flavio-bolsonaro-quer-acabar-com-reserva-legal-em-propriedades-rurais-23608474",
+      "topicIds": [
+        "meio_ambiente",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Projeto de Flávio Bolsonaro quer acabar com reserva legal em propriedades rurais",
+        "description": "Texto revogaria obrigação de preservar 80% do ecossistema nos imóveis da Amazônia",
+        "image": "https://ogimg.infoglobo.com.br/in/23608467-006-24c/FT1086A/760/flavio.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_wbqd4xlxk",
+      "occurredAt": "2019-04-18T03:18:00.000Z",
+      "retrievedAt": "2026-10-22T03:19:08.643Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-04/bolsonaro-defende-mineracao-e-agropecuaria-em-terras-indigenas",
+      "topicIds": [
+        "indigenas_e_reforma_agraria",
+        "meio_ambiente"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende mineração e agropecuária em terras indígenas",
+        "description": "O presidente Jair Bolsonaro defendeu hoje (17), em uma transmissão ao vivo em sua página no Facebook, a possibilidade de comunidades indígenas desenvolverem atividades de mineração e agropecuária em seus territórios. Bolsonaro recebeu um grupo de indígenas das etnias Parecis (Mato Grosso), Macuxi (Roraima), Xucuru (Pernambuco) e Yanomamis (Amazonas/Roraima), que reivindicam o direito de explorar as reservas tradicionais. Eles foram levados ao encontro com o presidente pelo secretário de Assuntos Fundiários do governo, Naban Garcia.",
+        "image": "https://imagens.ebc.com.br/vUskiku0csPnl33CnXA-PmYeJ-I=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/bolsonaro_live-1.jpg?itok=fgy3v96z",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_p4t2uxpdk",
+      "occurredAt": "2019-04-15T15:40:00.000Z",
+      "retrievedAt": "2026-10-22T03:19:26.576Z",
+      "link": "https://www1.folha.uol.com.br/mercado/2019/04/bolsonaro-acaba-com-politica-de-aumento-real-do-salario-minimo.shtml",
+      "topicIds": [
+        "economia_e_previdencia",
+        "trabalho_e_renda",
+        "orcamento_e_contas_publicas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro interrompe política de aumento real do salário mínimo",
+        "description": "Projeto com diretrizes para Orçamento ainda prevê rombo fiscal de R$ 124,1 bi",
+        "image": "https://f.i.uol.com.br/fotografia/2019/03/27/15536625485c9b02544d007_1553662548_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_6ojl4lfgw",
+      "occurredAt": "2019-04-16T17:14:52.000Z",
+      "retrievedAt": "2026-10-22T03:19:45.927Z",
+      "link": "https://oeco.org.br/noticias/mpf-recomenda-intensificar-fiscalizacao-desautorizada-por-bolsonaro/",
+      "topicIds": [
+        "meio_ambiente",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "mpf",
+        "ibama"
+      ],
+      "preview": {
+        "title": "MPF recomenda intensificar fiscalização desautorizada por Bolsonaro",
+        "description": "Fiscais devem fazer guarda ou destruir instrumentos apreendidos em infrações e crimes ambientais na Floresta Nacional de Jamari, em Rondônia",
+        "image": "https://oeco.org.br/wp-content/uploads/2019/04/Agentes-Fiscalizao.jpg",
+        "site": "((o))eco"
+      }
+    },
+    {
+      "id": "id_wyjohugrt",
+      "occurredAt": "2019-04-29T17:44:00.000Z",
+      "retrievedAt": "2026-10-22T03:22:14.493Z",
+      "link": "https://oglobo.globo.com/economia/presidente-do-bb-diz-que-bolsonaro-pediu-queda-de-juros-em-tom-de-brincadeira-23630411",
+      "topicIds": [
+        "economia_e_previdencia"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "rubem_novaes",
+        "banco_do_brasil"
+      ],
+      "preview": {
+        "title": "Presidente do BB diz que Bolsonaro pediu queda de juros em tom de brincadeira",
+        "description": "Para Rubem Novaes, imprensa está perdendo o senso de humor",
+        "image": "https://ogimg.infoglobo.com.br/economia/23630425-2eb-2c1/FT1086A/760/79987786_Economist-Rubem-Novaes-arrives-for-a-meeting-at-the-transition-government-building-in-Brasi.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_8yxv102yq",
+      "occurredAt": "2019-04-29T15:00:44.000Z",
+      "retrievedAt": "2026-10-22T03:22:39.861Z",
+      "link": "https://apublica.org/2019/04/encontramos-mais-cinco-ex-assessoras-de-bolsonaro-que-nem-pisaram-no-congresso/",
+      "topicIds": [
+        "corrupcao_e_laranjas",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Encontramos mais cinco ex-assessoras de Bolsonaro que nem pisaram no Congresso",
+        "description": "Assessoras do último mandato como deputado não tinham crachá de funcionárias nem se registraram como visitantes da Câmara dos Deputados",
+        "image": "https://apublica.org/wp-content/uploads/2019/04/cracha.jpg",
+        "site": "Agência Pública"
+      }
+    },
+    {
+      "id": "id_7cluiu274",
+      "occurredAt": "2019-04-30T03:23:53.683Z",
+      "retrievedAt": "2026-10-22T03:23:53.683Z",
+      "link": "https://spbancarios.com.br/04/2019/bolsonaro-faz-apologia-exploracao-sexual-de-brasileiras",
+      "topicIds": [
+        "direitos_humanos",
+        "igualdade_de_genero",
+        "direitos_lgbt"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro faz apologia à exploração sexual de brasileiras",
+        "description": "Durante café da manhã com jornalistas, na quinta 25, o presidente da República disse que o Brasil não poderia ser “um país do mundo gay, de turismo gay. Temos famílias.” Para em seguida acrescentar: “quem quiser vir aqui fazer sexo com uma mulher, fique à vontade”. A declaração repercutiu na imprensa e nas redes sociais e foi apontada como criminosa por autoridades. A governadora do Rio Grande do Norte, Fátima Bezerra (PT), foi uma das que se manifestou.",
+        "image": "https://spbancarios.com.br/sites/default/files/styles/large/public/destaques/turismo-sexual-site.png?itok=lFV8cD4e",
+        "site": "Sindicato dos Bancários de SP"
+      }
+    },
+    {
+      "id": "id_ce50lm3e0",
+      "occurredAt": "2019-04-29T17:52:00.000Z",
+      "retrievedAt": "2026-10-22T03:24:29.361Z",
+      "link": "https://oglobo.globo.com/brasil/bolsonaro-diz-que-vai-mudar-patrono-da-educacao-brasileira-titulo-conferido-paulo-freire-23630439",
+      "topicIds": [
+        "educacao",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "paulo_freire",
+        "mec"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que vai mudar patrono da Educação brasileira, título conferido a Paulo Freire",
+        "description": "Lei sancionada em 2012 concedeu o título ao educador, que dedicou parte de sua vida à alfabetização e à educação da população pobre",
+        "image": "https://ogimg.infoglobo.com.br/in/23602904-53d-dcc/FT1086A/760/Paulo-Freire.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_zvn5ds5pi",
+      "occurredAt": "2019-04-26T22:24:18.414Z",
+      "retrievedAt": "2026-10-22T03:24:42.420Z",
+      "link": "https://g1.globo.com/educacao/noticia/2019/04/26/bolsonaro-diz-que-mec-estuda-descentralizar-investimento-em-cursos-de-filosofia-e-sociologia.ghtml",
+      "topicIds": [
+        "educacao",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "mec"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que MEC estuda 'descentralizar' investimento em cursos de filosofia e sociologia",
+        "description": "Segundo ele, motivo seria usar o orçamento do governo federal para ensinar leitura, escrita e a fazer conta, 'e depois um ofício que gere renda para a pessoa e bem-estar para a família, que melhore a sociedade em sua volta'.",
+        "image": "https://s2-g1.glbimg.com/68bKGbWI_NDOtRR850zy9jCnVto=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/7572349.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_plnc35elw",
+      "occurredAt": "2019-05-05T12:38:50.801Z",
+      "retrievedAt": "2026-10-22T12:38:50.801Z",
+      "link": "https://oglobo.globo.com/politica/apos-declaracao-de-bolsonaro-sobre-tema-estados-lancam-campanhas-contra-turismo-sexual-23642854",
+      "topicIds": [
+        "direitos_humanos",
+        "igualdade_de_genero"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Após declaração de Bolsonaro sobre o tema, estados lançam campanhas contra turismo sexual",
+        "description": "Presidente sugeriu que visitantes podem ficar à vontade para vir ao país ‘fazer sexo com uma mulher’ e governos reagiram com propagandas nas redes sociais; mensagens falam de apologia à exploração feminina",
+        "image": "https://ogimg.infoglobo.com.br/in/23642879-2b6-8b2/FT1086A/760/turismo3.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_wxl7xab29",
+      "occurredAt": "2019-05-03T19:23:05.000Z",
+      "retrievedAt": "2026-10-22T12:40:38.998Z",
+      "link": "https://www.brasildefato.com.br/2019/05/03/bolsonaro-corta-95-do-orcamento-das-acoes-destinadas-a-combater-mudancas-climaticas/",
+      "topicIds": [
+        "meio_ambiente",
+        "orcamento_e_contas_publicas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ministerio_meio_ambiente"
+      ],
+      "preview": {
+        "title": "Bolsonaro corta 95% do orçamento das ações destinadas a combater mudanças climáticas",
+        "description": "Programas ambientais do governo federal estão sob ameaça de acabar em decorrência de cortes no Ministério…",
+        "image": "https://farm66.staticflickr.com/65535/33889924388_0f5d6c6046_o.jpg",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_5tirf0zjh",
+      "occurredAt": "2019-05-08T00:40:00.000Z",
+      "retrievedAt": "2026-10-22T12:48:54.874Z",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2019-05/bolsonaro-assina-novas-regras-para-atiradores-e-cacadores",
+      "topicIds": [
+        "seguranca_publica_e_armas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro assina novas regras para atiradores e caçadores",
+        "description": "O presidente Jair Bolsonaro assinou hoje (7), em cerimônia no Palácio do Planalto, o decreto que regulamenta a posse, o porte e a comercialização de armas e munições para caçadores, atiradores esportivos e colecionadores, os chamados CACs. Entre as mudanças, o governo sobe de 50 para 1.000 o limite de cartuchos de munições que podem ser adquiridos por ano pelos CACs, além de autorizar o transporte de armas carregadas e municiadas no trajeto entre a casa do portador e os clubes de tiro, o que estava proibido.",
+        "image": "https://imagens.ebc.com.br/Zhduf8ruZQPYw9GTsUpDVsgff44=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/wdol_abr_07051915210.jpg?itok=TzVjVvjW",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_pscmifdsw",
+      "occurredAt": "2019-05-10T06:00:00.000Z",
+      "retrievedAt": "2026-10-22T12:49:05.925Z",
+      "link": "https://blogs.oglobo.globo.com/bela-megale/post/governo-bolsonaro-exonera-primeira-mulher-nomeada-para-sua-equipe.html",
+      "topicIds": [
+        "igualdade_de_genero",
+        "administracao_publica",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "marcia_amarilio"
+      ],
+      "preview": {
+        "title": "Governo Bolsonaro exonera primeira mulher nomeada para sua equipe",
+        "description": "Márcia Amarílio da Cunha Silva, a primeira mulher nomeada para a equipe de transição do governo de Jair Bolsonaro, foi exonerada do ministério da ...",
+        "image": "https://s2.glbimg.com/JsRljMiI_HfHFkdKn0fthdnecuo=/640x424/i.glbimg.com/og/ig/infoglobo1/f/original/2019/05/09/img_3049.jpg",
+        "site": "Bela Megale - O Globo"
+      }
+    },
+    {
+      "id": "id_7zttppw54",
+      "occurredAt": "2019-05-12T16:36:00.000Z",
+      "retrievedAt": "2026-10-22T12:49:16.749Z",
+      "link": "https://oglobo.globo.com/politica/bolsonaro-diz-que-flavio-vitima-de-acusacao-politica-maldosa-23660321",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "marcelo_alvaro_antonio"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que Flávio é vítima de acusação 'política' e 'maldosa'",
+        "description": "Presidente afirmou ainda que o ministro do Turismo, Marcelo Álvaro Antônio, também pode ser alvo do mesmo tipo de denúncia",
+        "image": "https://ogimg.infoglobo.com.br/in/23651210-e15-872/FT1086A/760/32863541977_0ecc0564f3_o.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_lz4dynpis",
+      "occurredAt": "2019-05-06T16:00:00.000Z",
+      "retrievedAt": "2026-10-22T12:49:36.565Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-05/bolsonaro-diz-que-meta-e-implantar-um-colegio-militar-em-cada-capital",
+      "topicIds": [
+        "educacao",
+        "militarismo_e_ditadura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que meta é implantar um colégio militar em cada capital",
+        "description": "O presidente Jair Bolsonaro voltou a defender hoje (6) a construção de colégios militares e disse que a meta do atual governo é implantar um em cada capital do país. “O que tira um homem ou mulher de uma situação difícil em que se encontre é o conhecimento. Queremos mais crianças e jovens estudando nesses bancos escolares. Respeito, disciplina e amor à pátria são fundamentos importantes desses colégios”, afirmou. Bolsonaro participou de cerimônia em comemoração ao 130º aniversário do Colégio Militar do Rio de Janeiro.",
+        "image": "https://imagens.ebc.com.br/I7Zf1WtOpKqp1ok1XTikpZPs1JA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/ffraz_abr_06051915104rj.jpg?itok=qf5y5Kom",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_kus8wqjs0",
+      "occurredAt": "2019-05-12T16:25:12.677Z",
+      "retrievedAt": "2026-10-22T12:50:06.189Z",
+      "link": "https://g1.globo.com/politica/noticia/2019/05/12/bolsonaro-diz-que-vai-indicar-sergio-moro-para-vaga-no-stf.ghtml",
+      "topicIds": [
+        "justica_e_stf",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "stf",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que vai indicar Sérgio Moro para vaga no STF",
+        "description": "Em entrevista neste domingo, presidente disse que tem compromisso com o ministro, caso Moro queira ocupar a vaga. Indicados precisam ser sabatinados pelo Senado.",
+        "image": "https://s2-g1.glbimg.com/w4q0aEu1buhejltcAFDTeW0PN4k=/0x0:1024x683/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/x/2/Ku06P8RxWIAkuTMTmN1A/sergio-moro-nova.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_as3jo0bql",
+      "occurredAt": "2019-05-09T12:51:00.554Z",
+      "retrievedAt": "2026-10-22T12:51:00.554Z",
+      "link": "https://www.andes.org.br/conteudos/noticia/bolsonaro-corta-bolsas-de-mestrado-doutorado-e-pos-doutorado1",
+      "topicIds": [
+        "educacao",
+        "orcamento_e_contas_publicas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR",
+        "description": "Estudantes de pós-graduação e docentes foram surpreendidos na quarta-feira (8)...",
+        "image": "https://www.andes.org.br/img/midias/a03d013605459f8a6fecc0c2a704c464_1557434923.jpg",
+        "site": "ANDES-SN"
+      }
+    },
+    {
+      "id": "id_3o5a047wg",
+      "occurredAt": "2019-05-08T03:24:00.000Z",
+      "retrievedAt": "2026-10-22T12:55:17.705Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-05/governo-bloqueia-r-58-bilhoes-do-orcamento-das-forcas-armadas",
+      "topicIds": [
+        "orcamento_e_contas_publicas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "forcas_armadas",
+        "ministerio_defesa",
+        "fernando_azevedo_silva"
+      ],
+      "preview": {
+        "title": "Governo bloqueia R$ 5,8 bilhões do orçamento das Forças Armadas",
+        "description": "O governo vai contingenciar R$ 5,8 bilhões do orçamento do Ministério da Defesa. O valor representa cerca de 44% do orçamento discricionário (despesas não obrigatórias) da pasta. O corte foi debatido hoje (7) durante reunião do ministro da Defesa, Fernando Azevedo e Silva, com integrantes do Alto Comando das Forças Armadas, que incluem os principais chefes da Marinha, Exército e Aeronáutica. Após a reunião, os militares almoçaram com o presidente Jair Bolsonaro, na sede do quartel-general do Exército, em Brasília.",
+        "image": "https://imagens.ebc.com.br/g9WtPoNiZl6CDwUeha6lSpbYMf0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/wdol_abr_070520194070.jpg?itok=FXUUVoy1",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_v6locfygr",
+      "occurredAt": "2019-05-07T08:28:00.000Z",
+      "retrievedAt": "2026-10-22T13:47:57.594Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/05/bolsonaro-defende-olavo-e-diz-esperar-fim-de-embates-com-militares.shtml",
+      "topicIds": [
+        "governo_e_transicao",
+        "militarismo_e_ditadura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "forcas_armadas",
+        "exercito",
+        "datafolha",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende Olavo e diz esperar fim de embates com militares",
+        "description": "Ex-comandante do Exército chamou guru do presidente de 'Trótski de direita'",
+        "image": "https://f.i.uol.com.br/fotografia/2019/04/09/15548624825cad5192b774a_1554862482_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_760bwbi9x",
+      "occurredAt": "2019-05-12T15:32:00.000Z",
+      "retrievedAt": "2026-10-22T13:48:08.146Z",
+      "link": "https://www1.folha.uol.com.br/ambiente/2019/05/bolsonaro-defende-revogacao-de-reserva-ecologica-para-estimular-turismo.shtml",
+      "topicIds": [
+        "meio_ambiente",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "ibama",
+        "icmbio",
+        "datafolha",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende revogação de reserva ecológica para estimular turismo",
+        "description": "Anulação da multa por pesca ilegal no local é investigada pelo Ministério Público Federal do Rio",
+        "image": "https://f.i.uol.com.br/fotografia/2019/02/21/15507882275c6f268395338_1550788227_3x2_lg.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_pal8wfn9y",
+      "occurredAt": "2019-05-15T15:51:06.914Z",
+      "retrievedAt": "2026-10-22T13:52:36.662Z",
+      "link": "https://www.dw.com/pt-br/caso-queiroz-mant%C3%A9m-sombra-da-corrup%C3%A7%C3%A3o-sobre-cl%C3%A3-bolsonaro/a-48750997",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "nathalia_queiroz",
+        "coaf",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Caso Queiroz mantém sombra da corrupção sobre clã Bolsonaro",
+        "description": "A devassa ordenada no passado financeiro do filho mais velho do presidente, Flavio Bolsonaro, faz voltar com força um escândalo que deixa o governo sob pressão e pode erodir ainda mais seu capital político.",
+        "image": "https://static.dw.com/image/47208311_6.jpg",
+        "site": "dw.com"
+      }
+    },
+    {
+      "id": "id_a9bqodw0n",
+      "occurredAt": "2019-05-16T13:52:52.748Z",
+      "retrievedAt": "2026-10-22T13:52:52.748Z",
+      "link": "https://www.cut.org.br/noticias/flavio-bolsonaro-tinha-organizacao-criminosa-em-gabinete-diz-mpf-1e9c",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "mprj",
+        "coaf",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro tinha 'organização criminosa' em gabinete, diz MP",
+        "description": "De acordo com o MPF, entre 2010 e 2017, foram gastos R$ 9,4 milhões na compra de 19 salas e apartamentos. Dados foram usados para pedir quebra de sigilo de Flavio e ex-assessores dele e do pai, Jair Bolsonaro",
+        "image": "https://www.cut.org.br/img/cache/ogimage/system/uploads/news/1e9c22c0ebac366509ad4730785bf544/cover/flavio-pm.jpeg",
+        "site": "CUT - Central Única dos Trabalhadores"
+      }
+    },
+    {
+      "id": "id_xaz3c28sq",
+      "occurredAt": "2019-05-15T13:53:50.264Z",
+      "retrievedAt": "2026-10-22T13:53:50.264Z",
+      "link": "https://oglobo.globo.com/epoca/os-13-parentes-de-jair-bolsonaro-nomeados-nos-gabinetes-da-familia-23665952",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "administracao_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "camara_deputados",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Os 13 parentes de Jair Bolsonaro nomeados nos gabinetes da família",
+        "description": "Parentes do presidente ocuparam cargos no gabinete de Jair, de Flávio e de Carlos; nove tiveram sigilo bancário quebrado na investigação de",
+        "image": "https://ogimg.infoglobo.com.br/in/23666052-820-a65/FT1086A/760/O-presidente-Jair-Bolsonaro-e-Flavio-Bolsonaro.jpg",
+        "site": "Época"
+      }
+    },
+    {
+      "id": "id_3qwykt33q",
+      "occurredAt": "2019-05-13T21:55:17.000Z",
+      "retrievedAt": "2026-10-22T13:54:53.693Z",
+      "link": "https://www.bbc.com/portuguese/brasil-48259927",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "justica_e_stf",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "luiz_fux",
+        "coaf",
+        "alerj",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "Caso Queiroz: Toffoli acolhe pedido da defesa de Flávio Bolsonaro e paralisa investigações; entenda",
+        "description": "Decisão suspendeu inquéritos abertos a partir de dados obtidos por órgão de controle, como o Coaf, sem autorização judicial. Todos os casos só poderão ser retomados (ou encerrados definitivamente, a depender da decisão) quando o Supremo se manifestar sobre a questão.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/E089/production/_104918475_insta.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_kz2j68vt9",
+      "occurredAt": "2019-05-13T14:39:17.000Z",
+      "retrievedAt": "2026-10-22T13:56:21.144Z",
+      "link": "https://valor.globo.com/politica/noticia/2019/05/13/bolsonaro-anuncia-reducao-de-90-de-normas-de-seguranca-no-trabalho.ghtml",
+      "topicIds": [
+        "trabalho_e_renda",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Bolsonaro anuncia redução de 90% de normas de segurança no trabalho",
+        "description": "Bolsonaro anuncia redução de 90% de normas de segurança no trabalho",
+        "image": "https://s2-valor.glbimg.com/5aYpmauQYgMjm8yDcOGXlA0UJAU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/k/F/SQiDAgQqABf4nOZWFkXA/47805041411-1dd7fa8d98-z.jpg",
+        "site": "Valor Econômico"
+      }
+    },
+    {
+      "id": "id_dqol4jjdw",
+      "occurredAt": "2019-05-15T20:17:00.000Z",
+      "retrievedAt": "2026-10-22T13:56:33.051Z",
+      "link": "https://oglobo.globo.com/politica/mp-aponta-indicios-de-organizacao-criminosa-em-gabinete-de-flavio-bolsonaro-desde-2007-23668817",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "alerj"
+      ],
+      "preview": {
+        "title": "MP aponta indícios de ‘organização criminosa’ em gabinete de Flávio Bolsonaro desde 2007",
+        "description": "Fundamentação foi usada para pedir quebra de sigilo do parlamentar e de outros personagens",
+        "image": "https://ogimg.infoglobo.com.br/in/23668824-aae-99f/FT1086A/760/Flavio-Bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_u48t16h0n",
+      "occurredAt": "2019-05-15T12:19:00.000Z",
+      "retrievedAt": "2026-10-22T13:56:52.223Z",
+      "link": "https://oglobo.globo.com/brasil/nos-eua-bolsonaro-chama-manifestantes-da-educacao-de-idiotas-uteis-23667150",
+      "topicIds": [
+        "educacao",
+        "governo_e_transicao",
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Nos EUA, Bolsonaro chama manifestantes da educação de 'idiotas úteis'",
+        "description": "Presidente brasileiro afirmou que não gostaria de fazer o corte, mas culpou a situação herdada dos governos anteriores",
+        "image": "https://ogimg.infoglobo.com.br/mundo/23667273-936-f5f/FT1086A/760/82672030_DallasTexas-15-05-2019-Presidente-da-Republica-Jair-Bolsonaro-fala-com-brasileiros-e.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_lr5bzq7nf",
+      "occurredAt": "2019-05-14T20:30:00.000Z",
+      "retrievedAt": "2026-10-22T13:57:14.578Z",
+      "link": "https://oglobo.globo.com/epoca/patrimonio-de-flavio-bolsonaro-aumentou-3971-em-12-anos-23665550",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "alerj",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Patrimônio de Flávio Bolsonaro aumentou 397,1% em 12 anos",
+        "description": "Declarações de patrimônio do parlamentar aumentaram com compras de imóveis, trocas de carros por modelos mais novos e investimentos em empreendimentos próprios",
+        "image": "https://ogimg.infoglobo.com.br/in/23662890-646-6a1/FT1086A/760/32867695127_7e730029ce_o.jpg",
+        "site": "Época"
+      }
+    },
+    {
+      "id": "id_gxw096hh7",
+      "occurredAt": "2019-05-20T14:06:00.000Z",
+      "retrievedAt": "2026-10-22T14:12:48.365Z",
+      "link": "https://oglobo.globo.com/politica/bolsonaro-critica-orgaos-de-fiscalizacao-controle-tudo-mp-se-mete-algumas-vezes-com-razao-outras-nao-23679295",
+      "topicIds": [
+        "governo_e_transicao",
+        "administracao_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro critica órgãos de fiscalização e controle: 'Tudo o MP se mete. Algumas vezes com razão, outras não'",
+        "description": "Presidente recebeu no Rio medalha da Federação das Indústrias do estado (Firjan)",
+        "image": "https://ogimg.infoglobo.com.br/in/23679795-009-46f/FT1086A/760/82771298_Rio-de-Janeiro-20-05-2019O-Presidente-da-Republica-Jair-Bolsonaro-visitou-a-Federacao.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_9i51jlkii",
+      "occurredAt": "2019-05-21T12:20:21.000Z",
+      "retrievedAt": "2026-10-22T14:16:03.337Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/25760/decreto-de-armas-de-jair-bolsonaro-libera-venda-de-fuzil-a-cidadao-comum",
+      "topicIds": [
+        "educacao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Decreto de armas de Jair Bolsonaro libera venda de fuzil a cidadão comum",
+        "description": "Decreto de armas de Jair Bolsonaro libera venda de fuzil a cidadão comum",
+        "image": "https://static.congressoemfoco.com.br/2019/05/atirador-660x372.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_ud3e978fn",
+      "occurredAt": "2019-05-22T14:50:36.903Z",
+      "retrievedAt": "2026-10-22T14:50:36.903Z",
+      "link": "https://oglobo.globo.com/politica/caso-flavio-bolsonaro-quebras-de-sigilo-atingem-tesoureiras-do-psl-do-rio-23683790",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "eleicoes_2018"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Caso Flávio Bolsonaro: Quebras de sigilo atingem tesoureiras do PSL do Rio",
+        "description": "Diretório entrega prestação de contas do ano passado 20 dias após prazo e culpa HD queimado em ‘picos de luz’ após chuvas",
+        "image": "https://ogimg.infoglobo.com.br/in/23683800-aa7-71e/FT1086A/760/Flavio-Bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_mrqo0k99f",
+      "occurredAt": "2019-05-21T15:37:00.000Z",
+      "retrievedAt": "2026-10-22T14:51:25.798Z",
+      "link": "https://oglobo.globo.com/politica/bolsonaro-condecora-os-filhos-eduardo-flavio-pela-segunda-vez-em-menos-de-um-mes-23682462",
+      "topicIds": [
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "sergio_moro",
+        "damares_alves",
+        "roberto_campos_neto"
+      ],
+      "preview": {
+        "title": "Bolsonaro condecora os filhos Eduardo e Flávio pela segunda vez em menos de um mês",
+        "description": "Presidente homenageou também 15 ministros de seu governo, sete governadores, a procuradora-geral da República, Raquel Dodge, e o presidente do TRF-4, Thompson Flores",
+        "image": "https://ogimg.infoglobo.com.br/in/23682717-6af-f3f/FT1086A/760/82771303_Rio-de-Janeiro-20-05-2019O-Presidente-da-Republica-Jair-Bolsonaro-visitou-a-Federacao-das.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_mozu22wkb",
+      "occurredAt": "2019-05-22T03:00:00.000Z",
+      "retrievedAt": "2026-10-22T15:00:02.050Z",
+      "link": "https://www.migalhas.com.br/quentes/302817/bolsonaro-altera-decreto-de-armas-e-libera-porte-a-advogados",
+      "topicIds": [
+        "direitos_humanos"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Bolsonaro altera decreto de armas e libera porte a advogados",
+        "description": "Advogado passa a ser profissão de risco e não será necessário demonstrar necessidade de porte. Requisitos como negativa de antecedentes e aptidão psicológica continuam valendo.",
+        "image": "https://medproc.migalhas.com.br/https__img5.migalhas.com.br__SL__gf_base__SL__empresas__SL__miga__SL__imagens__SL__fe600cdbc8e417482d93f8edfd2b947b2450_arma.jpg._PROC_CP75CCH31622400.jpg",
+        "site": "Migalhas"
+      }
+    },
+    {
+      "id": "id_frsc6ahgg",
+      "occurredAt": "2019-05-27T15:00:09.000Z",
+      "retrievedAt": "2026-10-22T15:03:56.962Z",
+      "link": "https://www.bbc.com/portuguese/brasil-48391614",
+      "topicIds": [
+        "seguranca_publica_e_armas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "policia_federal",
+        "congresso_nacional",
+        "forcas_armadas",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Com decreto de Bolsonaro, mais de 2 bilhões de munições podem ser compradas por brasileiros que já têm armas",
+        "description": "Novas regras liberam aquisição de até 5.000 munições por arma e por ano. Considerando o total de armamento já registrado no país, total de munições que pode ser adquirido seria suficiente para efetuar 5,7 milhões de disparos por dia durante um ano.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6866/production/_103062762_gettyimages-900317052.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_fd102tr6m",
+      "occurredAt": "2019-06-02T19:42:11.000Z",
+      "retrievedAt": "2026-10-22T15:04:12.367Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/32473/todos-os-nove-parentes-de-ex-madrasta-lotados-em-seu-gabinete-eram-qualificados-diz-flavio-bolsonaro",
+      "topicIds": [
+        "educacao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro diz que nove parentes da ex-madrasta lotados em seu gabinete eram qualificados",
+        "description": "Flávio Bolsonaro diz que nove parentes da ex-madrasta lotados em seu gabinete eram qualificados",
+        "image": "https://static.congressoemfoco.com.br/2019/05/47536622931_e1429fffee_e.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_g7hxedbdl",
+      "occurredAt": "2019-05-31T09:05:18.000Z",
+      "retrievedAt": "2026-10-22T15:04:27.843Z",
+      "link": "https://www.bbc.com/portuguese/brasil-48402241",
+      "topicIds": [
+        "meio_ambiente",
+        "direitos_humanos",
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "datafolha",
+        "estados_unidos",
+        "israel"
+      ],
+      "preview": {
+        "title": "Governo Bolsonaro ameaça prestígio internacional do país, dizem diplomatas brasileiros",
+        "description": "Três pontos da mudança diplomática em curso, segundo eles, podem provocar prejuízos no curto prazo à influência brasileira: ceticismo ao aquecimento global, alinhamento aos EUA e postura em relação a minorias.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/10C70/production/_107102786_reuters-kevinlamarque.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_e2esnze9d",
+      "occurredAt": "2019-06-02T15:04:54.764Z",
+      "retrievedAt": "2026-10-22T15:04:54.764Z",
+      "link": "https://oglobo.globo.com/politica/flavio-bolsonaro-empregou-assessores-que-recebiam-salario-mas-nao-tinham-cracha-ficavam-longe-da-alerj-23712490",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas",
+        "administracao_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "nathalia_queiroz",
+        "luiz_fux",
+        "mprj"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro empregou assessores que recebiam salário, mas não tinham crachá e ficavam longe da Alerj",
+        "description": "Ao menos quatro dos nove parentes de Ana Cristina Valle, ex-mulher de Jair Bolsonaro, têm dificuldades para comprovar que, de fato, assessoraram o filho do presidente",
+        "image": "https://ogimg.infoglobo.com.br/in/23711698-4a5-9b0/FT1086A/760/flavio.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_jbl68pev9",
+      "occurredAt": "2019-05-30T20:44:00.000Z",
+      "retrievedAt": "2026-10-22T15:05:26.846Z",
+      "link": "https://oglobo.globo.com/politica/bolsonaro-diz-que-seria-ditador-se-vencesse-todas-as-pautas-no-congresso-23707288",
+      "topicIds": [
+        "congresso_e_politica",
+        "governo_e_transicao",
+        "redes_sociais"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "coaf",
+        "camara_deputados",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que seria 'ditador' se vencesse todas as pautas no Congresso",
+        "description": "'Até bom que não ganhe', disse o presidente em uma transmissão ao vivo nas redes sociais",
+        "image": "https://ogimg.infoglobo.com.br/in/23702752-756-46c/FT1086A/760/82916278_BSBBrasiliaBrasil29-05-2019O-presidente-Jair-Bolsonaro-fala-com-a-imprensa-apos.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_df1ebgvn6",
+      "occurredAt": "2019-05-29T20:18:39.000Z",
+      "retrievedAt": "2026-10-22T15:05:36.968Z",
+      "link": "https://noticias.cancaonova.com/brasil/bolsonaro-recebe-dom-walmor-novo-presidente-da-cnbb/",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro recebe Dom Walmor, novo presidente da CNBB",
+        "description": "Reunião aconteceu no Palácio do Planalto, a portas fechadas",
+        "image": "https://img.cancaonova.com/cnimages/canais/uploads/sites/11/2019/05/Dom_Walmor-600x337.jpg",
+        "site": "Notícias"
+      }
+    },
+    {
+      "id": "id_znbly1zf5",
+      "occurredAt": "2019-06-06T18:34:50.000Z",
+      "retrievedAt": "2026-10-22T15:09:34.448Z",
+      "link": "https://deolhonosruralistas.com.br/2019/06/06/flavio-bolsonaro-propoe-emenda-contra-a-funcao-social-da-terra/",
+      "topicIds": [
+        "meio_ambiente",
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "incra",
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro propõe emenda contra a função social da terra",
+        "description": "Conceito está na Constituição de 1988 e é crucial para a reforma agrária; proposta assinada por 27 senadores, entre eles três tucanos, abre brechas para desqualificar desmatamento e trabalho escravo como motivos para desapropriações Por Priscilla Arroyo A política fundiária e a reforma agrária correm o risco de serem inviabilizadas caso a 80ª Proposta de […]",
+        "image": "https://deolhonosruralistas.com.br/wp-content/uploads/2019/06/flaviobolsonaro-senado.jpg",
+        "site": "De Olho nos Ruralistas"
+      }
+    },
+    {
+      "id": "id_40xzhc3ts",
+      "occurredAt": "2019-06-06T09:04:06.000Z",
+      "retrievedAt": "2026-10-22T15:09:44.025Z",
+      "link": "https://www.bbc.com/portuguese/brasil-48539977",
+      "topicIds": [
+        "relacoes_exteriores",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "'Não nos preocupa, os argentinos protestam toda semana', diz deputada do partido de Macri sobre atos contra Bolsonaro em Buenos Aires",
+        "description": "À semelhança do que aconteceu no Chile, grupos marcaram protestos em Buenos Aires contra visita, nesta quinta, de Bolsonaro; Mercosul e tarifas de trigo são assuntos que podem ser 'espinhosos' em encontro com Mauricio Macri.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/EE93/production/_107257016_45850561435_298ffb76a8_z.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_nipq5hucl",
+      "occurredAt": "2019-06-06T11:49:00.000Z",
+      "retrievedAt": "2026-10-22T15:09:54.698Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-06/bolsonaro-e-macri-se-reunem-em-buenos-aires-nesta-quinta-feira",
+      "topicIds": [
+        "relacoes_exteriores",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "estados_unidos",
+        "venezuela",
+        "chile"
+      ],
+      "preview": {
+        "title": "Bolsonaro e Macri se reúnem em Buenos Aires nesta quinta-feira",
+        "description": "O presidente Jair Bolsonaro desembarca hoje (6) em Buenos Aires, na Argentina, em visita de Estado ao país, o principal parceiro comercial do Brasil na América Latina. Além do encontro com o presidente Maurício Macri, Bolsonaro se reunirá com as principais autoridades argentinas. É a primeira visita ao país vizinho e a segunda a um país sul-americano. Em março, Bolsonaro foi ao Chile, em um dos primeiros giros internacionais que fez depois que tomou posse.",
+        "image": "https://imagens.ebc.com.br/LJwrcUvYLGsfJ5Vm8SpeFLA2UQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcmgo_abr_16011910533df.jpg?itok=-uwyNadg",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_vhk2ekczr",
+      "occurredAt": "2019-06-07T15:10:13.685Z",
+      "retrievedAt": "2026-10-22T15:10:13.685Z",
+      "link": "https://oglobo.globo.com/economia/bolsonaro-diz-que-moeda-unica-pode-ser-uma-trava-para-aventuras-socialistas-na-america-do-sul-23724623",
+      "topicIds": [
+        "economia_e_previdencia",
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que moeda única pode ser uma 'trava para aventuras socialistas' na América do Sul",
+        "description": "Presidente defende que 'peso real' valha para todo o continente",
+        "image": "https://ogimg.infoglobo.com.br/economia/23724619-a9f-d47/FT1086A/760/83067351_Rio-de-Janeiro-07-06-2019Bolsonaro-paritcipa-de-formatura-de-militares-no-Rio-no-Centro-d.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_mua3i5f06",
+      "occurredAt": "2019-06-04T15:10:48.429Z",
+      "retrievedAt": "2026-10-22T15:10:48.429Z",
+      "link": "https://oglobo.globo.com/politica/projeto-de-bolsonaro-acaba-com-multa-no-transporte-de-crianca-sem-cadeirinha-23717090",
+      "topicIds": [
+        "congresso_e_politica",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Projeto de Bolsonaro acaba com multa no transporte de criança sem cadeirinha",
+        "description": "Governo também quer aumentar de 5 para 10 anos a validade da CNH e passar de 20 para 40 pontos o limite para o motorista perder o documento, entre outras medidas",
+        "image": "https://ogimg.infoglobo.com.br/in/14426619-da7-5c1/FT1086A/760/Cadeirinha-de-carro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_no6dtl2bd",
+      "occurredAt": "2019-06-05T14:34:59.000Z",
+      "retrievedAt": "2026-10-22T15:11:30.238Z",
+      "link": "https://veja.abril.com.br/politica/bolsonaro-veta-pena-mais-dura-a-quem-divulga-fake-news-em-eleicoes/",
+      "topicIds": [
+        "eleicoes_2018",
+        "congresso_e_politica",
+        "imprensa_e_liberdade_de_expressao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro veta pena mais dura a quem divulga fake news em eleições",
+        "description": "Sancionada nesta quarta, lei torna crime a denunciação caluniosa com finalidade eleitoral",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/01/brasil-porte-arma-20190115-007.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_3plulr88w",
+      "occurredAt": "2019-06-07T15:11:43.908Z",
+      "retrievedAt": "2026-10-22T15:11:43.908Z",
+      "link": "https://oglobo.globo.com/economia/bolsonaro-comemora-decisao-do-stf-que-libera-privatizacao-das-estatais-23723619",
+      "topicIds": [
+        "justica_e_stf",
+        "economia_e_previdencia",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Bolsonaro comemora decisão do STF que libera privatização das estatais",
+        "description": "'O viés ideológico para fazer negócios vai deixando de existir no Brasil', afirmou",
+        "image": "https://ogimg.infoglobo.com.br/in/23723620-b11-92e/FT1086A/760/83053263_FILE-PHOTO-Brazils-President-Jair-Bolsonaro-takes-part-in-a-toast-at-the-Casa-Rosada-gover.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_wrcw1m6wi",
+      "occurredAt": "2019-06-09T21:06:00.000Z",
+      "retrievedAt": "2026-10-22T15:18:34.726Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/06/site-publica-mensagens-que-mostram-colaboracao-entre-moro-e-deltan-na-lava-jato.shtml",
+      "topicIds": [
+        "justica_e_stf",
+        "corrupcao_e_laranjas",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "fernando_haddad",
+        "sergio_moro",
+        "policia_federal",
+        "congresso_nacional",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "Mensagens mostram colaboração entre Moro e Deltan na Lava Jato, diz site",
+        "description": "Diálogos mencionam detalhes do processo que condenou Lula; MPF vê 'ataque criminoso'",
+        "image": "https://f.i.uol.com.br/fotografia/2019/02/08/15496732245c5e230889ab1_1549673224_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_ihb8aukmz",
+      "occurredAt": "2019-06-12T23:01:46.000Z",
+      "retrievedAt": "2026-10-22T15:36:06.665Z",
+      "link": "https://blogs.correiobraziliense.com.br/vicente/flavio-bolsonaro-usa-carro-oficial-do-senado-para-ir-ao-shopping-no-fim-de-semana/",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "congresso_nacional",
+        "senado_federal",
+        "camara_deputados",
+        "forcas_armadas"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro usa carro oficial do Senado para ir ao shopping no fim de semana",
+        "description": "O senador Flávio Bolsonaro usa o carro oficial do Senado para ir ao shopping no fim de semana. Senado deve restringir uso de carros oficiais.",
+        "image": "https://blogs.correiobraziliense.com.br/vicente/wp-content/uploads/sites/16/2019/06/FlavioCarro1-768x1024.jpg",
+        "site": "Blog do Vicente"
+      }
+    },
+    {
+      "id": "id_1koskz1vb",
+      "occurredAt": "2019-06-11T16:12:13.000Z",
+      "retrievedAt": "2026-10-22T15:36:18.493Z",
+      "link": "https://apublica.org/2019/06/jair-bolsonaro-exonera-todos-os-peritos-do-mecanismo-de-combate-a-tortura/",
+      "topicIds": [
+        "direitos_humanos",
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "damares_alves",
+        "congresso_nacional",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Jair Bolsonaro exonera todos os peritos do Mecanismo de Combate à Tortura",
+        "description": "Decreto publicado hoje demite fiscais de violações de direitos humanos em penitenciárias; novos peritos não terão salário e não poderão ter ligação com ONGs ou universidades",
+        "image": "https://apublica.org/wp-content/uploads/2019/04/imagem-6-fiscais-que-denunciaram-interferencia-de-damares-divulgam-relatorio-sobre-tortura-nas-prisoes-cearenses.jpg",
+        "site": "Agência Pública"
+      }
+    },
+    {
+      "id": "id_6c96oenb8",
+      "occurredAt": "2019-06-11T03:30:26.000Z",
+      "retrievedAt": "2026-10-22T15:36:29.491Z",
+      "link": "https://www.cartacapital.com.br/opiniao/a-cristologia-cristofascista-de-jair-bolsonaro/",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "donald_trump",
+        "banco_central",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "A cristologia cristofascista de Jair Bolsonaro",
+        "description": "Vem ocorrendo no governo mais uma forma de profanação política de Jesus Cristo em prol do status quo neoliberal governista",
+        "image": "https://www.cartacapital.com.br/wp-content/uploads/2019/05/bolsonaro-industria.jpg",
+        "site": "CartaCapital"
+      }
+    },
+    {
+      "id": "id_2us5mhzok",
+      "occurredAt": "2019-06-13T21:28:28.000Z",
+      "retrievedAt": "2026-10-22T15:36:41.849Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/25620/general-santos-cruz-e-demitido-por-bolsonaro",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "gustavo_bebianno",
+        "senado_federal",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "General Santos Cruz é demitido por Bolsonaro",
+        "description": "General Santos Cruz é demitido por Bolsonaro",
+        "image": "https://static.congressoemfoco.com.br/2019/06/img20190424194956342.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_9kg56p19c",
+      "occurredAt": "2019-06-18T21:48:34.000Z",
+      "retrievedAt": "2026-10-22T17:27:37.393Z",
+      "link": "https://x.com/jairbolsonaro/status/1141100416828096513",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jair M. Bolsonaro no X: \"- Sancionei há pouco a agora Lei que combate as fraudes previdenciárias no INSS, originária da MP 871. Serão aproximadamente R$ 9,8 bilhões economizados já nos próximos 12 meses. Avanço mais que importante para o Br",
+        "description": "- Sancionei há pouco a agora Lei que combate as fraudes previdenciárias no INSS, originária da MP 871. Serão aproximadamente R$ 9,8 bilhões economizados já nos próximos 12 meses. Avanço mais que importante para o Brasil! 🇧🇷",
+        "image": "https://pbs.twimg.com/profile_images/1614784189462618112/EUGqFFah_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_tzg05j5yv",
+      "occurredAt": "2019-06-18T09:36:21.000Z",
+      "retrievedAt": "2026-10-22T17:28:24.647Z",
+      "link": "https://www.bbc.com/portuguese/brasil-48670698",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "policia_federal",
+        "congresso_nacional",
+        "camara_deputados",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Decreto de Bolsonaro libera armas que ameaçam coletes de policiais e até blindagem de carro presidencial",
+        "description": "Decreto autoriza compra de armas que eram proibidas para civis, entre elas, revólveres e pistolas que podem romper coletes e blindagens; especialistas se dividem sobre possível efeito de decreto - se influenciará ou não perfil de armas no mercado ilegal.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6F1A/production/_107424482_gettyimages-621239856.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_xjpdlw39e",
+      "occurredAt": "2019-06-18T14:57:08.000Z",
+      "retrievedAt": "2026-10-22T17:28:41.750Z",
+      "link": "https://brasil.elpais.com/brasil/2019/06/18/politica/1560864965_530788.html",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "fernando_haddad",
+        "chile"
+      ],
+      "preview": {
+        "title": "Empresários financiaram disparos em massa pró-Bolsonaro no Whatsapp, diz jornal",
+        "description": "A prática é considerada ilegal pelo Tribunal Superior Eleitoral. Empresa espanhola foi contratada por brasileiros, afirma 'Folha de S.Paulo'",
+        "image": "https://imagenes.elpais.com/resizer/v2/HXI6AUEYYXFD4WYP42KDTGZGEQ.jpg?auth=2017c970e6909a482939a2683b11759e9c73a4fd6f9fd5302dfe9442ca32be9e&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_q927owqpr",
+      "occurredAt": "2019-06-17T23:54:53.000Z",
+      "retrievedAt": "2026-10-22T17:30:00.751Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2019/06/17/bolsonaro-veta-isencao-de-cobranca-de-bagagem-em-voos-domesticos",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro veta isenção de cobrança de bagagem em voos domésticos",
+        "description": "O presidente Jair Bolsonaro vetou nesta segunda-feira (17) a regulamentação de franquia de bagagem inserida por emenda parlamentar na tramitação da Medida Provisória (MP) 863/2018 . A MP, que foi apresentada pelo governo de Michel Temer, autoriza até 100% de capital estrangeiro em companhias aéreas e foi aprovada pelo Congresso Nacional em maio deste ano.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_7asfzt30a",
+      "occurredAt": "2019-06-20T17:26:00.000Z",
+      "retrievedAt": "2026-10-22T17:31:36.317Z",
+      "link": "https://oglobo.globo.com/politica/na-marcha-para-jesus-bolsonaro-diz-que-tenta-reeleicao-se-povo-quiser-recebe-bencao-de-lideres-religiosos-23754013",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Na Marcha para Jesus, Bolsonaro diz que tenta reeleição 'se povo quiser' e recebe bênção de líderes religiosos",
+        "description": "Presidente já havia falado em tentar um segundo mandato mais cedo, durante visita à família em Eldorado",
+        "image": "https://ogimg.infoglobo.com.br/in/23754177-188-9b0/FT1086A/760/Bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_e9txb3z00",
+      "occurredAt": "2019-06-25T22:41:00.000Z",
+      "retrievedAt": "2026-10-22T17:32:57.129Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-06/bolsonaro-revoga-decreto-de-armas-e-publica-novas-regras",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Bolsonaro revoga decreto de armas e publica novas regras",
+        "description": "O presidente Jair Bolsonaro decidiu revogar hoje (25) o decreto editado em maio para regulamentar regras de aquisição, cadastro, registro, posse, porte e comercialização de munições e armas de fogo no país. Uma edição extra do Diário Oficial da União, publicada há pouco, traz a revogação da medida, que havia sido editada no dia 7 de maio e retificada no dia 21 do mesmo mês. No último dia 18, o plenário do Senado aprovou a revogação do decreto presidencial.",
+        "image": "https://imagens.ebc.com.br/4Z5k3d-EgS4Y3N7vWitWCABsXJw=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_abr_13061916972df.jpg?itok=KVjxu2Zf",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_51b9rhkfn",
+      "occurredAt": "2019-06-29T08:00:00.000Z",
+      "retrievedAt": "2026-10-22T17:33:07.070Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/06/de-bananas-a-cnh-relembre-obsessoes-de-bolsonaro-em-seus-seis-meses-de-governo.shtml",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "geraldo_alckmin",
+        "ibama",
+        "icmbio",
+        "congresso_nacional",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "De bananas a CNH, relembre obsessões de Bolsonaro em seus seis meses de governo",
+        "description": "Demandas pessoais do presidente aparecem em sua agenda pública",
+        "image": "https://f.i.uol.com.br/fotografia/2019/06/28/15617011625d15ab2ad165f_1561701162_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_y3i5ia5jz",
+      "occurredAt": "2019-06-29T21:27:04.764Z",
+      "retrievedAt": "2026-10-22T17:34:18.022Z",
+      "link": "https://g1.globo.com/politica/noticia/2019/06/29/com-media-de-13-decreto-por-dia-governo-bolsonaro-so-editou-menos-que-collor-em-seis-meses.ghtml",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fernando_henrique_cardoso"
+      ],
+      "preview": {
+        "title": "Com média de 1,3 por dia, governo Bolsonaro só fez menos decretos que Collor nos 6 primeiros meses",
+        "description": "Desde 1º de janeiro, presidente e vice, Hamilton Mourão, assinaram 237 decretos. Em 1990, Fernando Collor editou 351. Atos têm gerado polêmica com Congresso e questionamentos no STF.",
+        "image": "https://s2-g1.glbimg.com/u6M8lTC5SIaGceG2p3H__jGgpFE=/1600x0/filters:format(jpeg)/https://s.glbimg.com/jo/g1/f/original/2019/04/09/bolsonaro-assina.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_h12iqnt3e",
+      "occurredAt": "2019-06-25T17:35:58.231Z",
+      "retrievedAt": "2026-10-22T17:35:58.231Z",
+      "link": "https://oglobo.globo.com/rio/justica-proibe-artistas-de-rua-no-metro-apos-acao-de-flavio-bolsonaro-23761693",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Justiça proíbe artistas de rua no metrô, após ação de Flávio Bolsonaro",
+        "description": "Decisão do Órgão Especial do TJ-RJ foi divulgada nesta segunda-feira",
+        "image": "https://ogimg.infoglobo.com.br/in/23761695-35c-9bf/FT1086A/760/artistas-rua-metro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_016fxj0ob",
+      "occurredAt": "2019-06-29T02:51:14.000Z",
+      "retrievedAt": "2026-10-22T17:36:50.993Z",
+      "link": "https://www.bbc.com/portuguese/internacional-48809137",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "donald_trump",
+        "estados_unidos",
+        "israel",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Acordo Mercosul-UE: Bolsonaro critica ‘psicose ambientalista’ e diz que 'no momento' Brasil está no Acordo de Paris",
+        "description": "Apesar de parceria recém-anunciada entre blocos prever compromisso ambiental de signatários, presidente brasileiro afirma que país 'não tem como cumprir' todas as metas na área.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/C529/production/_107637405_hi054942742.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_u5gqd6bul",
+      "occurredAt": "2019-06-26T20:02:03.000Z",
+      "retrievedAt": "2026-10-22T17:37:04.011Z",
+      "link": "https://brasil.elpais.com/brasil/2019/06/26/politica/1561577623_739675.html",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "sergio_moro",
+        "forcas_armadas",
+        "exercito",
+        "cuba"
+      ],
+      "preview": {
+        "title": "39 quilos de cocaína constrangem o Governo Bolsonaro",
+        "description": "Prisão de sargento flagrado com droga na Espanha vira notícia internacional e meme e pressiona Aeronáutica e Planalto por falha em segurança de comitiva presidencial",
+        "image": "https://imagenes.elpais.com/resizer/v2/NZJT5UICXFHM4BRDHH2C3N5MRI.jpg?auth=6f261fef21e4731177615f859917b1c1a3902af785c7d9261f5fc9cc79ef99bc&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_xy3rn2he3",
+      "occurredAt": "2019-06-29T19:40:53.000Z",
+      "retrievedAt": "2026-10-22T17:37:42.558Z",
+      "link": "https://brasil.elpais.com/brasil/2019/06/27/cultura/1561664077_032428.html",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "donald_trump",
+        "venezuela",
+        "chile"
+      ],
+      "preview": {
+        "title": "“Bolsonaro é um dos populistas mais próximos do fascismo que já vi”",
+        "description": "O especialista argentino, que lança seu ensaio ‘Do Fascismo ao Populismo na História’, mostra sua preocupação com o surgimento de \"um novo populismo que combina o neoliberalismo com ranço fascista”",
+        "image": "https://imagenes.elpais.com/resizer/v2/YATPEF63CFCIJ5ZSMAGUJSQEHA.jpg?auth=3a881cc9a634b740ddea8601c0e06659a80e81a9be464992b9b4e55e944a32da&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_nz8lth198",
+      "occurredAt": "2019-06-27T23:45:16.000Z",
+      "retrievedAt": "2026-10-22T17:40:20.923Z",
+      "link": "https://brasil.elpais.com/brasil/2019/06/27/politica/1561656006_263638.html",
+      "topicIds": [
+        "id_o6ob4rewy"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ibama",
+        "ministerio_meio_ambiente",
+        "chile"
+      ],
+      "preview": {
+        "title": "Políticas ambientais de Bolsonaro põem Brasil sob ataque no G20",
+        "description": "Às vésperas da cúpula do G20 em Osaka, no Japão, presidente recebeu advertências públicas de Angela Merkel e Emannuel Macron. Bolsonaro diz que Alemanha tem a aprender com o Brasil",
+        "image": "https://imagenes.elpais.com/resizer/v2/SM7ZPTUDDQ7QRRPF434H2GTVSI.jpg?auth=cea32c2b0421dbf2ec42c175a6cb36f46a27c0433e9011a7dcf998b6287042f1&width=1200",
+        "site": "El País Brasil"
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import Timeline from './components/Timeline.vue'
-import timelineJson from './data/timeline.json'
+import { loadTimelineInput } from './lib/timelineData'
 import { parseTimelineData, TimelineDataError } from './lib/validation'
 import type { TimelineData } from './types'
 
@@ -12,7 +12,7 @@ interface LoadResult {
 
 const result = computed<LoadResult>(() => {
   try {
-    return { data: parseTimelineData(timelineJson), error: null }
+    return { data: parseTimelineData(loadTimelineInput()), error: null }
   } catch (error) {
     if (error instanceof TimelineDataError) {
       return { data: null, error: error.message }
@@ -36,7 +36,7 @@ const result = computed<LoadResult>(() => {
       <h1>Não foi possível carregar a linha do tempo</h1>
       <p class="load-error-message">{{ result.error }}</p>
       <p class="load-error-hint">
-        Verifique <code>src/data/timeline.json</code> e tente novamente.
+        Verifique os arquivos <code>src/data/timeline.meta.json</code> e <code>src/data/events-*.json</code>.
       </p>
     </section>
   </main>

@@ -4,6 +4,12 @@ import MediaCard from './MediaCard.vue'
 import type { Entity, TimelineEvent, Topic } from '../types'
 import { hashHue } from '../lib/color'
 import { formatFullDate, parseTimelineDate } from '../lib/dates'
+import {
+  eventDescription,
+  eventImage,
+  eventImageAlt,
+  eventTitle,
+} from '../lib/eventContent'
 import { displaySource } from '../lib/links'
 
 const props = defineProps<{
@@ -11,6 +17,7 @@ const props = defineProps<{
   entities: readonly Entity[]
   topics: readonly Topic[]
   compact?: boolean
+  dense?: boolean
 }>()
 
 const emit = defineEmits<{ zoom: [] }>()
@@ -33,15 +40,10 @@ const eventTopics = computed(() =>
     .filter((topic): topic is Topic => topic !== undefined),
 )
 
-const description = computed(
-  () => props.event.description ?? props.event.preview?.description ?? '',
-)
-const image = computed(
-  () => props.event.coverImage ?? props.event.preview?.image ?? '',
-)
-const imageAlt = computed(
-  () => props.event.preview?.title ?? props.event.title,
-)
+const title = computed(() => eventTitle(props.event))
+const description = computed(() => eventDescription(props.event))
+const image = computed(() => eventImage(props.event))
+const imageAlt = computed(() => eventImageAlt(props.event))
 const compactTopics = computed(() => eventTopics.value.slice(0, 2))
 const source = computed(() =>
   displaySource(props.event.link, props.event.preview?.site),
@@ -74,7 +76,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
     <button
       type="button"
       class="event-card is-compact"
-      :class="{ 'has-thumb': image }"
+      :class="{ 'has-thumb': image, 'is-dense': dense }"
       title="Ampliar este evento na linha do tempo"
       @click="emit('zoom')"
     >
@@ -93,7 +95,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
           <time :datetime="event.occurredAt">{{ occurredLabel }}</time>
         </span>
 
-        <span class="compact-title">{{ event.title }}</span>
+        <span class="compact-title">{{ title }}</span>
 
         <span v-if="compactTopics.length > 0" class="compact-topics">
           <span
@@ -158,7 +160,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
         </span>
       </div>
 
-      <h2 class="event-title">{{ event.title }}</h2>
+      <h2 class="event-title">{{ title }}</h2>
 
       <p v-if="description" class="event-description">{{ description }}</p>
 
@@ -235,6 +237,38 @@ function avatarStyle(entity: Entity): Record<string, string> {
 
 .event-card.is-compact.has-thumb {
   grid-template-columns: 58px minmax(0, 1fr);
+}
+
+.event-card.is-compact.is-dense {
+  gap: 3px;
+  padding: 6px;
+}
+
+.event-card.is-compact.is-dense .compact-body {
+  gap: 2px;
+}
+
+.event-card.is-compact.is-dense .compact-meta {
+  font-size: 8px;
+}
+
+.event-card.is-compact.is-dense .compact-title {
+  font-size: 11.5px;
+  line-height: 1.2;
+}
+
+.event-card.is-compact.is-dense .compact-topics {
+  display: none;
+}
+
+.event-card.is-compact.is-dense .compact-footer .avatar {
+  width: 14px;
+  height: 14px;
+  font-size: 6px;
+}
+
+.event-card.is-compact.is-dense .compact-source {
+  font-size: 7px;
 }
 
 .event-card.is-compact:hover {

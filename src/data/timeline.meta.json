@@ -1,0 +1,475 @@
+{
+  "entities": [
+    {
+      "id": "jair_bolsonaro",
+      "name": "Jair Bolsonaro",
+      "kind": "person"
+    },
+    {
+      "id": "flavio_bolsonaro",
+      "name": "Flávio Bolsonaro",
+      "kind": "person"
+    },
+    {
+      "id": "eduardo_bolsonaro",
+      "name": "Eduardo Bolsonaro",
+      "kind": "person"
+    },
+    {
+      "id": "fernando_haddad",
+      "name": "Fernando Haddad",
+      "kind": "person"
+    },
+    {
+      "id": "ciro_gomes",
+      "name": "Ciro Gomes",
+      "kind": "person"
+    },
+    {
+      "id": "geraldo_alckmin",
+      "name": "Geraldo Alckmin",
+      "kind": "person"
+    },
+    {
+      "id": "fabricio_queiroz",
+      "name": "Fabrício Queiroz",
+      "kind": "person"
+    },
+    {
+      "id": "nathalia_queiroz",
+      "name": "Nathalia Queiroz",
+      "kind": "person"
+    },
+    {
+      "id": "valdenice_meliga",
+      "name": "Valdenice Meliga",
+      "kind": "person"
+    },
+    {
+      "id": "marcia_amarilio",
+      "name": "Márcia Amarílio",
+      "kind": "person"
+    },
+    {
+      "id": "sergio_moro",
+      "name": "Sergio Moro",
+      "kind": "person"
+    },
+    {
+      "id": "marcelo_alvaro_antonio",
+      "name": "Marcelo Álvaro Antônio",
+      "kind": "person"
+    },
+    {
+      "id": "damares_alves",
+      "name": "Damares Alves",
+      "kind": "person"
+    },
+    {
+      "id": "fernando_azevedo_silva",
+      "name": "Fernando Azevedo e Silva",
+      "kind": "person"
+    },
+    {
+      "id": "gustavo_bebianno",
+      "name": "Gustavo Bebianno",
+      "kind": "person"
+    },
+    {
+      "id": "roberto_campos_neto",
+      "name": "Roberto Campos Neto",
+      "kind": "person"
+    },
+    {
+      "id": "rubem_novaes",
+      "name": "Rubem Novaes",
+      "kind": "person"
+    },
+    {
+      "id": "benjamin_netanyahu",
+      "name": "Benjamin Netanyahu",
+      "kind": "person"
+    },
+    {
+      "id": "john_bolton",
+      "name": "John Bolton",
+      "kind": "person"
+    },
+    {
+      "id": "steve_bannon",
+      "name": "Steve Bannon",
+      "kind": "person"
+    },
+    {
+      "id": "juan_guaido",
+      "name": "Juan Guaidó",
+      "kind": "person"
+    },
+    {
+      "id": "mario_abdo_benitez",
+      "name": "Mario Abdo Benítez",
+      "kind": "person"
+    },
+    {
+      "id": "augusto_pinochet",
+      "name": "Augusto Pinochet",
+      "kind": "person"
+    },
+    {
+      "id": "fernando_henrique_cardoso",
+      "name": "Fernando Henrique Cardoso",
+      "kind": "person"
+    },
+    {
+      "id": "raquel_dodge",
+      "name": "Raquel Dodge",
+      "kind": "person"
+    },
+    {
+      "id": "luiz_fux",
+      "name": "Luiz Fux",
+      "kind": "person"
+    },
+    {
+      "id": "rogerio_carvalho",
+      "name": "Rogério Carvalho",
+      "kind": "person"
+    },
+    {
+      "id": "paulo_freire",
+      "name": "Paulo Freire",
+      "kind": "person"
+    },
+    {
+      "id": "alessandra_munduruku",
+      "name": "Alessandra Munduruku",
+      "kind": "person"
+    },
+    {
+      "id": "luiz_philippe_orleans_braganca",
+      "name": "Luiz Philippe de Orleans e Bragança",
+      "kind": "person"
+    },
+    {
+      "id": "donald_trump",
+      "name": "Donald Trump",
+      "kind": "person"
+    },
+    {
+      "id": "povo_tupinamba",
+      "name": "Povo Tupinambá de Olivença",
+      "kind": "group"
+    },
+    {
+      "id": "psl",
+      "name": "PSL",
+      "kind": "organization"
+    },
+    {
+      "id": "pt",
+      "name": "PT",
+      "kind": "organization"
+    },
+    {
+      "id": "stf",
+      "name": "STF",
+      "kind": "organization"
+    },
+    {
+      "id": "mpf",
+      "name": "MPF",
+      "kind": "organization"
+    },
+    {
+      "id": "mprj",
+      "name": "MPRJ",
+      "kind": "organization"
+    },
+    {
+      "id": "pgr",
+      "name": "PGR",
+      "kind": "organization"
+    },
+    {
+      "id": "coaf",
+      "name": "Coaf",
+      "kind": "organization"
+    },
+    {
+      "id": "policia_federal",
+      "name": "Polícia Federal",
+      "kind": "organization"
+    },
+    {
+      "id": "ibama",
+      "name": "Ibama",
+      "kind": "organization"
+    },
+    {
+      "id": "icmbio",
+      "name": "ICMBio",
+      "kind": "organization"
+    },
+    {
+      "id": "incra",
+      "name": "Incra",
+      "kind": "organization"
+    },
+    {
+      "id": "mec",
+      "name": "MEC",
+      "kind": "organization"
+    },
+    {
+      "id": "ministerio_meio_ambiente",
+      "name": "Ministério do Meio Ambiente",
+      "kind": "organization"
+    },
+    {
+      "id": "ministerio_trabalho",
+      "name": "Ministério do Trabalho",
+      "kind": "organization"
+    },
+    {
+      "id": "ministerio_justica",
+      "name": "Ministério da Justiça e Segurança Pública",
+      "kind": "organization"
+    },
+    {
+      "id": "ministerio_defesa",
+      "name": "Ministério da Defesa",
+      "kind": "organization"
+    },
+    {
+      "id": "ministerio_agricultura",
+      "name": "Ministério da Agricultura",
+      "kind": "organization"
+    },
+    {
+      "id": "banco_central",
+      "name": "Banco Central",
+      "kind": "organization"
+    },
+    {
+      "id": "banco_do_brasil",
+      "name": "Banco do Brasil",
+      "kind": "organization"
+    },
+    {
+      "id": "congresso_nacional",
+      "name": "Congresso Nacional",
+      "kind": "organization"
+    },
+    {
+      "id": "senado_federal",
+      "name": "Senado Federal",
+      "kind": "organization"
+    },
+    {
+      "id": "camara_deputados",
+      "name": "Câmara dos Deputados",
+      "kind": "organization"
+    },
+    {
+      "id": "alerj",
+      "name": "Alerj",
+      "kind": "organization"
+    },
+    {
+      "id": "forcas_armadas",
+      "name": "Forças Armadas",
+      "kind": "organization"
+    },
+    {
+      "id": "exercito",
+      "name": "Exército",
+      "kind": "organization"
+    },
+    {
+      "id": "onu",
+      "name": "ONU",
+      "kind": "organization"
+    },
+    {
+      "id": "oab",
+      "name": "OAB",
+      "kind": "organization"
+    },
+    {
+      "id": "abraji",
+      "name": "Abraji",
+      "kind": "organization"
+    },
+    {
+      "id": "datafolha",
+      "name": "Datafolha",
+      "kind": "organization"
+    },
+    {
+      "id": "the_movement",
+      "name": "The Movement",
+      "kind": "organization"
+    },
+    {
+      "id": "cop25",
+      "name": "COP-25",
+      "kind": "organization"
+    },
+    {
+      "id": "estados_unidos",
+      "name": "Estados Unidos",
+      "kind": "country"
+    },
+    {
+      "id": "israel",
+      "name": "Israel",
+      "kind": "country"
+    },
+    {
+      "id": "venezuela",
+      "name": "Venezuela",
+      "kind": "country"
+    },
+    {
+      "id": "cuba",
+      "name": "Cuba",
+      "kind": "country"
+    },
+    {
+      "id": "chile",
+      "name": "Chile",
+      "kind": "country"
+    },
+    {
+      "id": "paraguai",
+      "name": "Paraguai",
+      "kind": "country"
+    }
+  ],
+  "topics": [
+    {
+      "id": "eleicoes_2018",
+      "name": "Eleições 2018"
+    },
+    {
+      "id": "governo_e_transicao",
+      "name": "Governo e transição"
+    },
+    {
+      "id": "economia_e_previdencia",
+      "name": "Economia e Previdência"
+    },
+    {
+      "id": "orcamento_e_contas_publicas",
+      "name": "Orçamento e contas públicas"
+    },
+    {
+      "id": "meio_ambiente",
+      "name": "Meio ambiente"
+    },
+    {
+      "id": "educacao",
+      "name": "Educação"
+    },
+    {
+      "id": "seguranca_publica_e_armas",
+      "name": "Segurança pública e armas"
+    },
+    {
+      "id": "direitos_humanos",
+      "name": "Direitos humanos"
+    },
+    {
+      "id": "direitos_lgbt",
+      "name": "Direitos LGBT"
+    },
+    {
+      "id": "igualdade_de_genero",
+      "name": "Gênero e mulheres"
+    },
+    {
+      "id": "relacoes_exteriores",
+      "name": "Relações exteriores"
+    },
+    {
+      "id": "justica_e_stf",
+      "name": "Justiça e STF"
+    },
+    {
+      "id": "caso_flavio_bolsonaro",
+      "name": "Caso Flávio Bolsonaro"
+    },
+    {
+      "id": "corrupcao_e_laranjas",
+      "name": "Corrupção e laranjas"
+    },
+    {
+      "id": "indigenas_e_reforma_agraria",
+      "name": "Indígenas e reforma agrária"
+    },
+    {
+      "id": "imprensa_e_liberdade_de_expressao",
+      "name": "Imprensa e liberdade de expressão"
+    },
+    {
+      "id": "militarismo_e_ditadura",
+      "name": "Militarismo e ditadura"
+    },
+    {
+      "id": "congresso_e_politica",
+      "name": "Congresso e política"
+    },
+    {
+      "id": "redes_sociais",
+      "name": "Redes sociais e comunicação"
+    },
+    {
+      "id": "trabalho_e_renda",
+      "name": "Trabalho e renda"
+    },
+    {
+      "id": "assistencia_social",
+      "name": "Assistência social"
+    },
+    {
+      "id": "administracao_publica",
+      "name": "Administração pública"
+    },
+    {
+      "id": "saude",
+      "name": "Saúde"
+    },
+    {
+      "id": "religiao_e_politica",
+      "name": "Religião e política"
+    },
+    {
+      "id": "twitter",
+      "name": "Twitter/X"
+    },
+    {
+      "id": "id_o6ob4rewy",
+      "name": "Política"
+    },
+    {
+      "id": "id_16uc3xm1y",
+      "name": "Economia"
+    },
+    {
+      "id": "id_ydtfhei06",
+      "name": "Cultura"
+    }
+  ],
+  "markers": [
+    {
+      "id": "primeiro_turno",
+      "title": "primeiro turno 2018",
+      "date": "2018-10-07"
+    },
+    {
+      "id": "segundo_turno",
+      "title": "Segundo turno 2018",
+      "date": "2018-10-28"
+    }
+  ]
+}

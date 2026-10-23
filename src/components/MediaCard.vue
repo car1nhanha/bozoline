@@ -2,6 +2,7 @@
 import { computed, ref, watch } from 'vue'
 import TweetEmbed from './TweetEmbed.vue'
 import type { TimelineEvent } from '../types'
+import { eventImage, eventImageAlt } from '../lib/eventContent'
 import { displaySource } from '../lib/links'
 import { extractTweetId } from '../lib/twitter'
 
@@ -11,12 +12,8 @@ const tweetId = computed(() => extractTweetId(props.event.link))
 const tweetFailed = ref(false)
 const showTweet = computed(() => tweetId.value !== null && !tweetFailed.value)
 
-const image = computed(
-  () => props.event.coverImage ?? props.event.preview?.image ?? '',
-)
-const imageAlt = computed(
-  () => props.event.preview?.title ?? props.event.title,
-)
+const image = computed(() => eventImage(props.event))
+const imageAlt = computed(() => eventImageAlt(props.event))
 const site = computed(() =>
   displaySource(props.event.link, props.event.preview?.site),
 )

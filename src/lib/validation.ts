@@ -63,6 +63,16 @@ function readOptionalString(
   return value
 }
 
+function readOptionalText(
+  record: Record<string, unknown>,
+  key: string,
+  path: string,
+): string | undefined {
+  const value = readOptionalString(record, key, path)
+  const trimmed = value?.trim()
+  return trimmed ? trimmed : undefined
+}
+
 function readStringArray(
   record: Record<string, unknown>,
   key: string,
@@ -187,18 +197,19 @@ function parseEvent(
   const record = asRecord(value, path)
   const event: TimelineEvent = {
     id: readRequiredString(record, 'id', path),
-    title: readRequiredString(record, 'title', path),
     occurredAt: readRequiredString(record, 'occurredAt', path),
     retrievedAt: readRequiredString(record, 'retrievedAt', path),
     topicIds: readStringArray(record, 'topicIds', path),
     entityIds: readStringArray(record, 'entityIds', path),
   }
 
-  const description = readOptionalString(record, 'description', path)
-  const coverImage = readOptionalString(record, 'coverImage', path)
+  const title = readOptionalText(record, 'title', path)
+  const description = readOptionalText(record, 'description', path)
+  const coverImage = readOptionalText(record, 'coverImage', path)
   const link = readOptionalString(record, 'link', path)
   const previewValue = record.preview
 
+  if (title !== undefined) event.title = title
   if (description !== undefined) event.description = description
   if (coverImage !== undefined) event.coverImage = coverImage
   if (link !== undefined) {

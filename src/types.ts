@@ -26,7 +26,7 @@ export interface TimelineMarker {
 
 export interface TimelineEvent {
   id: string
-  title: string
+  title?: string
   description?: string
   occurredAt: string
   retrievedAt: string

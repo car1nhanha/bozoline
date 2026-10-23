@@ -1,9 +1,10 @@
-import { readFile, writeFile } from 'node:fs/promises'
+import { readFile, readdir, writeFile } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const scriptDir = dirname(fileURLToPath(import.meta.url))
-const dataPath = join(scriptDir, '..', 'src', 'data', 'timeline.json')
+const dataDir = join(scriptDir, '..', 'src', 'data')
+const eventFilePattern = /^events-\d{4}-h[12]\.json$/
 const force = process.argv.includes('--force')
 const twitterHosts = new Set(['twitter.com', 'x.com', 'mobile.twitter.com', 'mobile.x.com'])
 
@@ -115,45 +116,58 @@ function isTwitter(url) {
   }
 }
 
-const raw = await readFile(dataPath, 'utf8')
-const data = JSON.parse(raw)
+const eventFiles = (await readdir(dataDir))
+  .filter((name) => eventFilePattern.test(name))
+  .sort()
+  .map((name) => join(dataDir, name))
 
 let updated = 0
 let skipped = 0
 let failed = 0
 
-for (const event of data.events) {
-  if (!event.link) {
-    skipped += 1
-    continue
+for (const dataPath of eventFiles) {
+  const raw = await readFile(dataPath, 'utf8')
+  const data = JSON.parse(raw)
+  if (!Array.isArray(data.events)) {
+    throw new Error(`${dataPath} não contém um array "events"`)
   }
 
-  if (isTwitter(event.link)) {
-    console.log(`skip  ${event.id} (twitter embed handled in the app)`)
-    skipped += 1
-    continue
+  let fileUpdated = 0
+
+  for (const event of data.events) {
+    if (!event.link) {
+      skipped += 1
+      continue
+    }
+
+    if (isTwitter(event.link)) {
+      console.log(`skip  ${event.id} (twitter embed handled in the app)`)
+      skipped += 1
+      continue
+    }
+
+    if (!force && isComplete(event.preview)) {
+      console.log(`keep  ${event.id}`)
+      skipped += 1
+      continue
+    }
+
+    try {
+      const preview = await fetchPreview(event.link)
+      event.preview = { ...event.preview, ...preview }
+      updated += 1
+      fileUpdated += 1
+      console.log(`fetch ${event.id} → ${preview.site || event.link}`)
+    } catch (error) {
+      failed += 1
+      const message = error instanceof Error ? error.message : String(error)
+      console.warn(`fail  ${event.id}: ${message}`)
+    }
   }
 
-  if (!force && isComplete(event.preview)) {
-    console.log(`keep  ${event.id}`)
-    skipped += 1
-    continue
+  if (fileUpdated > 0) {
+    await writeFile(dataPath, `${JSON.stringify(data, null, 2)}\n`, 'utf8')
   }
-
-  try {
-    const preview = await fetchPreview(event.link)
-    event.preview = { ...event.preview, ...preview }
-    updated += 1
-    console.log(`fetch ${event.id} → ${preview.site || event.link}`)
-  } catch (error) {
-    failed += 1
-    const message = error instanceof Error ? error.message : String(error)
-    console.warn(`fail  ${event.id}: ${message}`)
-  }
-}
-
-if (updated > 0) {
-  await writeFile(dataPath, `${JSON.stringify(data, null, 2)}\n`, 'utf8')
 }
 
 console.log(

@@ -1,0 +1,293 @@
+{
+  "events": [
+    {
+      "id": "id_dj8wl4acl",
+      "occurredAt": "2018-10-28T22:21:57.245Z",
+      "retrievedAt": "2026-10-21T22:01:23.162Z",
+      "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/28/jair-bolsonaro-e-eleito-presidente-e-interrompe-serie-de-vitorias-do-pt.ghtml",
+      "topicIds": [
+        "eleicoes_2018",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "fernando_haddad",
+        "psl",
+        "pt"
+      ],
+      "preview": {
+        "title": "Jair Bolsonaro é eleito presidente e interrompe série de vitórias do PT",
+        "description": "Candidato do PSL derrotou o petista Fernando Haddad no segundo turno, com 55% dos votos, e foi eleito o 38º presidente do Brasil. Capitão reformado do Exército e deputado federal desde 1991, Bolsonaro se elegeu com promessas de reformas liberais na economia e um discurso conservador, contrário à corrupção, ao PT e ao próprio sistema político.",
+        "image": "https://s2-g1.glbimg.com/7crrqrC86QQZO0yO7KU7EvUw7QU=/1280x0/filters:format(jpeg)/https://s04.video.glbimg.com/x720/7074211.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_r7n7kvm68",
+      "occurredAt": "2018-10-06T23:36:29.222Z",
+      "retrievedAt": "2026-10-21T22:05:07.000Z",
+      "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/06/datafolha-para-presidente-votos-validos-bolsonaro-40-haddad-25-ciro-15-alckmin-8.ghtml",
+      "topicIds": [
+        "eleicoes_2018"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "fernando_haddad",
+        "ciro_gomes",
+        "geraldo_alckmin",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "Datafolha para presidente, votos válidos: Bolsonaro, 40%; Haddad, 25%; Ciro, 15%; Alckmin, 8%",
+        "description": "Considerando os VOTOS TOTAIS, Bolsonaro tem 36%, Haddad, 22%, Ciro, 13% e Alckmin, 7%. Levantamento ouviu 19.552 eleitores entre quinta-feira (5) e sábado (2).",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_7yun3g3g4",
+      "occurredAt": "2018-10-08T02:37:55.000Z",
+      "retrievedAt": "2026-10-21T22:24:54.555Z",
+      "link": "https://x.com/jairbolsonaro/status/1049126717363838976",
+      "topicIds": [
+        "redes_sociais",
+        "twitter"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Jair M. Bolsonaro no X: \"Nosso país é grande e próspero, não uma facção criminosa para ser comandado de dentro da cadeia. Boa noite a todos!\"",
+        "description": "Nosso país é grande e próspero, não uma facção criminosa para ser comandado de dentro da cadeia. Boa noite a todos!",
+        "image": "https://pbs.twimg.com/profile_images/1614784189462618112/EUGqFFah_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_0qoiw8zd6",
+      "occurredAt": "2018-10-28T23:26:01.000Z",
+      "retrievedAt": "2026-10-21T22:48:51.587Z",
+      "link": "https://x.com/jairbolsonaro/status/1056688568024907777",
+      "topicIds": [
+        "eleicoes_2018",
+        "redes_sociais",
+        "twitter"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Jair M. Bolsonaro no X: \"Obrigado pela confiança! Vamos juntos mudar o Brasil!\"",
+        "description": "Obrigado pela confiança! Vamos juntos mudar o Brasil!",
+        "image": "https://pbs.twimg.com/media/DqocpjBWwAAq-Ws?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_vjmmjmyqn",
+      "occurredAt": "2018-10-31T02:51:22.000Z",
+      "retrievedAt": "2026-10-21T23:36:53.804Z",
+      "link": "https://oeco.org.br/noticias/bolsonaro-confirma-promessa-ministerio-do-meio-ambiente-deixara-de-existir/",
+      "topicIds": [
+        "governo_e_transicao",
+        "meio_ambiente"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ministerio_meio_ambiente",
+        "ministerio_agricultura",
+        "ibama",
+        "icmbio"
+      ],
+      "preview": {
+        "title": "Bolsonaro confirma promessa: Ministério do Meio Ambiente deixará de existir",
+        "description": "Ex-MMA virará Secretaria do Ministério da Agricultura, que ainda não tem indicação para ministro. Futuro do Ibama e o ICMBio é incerto",
+        "image": "https://oeco.org.br/wp-content/uploads/2018/10/MMA.jpg",
+        "site": "((o))eco"
+      }
+    },
+    {
+      "id": "id_9rwquu6e1",
+      "occurredAt": "2018-11-02T19:35:00.000Z",
+      "retrievedAt": "2026-10-22T00:19:10.858Z",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2018-11/stf-intima-eduardo-bolsonaro-se-explicar-por-denuncia-de-ameaca",
+      "topicIds": [
+        "justica_e_stf",
+        "imprensa_e_liberdade_de_expressao"
+      ],
+      "entityIds": [
+        "eduardo_bolsonaro",
+        "stf",
+        "pgr",
+        "raquel_dodge"
+      ],
+      "preview": {
+        "title": "STF intima Eduardo Bolsonaro a se explicar por denúncia de ameaça",
+        "description": "O deputado federal Eduardo Bolsonaro (PSL-RJ), filho do presidente eleito Jair Bolsonaro, foi notificado nesta semana a prestar esclarecimentos da denúncia de ameaça a uma jornalista, formalizada no Supremo Tribunal Federal (STF) pela procuradora-geral da República, Raquel Dodge. O processo foi aberto pela PGR em agosto do ano passado, após depoimento e conversas no aplicativo Telegram fornecidas pela jornalista Patrícia Lélis, que diz ter sido ameaçada pelo deputado após desmentir publicamente que tivesse um relacionamento com ele.",
+        "image": "https://imagens.ebc.com.br/UvNTIQ9A9aYdPns9jnNxIiocfe4=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/atoms/image/1079839-fpzzb_abr_07.06.2017-3989.jpg?itok=RRXC9QAa",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_39di4s88l",
+      "occurredAt": "2018-11-05T23:45:38.000Z",
+      "retrievedAt": "2026-10-22T00:22:09.958Z",
+      "link": "https://veja.abril.com.br/politica/bolsonaro-defende-gravacao-de-professores-por-alunos-em-sala-de-aula/",
+      "topicIds": [
+        "educacao",
+        "direitos_lgbt"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende gravação de professores por alunos em sala de aula",
+        "description": "O presidente eleito também criticou a prova do Enem, que incluiu pergunta que envolve linguagem usada por gays e travestis",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2018/11/screen-shot-2018-11-05-at-9-32-47-pm.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_q0dwvml8k",
+      "occurredAt": "2018-11-06T13:08:34.000Z",
+      "retrievedAt": "2026-10-22T00:25:21.842Z",
+      "link": "https://brasil.elpais.com/brasil/2018/10/29/politica/1540845097_416892.html",
+      "topicIds": [
+        "eleicoes_2018",
+        "direitos_humanos"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Após vitória de Bolsonaro, entidades fazem vaquinha para acolher vítimas de crimes de ódio",
+        "description": "Denúncias de violência durante a campanha motivaram a criação de Observatório de Intolerância Política em nove estados para monitorar casos",
+        "image": "https://imagenes.elpais.com/resizer/v2/QRJWVP5MWO6IJ5KLGMYS22DXMU.jpg?auth=90a73fe8ef4afd66aed6d19865bbc2066fcbfe7bbdee29e27c5a56c3d3e42165&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_ufiztf74f",
+      "occurredAt": "2018-11-23T14:14:00.000Z",
+      "retrievedAt": "2026-10-22T00:27:38.018Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-11/bolsonaro-confirma-visita-do-assessor-de-seguranca-nacional-dos-eua",
+      "topicIds": [
+        "relacoes_exteriores",
+        "governo_e_transicao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "john_bolton",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro confirma visita do assessor de segurança nacional dos EUA",
+        "description": "O presidente eleito, Jair Bolsonaro, confirmou hoje (23) a visita do assistente presidencial dos Estados Unidos para assuntos de segurança nacional, John Bolton. O encontro deve ocorrer no Rio de Janeiro, na próxima quinta-feira (29). “Feliz de receber a visita do Conselheiro de Segurança Nacional dos Estados Unidos, Sr. @AmbJohnBolton, na próxima semana. Certamente teremos uma conversa produtiva e positiva em prol de nossas nações. Bom dia a todos!”, escreveu Bolsonaro, em sua conta no Twitter.",
+        "image": "https://imagens.ebc.com.br/xf96iM-TYDMuOTWXG1RIpnP6ZFU=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/edit_mcmgo_abr_2211187496.jpg?itok=qlPclOtc",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_1hr2gm8ex",
+      "occurredAt": "2018-11-28T18:12:00.000Z",
+      "retrievedAt": "2026-10-22T00:29:42.922Z",
+      "link": "https://oglobo.globo.com/brasil/bolsonaro-diz-que-pediu-cancelamento-da-cop-25-no-brasil-cita-triplo-a-23266445",
+      "topicIds": [
+        "meio_ambiente",
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "cop25",
+        "onu",
+        "ministerio_meio_ambiente"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que pediu cancelamento da COP-25 no Brasil e cita 'Triplo A'",
+        "description": "Especialistas esclarecem que teoria 'nunca foi discutida no Acordo de Paris' e consideram que deixar o tratado é 'a pior coisa que poderia acontecer ao país'",
+        "image": "https://ogimg.infoglobo.com.br/in/23266451-973-5e8/FT1086A/760/80075983_BSBBrasiliaBrasil28-11-2018PAO-presidente-eleito-Jair-Bolsonaro-chega-para.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_1ry47kmq4",
+      "occurredAt": "2018-12-07T23:19:00.000Z",
+      "retrievedAt": "2026-10-22T00:31:43.643Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2018-12/flavio-bolsonaro-diz-que-ex-assessor-vai-se-explicar-ao-mpf",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "justica_e_stf"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "mpf"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro diz que ex-assessor vai se explicar ao MPF",
+        "description": "O deputado estadual Flávio Bolsonaro (PSL-RJ), filho do presidente eleito, Jair Bolsonaro, disse hoje (7) que seu ex-motorista e ex-assessor Fabrício José Carlos de Queiroz prestará esclarecimentos ao Ministério Público Federal sobre a movimentação atípica em suas contas bancárias de R$ 1,2 milhão entre janeiro de 2016 e janeiro de 2017. Flávio informou já ter recebido explicações satisfatórias de Queiroz. “A versão que ele me coloca é bastante plausível”, afirmou o deputado estadual, acrescentando que Queiroz apresentará provas e explicações ao Ministério Público.",
+        "image": "https://imagens.ebc.com.br/2uixfYIizbSisrwUuDkd19k68-8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/tnrgo_abr_0709184585.jpg?itok=lZocEg-8",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_6045g4x6g",
+      "occurredAt": "2018-12-07T00:31:58.915Z",
+      "retrievedAt": "2026-10-22T00:31:58.915Z",
+      "link": "https://www.andes.org.br/conteudos/noticia/bolsonaro-decide-extinguir-ministerio-do-trabalho1",
+      "topicIds": [
+        "governo_e_transicao",
+        "trabalho_e_renda"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ministerio_trabalho"
+      ],
+      "preview": {
+        "title": "Bolsonaro decide extinguir Ministério do Trabalho",
+        "description": "Depois de idas e vindas, o presidente eleito Jair Bolsonaro decidiu extinguir o Ministério...",
+        "image": "https://www.andes.org.br/img/midias/4380b17b11304bf3aaeaa47e47cc46b9_1544208667.jpg",
+        "site": "ANDES-SN"
+      }
+    },
+    {
+      "id": "id_skd8890zt",
+      "occurredAt": "2018-12-07T01:16:47.784Z",
+      "retrievedAt": "2026-10-22T00:34:51.745Z",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2018/12/06/coaf-aponta-que-ex-motorista-de-flavio-bolsonaro-movimentou-mais-de-r-12-milhao-em-operacoes-suspeitas.ghtml",
+      "topicIds": [
+        "caso_flavio_bolsonaro",
+        "corrupcao_e_laranjas"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Coaf aponta que ex-motorista de Flávio Bolsonaro movimentou mais de R$ 1,2 milhão em operações suspeitas",
+        "description": "Filho do presidente eleito se manifestou sobre caso em rede social: 'Nunca soube de algo que desabonasse sua conduta'. Investigação faz parte da operação Furna da Onça, da Lava Jato.",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_006cve6d3",
+      "occurredAt": "2018-12-21T00:43:20.901Z",
+      "retrievedAt": "2026-10-22T00:43:20.901Z",
+      "link": "https://www12.senado.leg.br/radio/1/noticia/2018/12/21/presidente-eleito-jair-bolsonaro-toma-posse-no-congresso-as-15-horas-do-dia-1o-de-janeiro",
+      "topicIds": [
+        "governo_e_transicao",
+        "congresso_e_politica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Presidente eleito Jair Bolsonaro toma posse no Congresso às 15 horas do dia 1º de janeiro",
+        "description": "Presidente eleito Jair Bolsonaro toma posse no Congresso às 15 horas do dia 1º de janeiro — Rádio Senado Menu Acessibilidade Fale com o Senado MENU DESTA SEÇÃO Ao Vivo Canal 1 - Rádio Senado FM Canal 2 - Rádio Senado FM Programas Podcasts Notícias RadioAgência Todos os Áudios Serviços Programação Quem somos Como…",
+        "site": "Rádio Senado"
+      }
+    }
+  ]
+}
