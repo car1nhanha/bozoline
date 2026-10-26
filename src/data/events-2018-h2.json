@@ -51,7 +51,8 @@
       "link": "https://x.com/jairbolsonaro/status/1049126717363838976",
       "topicIds": [
         "redes_sociais_e_desinformacao",
-        "eleicoes_2018"
+        "eleicoes_2018",
+        "tweets"
       ],
       "entityIds": [
         "jair_bolsonaro"
@@ -69,7 +70,8 @@
       "retrievedAt": "2026-10-21T22:48:51.587Z",
       "link": "https://x.com/jairbolsonaro/status/1056688568024907777",
       "topicIds": [
-        "eleicoes_2018"
+        "eleicoes_2018",
+        "tweets"
       ],
       "entityIds": [
         "jair_bolsonaro"

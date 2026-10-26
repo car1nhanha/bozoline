@@ -149,6 +149,8 @@ npm run add-event -- https://example.com/materia
 
 Também é aceito `GOOGLE_API_KEY`. Sem chave, o script usa a extração local e avisa no terminal.
 
+Se a página bloquear o acesso direto com um desafio Cloudflare, o script tenta automaticamente o leitor alternativo `r.jina.ai`.
+
 O mapeamento reutiliza temas e envolvidos existentes e cria os que faltarem. O Gemini recebe os temas, os envolvidos e os marcos (`markers`) já cadastrados como contexto; escolhe de 1 a 4 temas e de 1 a 6 envolvidos, cada um com `kind` (`person`, `organization`, `country` ou `group`). Novos envolvidos e temas são gravados em `timeline.meta.json`. Todo evento recebe pelo menos um tema. Temas de menus, rodapés e seções do site são ignorados; em especial, `Saúde` só é atribuída quando o título ou a descrição tratam diretamente de saúde.
 
 ## Atualizar prévias de links

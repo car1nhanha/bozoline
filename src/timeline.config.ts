@@ -47,11 +47,11 @@ export const TIMELINE_CONFIG: TimelineConfig = {
     // Quantidade máxima de faixas de cards acima e abaixo do eixo.
     maxRowsPerSide: 5,
     // Altura máxima de cada faixa compacta, em pixels.
-    rowStep: 128,
+    rowStep: 136,
     // Altura mínima das faixas; o layout reduz o passo para tentar manter todas visíveis.
-    minRowStep: 80,
+    minRowStep: 100,
     // Abaixo deste passo vertical, os cards compactos ativam o modo denso.
-    denseRowStep: 112,
+    denseRowStep: 128,
     // Distância horizontal entre cards na mesma faixa, em pixels.
     gap: 26,
     // Largura dos cards em telas normais, em pixels.
@@ -69,7 +69,7 @@ export const TIMELINE_CONFIG: TimelineConfig = {
     // Nível mínimo de zoom em relação ao enquadramento geral.
     minLevel: 0.85 / 3,
     // Nível máximo de zoom em relação ao enquadramento geral.
-    maxLevel: 400,
+    maxLevel: 1000,
     // Escala absoluta mínima para telas ou timelines muito extensas.
     minAbsoluteScale: 0.001,
     // Fator de zoom ao clicar no indicador de eventos ocultos.

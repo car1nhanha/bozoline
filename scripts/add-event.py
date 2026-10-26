@@ -30,6 +30,7 @@ DEFAULT_GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     "gemini-3.5-flash-lite:streamGenerateContent?alt=sse&key="
 )
+READER_PREFIX = "https://r.jina.ai/"
 MAX_HTML_BYTES = 2_500_000
 MAX_PAGE_CHARS = 28_000
 MAX_AI_CHARS = 22_000
@@ -578,6 +579,14 @@ def fetch_page(url: str) -> Page:
                 html = raw.decode("utf-8", errors="replace")
             final_url = response.geturl()
     except HTTPError as error:
+        if error.code == 403 and "challenge" in (
+            error.headers.get("cf-mitigated") or ""
+        ).lower():
+            print(
+                "aviso: a página usa proteção Cloudflare; tentando leitor alternativo.",
+                file=sys.stderr,
+            )
+            return fetch_page_via_reader(url)
         raise FetchError(
             f"A página respondeu HTTP {error.code} ({error.reason})."
         ) from None
@@ -590,6 +599,48 @@ def fetch_page(url: str) -> Page:
     if not page.title:
         raise CliError(
             "Não foi possível extrair o título da matéria. Use --title para informar."
+        )
+    return page
+
+
+def fetch_page_via_reader(url: str) -> Page:
+    request = Request(
+        f"{READER_PREFIX}{url}",
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml",
+            "X-Return-Format": "html",
+        },
+    )
+
+    try:
+        with urlopen(request, timeout=45) as response:
+            raw = response.read(MAX_HTML_BYTES + 1)
+            if len(raw) > MAX_HTML_BYTES:
+                raise FetchError("A página é grande demais para ser processada.")
+            charset = response.headers.get_content_charset() or "utf-8"
+            try:
+                html = raw.decode(charset, errors="replace")
+            except LookupError:
+                html = raw.decode("utf-8", errors="replace")
+    except HTTPError as error:
+        raise FetchError(
+            f"O leitor alternativo respondeu HTTP {error.code} ({error.reason})."
+        ) from None
+    except URLError as error:
+        raise FetchError(
+            f"Não foi possível acessar o leitor alternativo: {error.reason}"
+        ) from None
+    except TimeoutError:
+        raise FetchError("O leitor alternativo demorou demais para responder.") from None
+
+    if "<html" not in html[:2000].lower():
+        raise FetchError("O leitor alternativo não retornou uma página HTML.")
+
+    page = extract_page(html, url)
+    if not page.title:
+        raise FetchError(
+            "Não foi possível extrair o título pelo leitor alternativo."
         )
     return page
 

@@ -220,7 +220,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
   height: calc(var(--compact-row-step, 128px) - 12px);
   gap: 8px;
   overflow: hidden;
-  padding: 9px;
+  padding: 8px;
   border: 1px solid var(--line);
   border-radius: 14px;
   background: rgba(15, 17, 25, 0.94);
@@ -298,7 +298,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
   display: flex;
   min-width: 0;
   flex-direction: column;
-  gap: 4px;
+  gap: 3px;
   overflow: hidden;
 }
 
@@ -318,9 +318,9 @@ function avatarStyle(entity: Entity): Record<string, string> {
   font-size: 13px;
   font-weight: 600;
   letter-spacing: -0.025em;
-  line-height: 1.25;
+  line-height: 1.2;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
 }
 
 .compact-topics {
@@ -331,7 +331,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
 
 .compact-topic {
   overflow: hidden;
-  padding: 2px 5px;
+  padding: 1px 5px;
   border: 1px solid rgba(200, 255, 94, 0.16);
   border-radius: 999px;
   background: rgba(200, 255, 94, 0.055);
@@ -354,8 +354,8 @@ function avatarStyle(entity: Entity): Record<string, string> {
 }
 
 .compact-footer .avatar {
-  width: 18px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
   font-size: 6.5px;
 }
 
@@ -450,7 +450,7 @@ function avatarStyle(entity: Entity): Record<string, string> {
   line-height: 1.25;
   text-wrap: pretty;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
 }
 
 .event-description {

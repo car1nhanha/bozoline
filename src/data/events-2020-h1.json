@@ -1,0 +1,1677 @@
+{
+  "events": [
+    {
+      "id": "id_bfn21fvgo",
+      "occurredAt": "2020-01-03T14:01:23.000Z",
+      "retrievedAt": "2026-10-24T13:45:24.139Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/01/03/bolsonaro-veta-integralmente-projeto-que-prorrogava-incentivos-ao-cinema",
+      "topicIds": [
+        "camara_dos_deputados"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "senado_federal",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Bolsonaro veta integralmente projeto que prorrogava incentivos ao cinema",
+        "description": "O presidente Jair Bolsonaro vetou integralmente um projeto de lei que prorrogava incentivos ao cinema, com o argumento de que a medida fere a Constituição, a Lei de Responsabilidade Fiscal e a Lei de Diretrizes Orçamentárias. A proposta ( PL 5.815/2019 ) foi aprovada pela Câmara dos Deputados em 4 de dezembro e pelo Senado no dia 11. O veto será apreciado pelo Congresso, podendo ser confirmado ou derrubado.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_foto6yl67",
+      "occurredAt": "2020-01-28T09:57:14.000Z",
+      "retrievedAt": "2026-10-24T13:46:05.124Z",
+      "link": "https://www.brasildefato.com.br/2020/01/28/no-governo-bolsonaro-compras-publicas-de-alimentos-viram-lenda/",
+      "topicIds": [
+        "governo_bolsonaro",
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ministerio_agricultura",
+        "venezuela",
+        "cuba"
+      ],
+      "preview": {
+        "title": "No governo Bolsonaro, compras públicas de alimentos viram lenda",
+        "description": "Programa federal de incentivo à agricultura familiar e combate à fome enfrenta queda de recursos e esvaziamento político…",
+        "image": "https://farm66.staticflickr.com/65535/49454654101_35d4945b49_o.png",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_akpadpqeb",
+      "occurredAt": "2020-01-04T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T13:46:23.313Z",
+      "link": "https://oglobo.globo.com/politica/se-eu-tivesse-possibilidade-teria-cancelado-caso-flavio-diz-bolsonaro-24171975",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "alerj"
+      ],
+      "preview": {
+        "title": "'Se eu tivesse a possibilidade, teria cancelado (caso Flávio)', diz Bolsonaro",
+        "description": "O presidente voltou a justificar sanção do juiz de garantias, após ataques até de apoiadores nas redes sociais",
+        "image": "https://ogimg.infoglobo.com.br/in/24169809-7c3-417/FT1086A/760/86347229_BSBBrasiliaBrasil02-01-2020Presidente-Jair-Bolsonaro-chega-e-faz-fotos-com-turi.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_bgjf8dg8y",
+      "occurredAt": "2020-01-17T15:49:31.000Z",
+      "retrievedAt": "2026-10-24T13:46:47.566Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/01/17/parlamentares-repudiam-discurso-de-inspiracao-nazista-de-secretario-de-cultura",
+      "topicIds": [
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Parlamentares repudiam discurso de inspiração nazista de secretário demitido",
+        "description": "Após pedidos de parlamentares nesta sexta-feira (17), o secretário nacional de Cultura, Roberto Alvim, foi demitido pelo presidente Jair Bolsonaro. Em um vídeo divulgado para anunciar o Prêmio Nacional das Artes, Alvim usou trechos muito semelhantes a um discurso do ministro de propaganda da Alemanha nazista, Joseph Goebbels. A reação de senadores e deputados foi publicada em redes sociais.",
+        "image": "https://www12.senado.leg.br/noticias/materias/2020/01/17/parlamentares-repudiam-discurso-de-inspiracao-nazista-de-secretario-de-cultura/roberto-alvim",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_ryno7b27g",
+      "occurredAt": "2020-01-03T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T13:46:59.951Z",
+      "link": "https://oglobo.globo.com/brasil/bolsonaro-defende-mudanca-em-livros-didaticos-muita-coisa-escrita-tem-que-suavizar-24170001",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "paulo_freire"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende mudança em livros didáticos: 'Muita coisa escrita, tem que suavizar'",
+        "description": "Presidente afirmou que governos de esquerda 'acabaram' com Colégio Pedro II",
+        "image": "https://ogimg.infoglobo.com.br/in/24170007-bb7-214/FT1086A/760/86295546_BRASILBrasilia-DF27-12-2019O-presidente-Jair-Bolsonaro-fala-com-apoiadores-ao-deix.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_ok6f55q9f",
+      "occurredAt": "2020-01-13T00:33:48.000Z",
+      "retrievedAt": "2026-10-24T13:47:31.287Z",
+      "link": "https://brasil.elpais.com/brasil/2020/01/12/politica/1578841564_993293.html",
+      "topicIds": [
+        "administracao_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "datafolha",
+        "chile",
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Bolsonaro acelera deterioração da democracia no Brasil",
+        "description": "Presidente aprofunda a polarização com um discurso hostil e ameaças aos seus adversários enquanto o Congresso e o STF impedem suas iniciativas mais radicais",
+        "image": "https://imagenes.elpais.com/resizer/v2/OKXAMRK3MT256YCBZKI3EWHI5A.jpg?auth=342dd240c3ab3ad5a09f79f8dd3f6a67b2f795a776e6cbd60820525fbf6f7ca1&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_wsecr1zcd",
+      "occurredAt": "2020-01-17T15:16:19.000Z",
+      "retrievedAt": "2026-10-24T13:56:02.246Z",
+      "link": "https://brasil.elpais.com/brasil/2020-01-17/secretario-da-cultura-de-bolsonaro-imita-discurso-de-nazista-goebbels-e-revolta-presidentes-da-camara-e-do-stf.html",
+      "topicIds": [
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "benjamin_netanyahu",
+        "congresso_nacional",
+        "exercito",
+        "israel"
+      ],
+      "preview": {
+        "title": "Secretário da Cultura de Bolsonaro imita fala de nazista Goebbels e é demitido",
+        "description": "Roberto Alvim copiou trechos de discurso de ministro da Propaganda de Hitler e atribuiu o fato a uma “busca” feita por sua equipe no Google. Atriz Regina Duarte foi convidada para o cargo",
+        "image": "https://imagenes.elpais.com/resizer/v2/PLLPKCABYBFEBHC3O47GBO5S2E.jfif?auth=b8bbcb9a629331acdb454f504c6e231fcaf04cae1be56d3fae632b0e0e237100&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_hsuu8x8xk",
+      "occurredAt": "2020-01-17T08:47:06.000Z",
+      "retrievedAt": "2026-10-24T13:56:12.070Z",
+      "link": "https://www.brasildefato.com.br/2020/01/17/secretario-de-cultura-de-bolsonaro-copia-discurso-de-goebbels-oficial-nazista/",
+      "topicIds": [
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "venezuela",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Secretário de Cultura de Bolsonaro copia discurso de Goebbels, oficial nazista",
+        "description": "A atitude de Roberto Alvim provocou uma onda de repúdio nas redes na madrugada de sexta-feira (17)…",
+        "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/02/cropped-Brasil-de-Fato.webp",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_10z4si7um",
+      "occurredAt": "2020-01-17T13:22:18.694Z",
+      "retrievedAt": "2026-10-24T13:56:22.240Z",
+      "link": "https://www.dw.com/pt-br/secret%C3%A1rio-da-cultura-copia-discurso-de-ministro-de-hitler-e-gera-pol%C3%AAmica/a-52040824",
+      "topicIds": [
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "camara_deputados",
+        "exercito",
+        "israel"
+      ],
+      "preview": {
+        "title": "Secretário da Cultura copia discurso de ministro de Hitler",
+        "description": "Roberto Alvim parafraseia trecho de discurso de Joseph Goebbels para divulgar novo Prêmio Nacional das Artes e é criticado nas redes sociais. Rodrigo Maia e Confederação Israelita pedem afastamento de secretário.",
+        "image": "https://static.dw.com/image/52040970_6.jpg",
+        "site": "dw.com"
+      }
+    },
+    {
+      "id": "id_dz8w1qouf",
+      "occurredAt": "2020-02-04T23:00:00.000Z",
+      "retrievedAt": "2026-10-24T13:56:36.858Z",
+      "link": "https://www.wsws.org/pt/articles/2020/02/05/nazi-f05.html",
+      "topicIds": [
+        "cultura"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "steve_bannon",
+        "camara_deputados",
+        "exercito",
+        "israel"
+      ],
+      "preview": {
+        "title": "Secretário da Cultura de Bolsonaro é demitido após plagiar discurso nazista de Joseph Goebbels",
+        "description": "Alvim discursou ao lado de uma bandeira brasileira e uma cruz ao som da ópera de Wagner favorita de Hitler.",
+        "image": "https://www.wsws.org/asset/a0841095-2473-4eec-9aa5-8b20f1ddf77b?rendition=1600x900",
+        "site": "World Socialist Web Site"
+      }
+    },
+    {
+      "id": "id_ek44m4h6x",
+      "occurredAt": "2020-02-06T14:30:46.000Z",
+      "retrievedAt": "2026-10-24T14:21:39.594Z",
+      "link": "https://cimi.org.br/2020/02/apib-repudia-projeto-governo-bolsonaro-libera-mineracao-hidreletricas-agronegocio-terras-indigenas/",
+      "topicIds": [
+        "governo_bolsonaro",
+        "camara_dos_deputados"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Apib repudia projeto do governo Bolsonaro que libera mineração, hidrelétricas e agronegócio nas terras indígenas | Cimi",
+        "description": "Projeto de Lei 191/2020 foi protocolado na Câmara dos Deputados pelo Executivo nesta quinta-feira (6)",
+        "image": "https://cimi.org.br/wp-content/uploads/2019/04/ATL_Indigenas_Marcha.jpg",
+        "site": "cimi.org.br"
+      }
+    },
+    {
+      "id": "id_cp0iqwqhb",
+      "occurredAt": "2020-02-20T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T14:21:50.293Z",
+      "link": "https://www12.senado.leg.br/radio/1/noticia/2020/02/20/presidente-do-conselho-de-etica-pede-parecer-sobre-pedido-de-cassacao-de-flavio-bolsonaro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Pedido de cassação de Flávio Bolsonaro é enviado para a Advocacia do Senado",
+        "description": "Pedido de cassação de Flávio Bolsonaro é enviado para a Advocacia do Senado — Rádio Senado Menu Acessibilidade Fale com o Senado MENU DESTA SEÇÃO Ao Vivo Canal 1 - Rádio Senado FM Canal 2 - Rádio Senado FM Programas Podcasts Notícias RadioAgência Todos os Áudios Serviços Programação Quem somos Como Sintonizar Rede…",
+        "site": "Rádio Senado"
+      }
+    },
+    {
+      "id": "id_68gz8tyyr",
+      "occurredAt": "2020-02-12T10:31:00.000Z",
+      "retrievedAt": "2026-10-24T14:22:27.513Z",
+      "link": "https://oglobo.globo.com/politica/imagens-revelam-que-gabinete-de-carlos-bolsonaro-recebeu-ex-assessores-investigados-24232211",
+      "topicIds": [
+        "governo_bolsonaro",
+        "caso_queiroz",
+        "familia_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "fabricio_queiroz",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Imagens revelam que gabinete de Carlos Bolsonaro recebeu ex-assessores investigados",
+        "description": "Fotografias da recepção da Câmara mostram visitas em um único dia de ex-funcionários que prestaram depoimentos sobre rachadinha ao Ministério Público do Rio",
+        "image": "https://ogimg.infoglobo.com.br/politica/24244187-ca7-ae3/FT1086A/760/print-carlos-bolsonaro.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_n2ic1n2if",
+      "occurredAt": "2020-02-05T22:59:05.000Z",
+      "retrievedAt": "2026-10-24T14:22:42.937Z",
+      "link": "https://oc.eco.br/bolsonaro-assina-projeto-para-vender-amazonia-mineradoras/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro assina projeto para vender a Amazônia a mineradoras",
+        "description": "Caberá ao Congresso, à Justiça e a investidores internacionais responsáveis barrar o avanço da destruição",
+        "image": "https://oc.eco.br/wp-content/uploads/2019/09/GREENPEACE-e1592919995108.jpg",
+        "site": "Observatório do Clima"
+      }
+    },
+    {
+      "id": "id_urjn67lua",
+      "occurredAt": "2020-02-10T14:16:18.000Z",
+      "retrievedAt": "2026-10-24T14:23:46.586Z",
+      "link": "https://www.bbc.com/portuguese/brasil-51447905",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "camara_deputados",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Adriano da Nóbrega: Qual é a relação entre acusado de chefiar milícia morto e Flávio Bolsonaro?",
+        "description": "Adriano da Nóbrega era acusado de chefiar a milícia e o grupo de assassinos profissionais aos quais, segundo investigadores, estão ligados acusados de morte da vereadora Marielle Franco, em 2018. Ele também era suspeito de se beneficiar financeiramente do esquema de repasses ilegais no gabinete de Flávio Bolsonaro.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/28A4/production/_110840401_reproducao.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_oxydjgj1e",
+      "occurredAt": "2020-02-16T01:37:00.000Z",
+      "retrievedAt": "2026-10-24T14:23:59.257Z",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2020-02/bolsonaro-diz-que-em-2005-adriano-nobrega-era-um-heroi-da-pm-do-rio",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que, em 2005, Adriano Nóbrega era herói da PM do Rio",
+        "description": "O ex-capitão do Batalhão de Operações Policiais Especiais (Bope) da Polícia Militar do Rio de Janeiro, foi morto no dia 9, no município de Esplanada, na Bahia. Ele era investigado por diversos crimes, inclusive de envolvimento nas mortes da vereadora Marielle Franco e do seu motorista Anderson Franco",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_7aazctw91",
+      "occurredAt": "2020-02-15T20:29:55.000Z",
+      "retrievedAt": "2026-10-24T14:24:10.048Z",
+      "link": "https://veja.abril.com.br/brasil/bolsonaro-adriano-da-nobrega-era-heroi-quando-foi-homenageado-por-flavio/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz"
+      ],
+      "preview": {
+        "title": "Bolsonaro: Adriano da Nóbrega era herói quando foi homenageado por Flávio",
+        "description": "Presidente disse que condecoração ocorreu após seu pedido: \"pode trazer para cima de mim isso aí\"",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2020/02/adriano-nobrega-miliciano-1.jpg.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_6ggz9wsbu",
+      "occurredAt": "2020-02-09T17:12:11.054Z",
+      "retrievedAt": "2026-10-24T14:24:25.587Z",
+      "link": "https://www.dw.com/pt-br/miliciano-adriano-da-n%C3%B3brega-%C3%A9-morto-em-opera%C3%A7%C3%A3o-na-bahia/a-52312307",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Miliciano Adriano da Nóbrega é morto em operação na Bahia",
+        "description": "Ex-PM era ligado a Flávio Bolsonaro e apontado como chefe do Escritório do Crime, grupo investigado no caso Marielle Franco. Foragido há mais de um ano, ele morreu em troca de tiros com a polícia, diz governo baiano.",
+        "image": "https://static.dw.com/image/52312732_6.jpg",
+        "site": "dw.com"
+      }
+    },
+    {
+      "id": "id_maxlpevxr",
+      "occurredAt": "2020-02-19T00:15:40.000Z",
+      "retrievedAt": "2026-10-24T14:26:22.245Z",
+      "link": "https://x.com/BlogdoNoblat/status/1229922463959613440",
+      "topicIds": [
+        "violencia_policial",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Blog do Noblat no X: \"Curioso. Sempre que inocentes são vítimas de violência policial, Bolsonaro sai em defesa da polícia. No caso do miliciano Adriano da Nóbrega, faz o contrário - levanta suspeitas contra a polícia. Por que será?\"",
+        "description": "Curioso. Sempre que inocentes são vítimas de violência policial, Bolsonaro sai em defesa da polícia. No caso do miliciano Adriano da Nóbrega, faz o contrário - levanta suspeitas contra a polícia. Por que será?",
+        "image": "https://pbs.twimg.com/profile_images/1956443452368969729/IcPQqXKi_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_0tq6lwg9x",
+      "occurredAt": "2020-02-20T15:43:07.000Z",
+      "retrievedAt": "2026-10-24T14:27:36.329Z",
+      "link": "https://x.com/BlogdoNoblat/status/1230518249420447749",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Blog do Noblat no X: \"Quer dizer que Flávio Bolsonaro, que sempre negou ter tido relações pessoais com Adriano da Nóbrega, o visitou várias vezes quando o miliciano estava preso... E várias vezes Adriano esteve no gabinete de Flávio. Sei...",
+        "description": "Quer dizer que Flávio Bolsonaro, que sempre negou ter tido relações pessoais com Adriano da Nóbrega, o visitou várias vezes quando o miliciano estava preso... E várias vezes Adriano esteve no gabinete de Flávio. Sei...",
+        "image": "https://pbs.twimg.com/media/EROtvhmXkAAqBcm?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_7vicwtlgs",
+      "occurredAt": "2020-03-11T22:36:16.368Z",
+      "retrievedAt": "2026-10-24T14:31:14.106Z",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/03/11/desembargadora-suspende-investigacao-contra-flavio-bolsonaro.ghtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "alerj",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Justiça do RJ suspende investigação contra Flávio Bolsonaro sobre 'rachadinhas'",
+        "description": "De acordo com decisão da desembargadora, MP só poderá investigar após análise e parecer da Câmara Criminal.",
+        "image": "https://s2-g1.glbimg.com/bRqq-2BG0L7ZXCvDk8ElSBaAWVY=/640x0/filters:format(jpeg)/https://s.glbimg.com/jo/g1/f/original/2019/02/07/flavio.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_nhx284zjr",
+      "occurredAt": "2020-02-12T20:24:28.000Z",
+      "retrievedAt": "2026-10-24T14:31:30.490Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/23933/carlos-bolsonaro-recebeu-investigados-por-esquema-de-rachadinha-no-gabinete-diz-jornal",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "fabricio_queiroz",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Carlos Bolsonaro recebeu investigados por esquema de rachadinha no gabinete, diz jornal",
+        "description": "Carlos Bolsonaro recebeu investigados por esquema de rachadinha no gabinete, diz jornal",
+        "image": "https://static.congressoemfoco.com.br/2018/12/flavio_jair_carlos_bolsonaro-1.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_leewhm5g8",
+      "occurredAt": "2020-01-05T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T14:31:42.383Z",
+      "link": "https://www.conversaafiada.com.br/politica/bolsonaro-culpa-governo-do-rj-em-relacao-a-rachadinhas-do-o1",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "alerj",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Bolsonaro culpa governo do RJ em relação a rachadinhas do 01",
+        "description": "\"Se eu tivesse a possibilidade de trancar, teria anulado\"",
+        "image": "https://www.conversaafiada.com.br/politica/bolsonaro-culpa-governo-do-rj-em-relacao-a-rachadinhas-do-o1/Untitled-1.jpg/@@images/9f10e501-6abc-40db-a280-16566571cf64.jpeg",
+        "site": "Conversa Afiada"
+      }
+    },
+    {
+      "id": "id_mg04mo7zm",
+      "occurredAt": "2020-01-13T16:54:03.000Z",
+      "retrievedAt": "2026-10-24T14:33:11.072Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/18754/bolsonaro-mandou-queiroz-faltar-depoimento-diz-livro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Bolsonaro mandou Queiroz faltar depoimento, diz livro",
+        "description": "Bolsonaro mandou Queiroz faltar depoimento, diz livro",
+        "image": "https://static.congressoemfoco.com.br/2019/12/47-3.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_geg7o6yr7",
+      "occurredAt": "2020-03-02T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T14:33:25.609Z",
+      "link": "https://oglobo.globo.com/politica/apuracoes-sobre-socio-de-flavio-bolsonaro-paralisadas-atrasam-investigacoes-sobre-lavagem-de-dinheiro-24280482",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Apurações sobre sócio de Flávio Bolsonaro, paralisadas, atrasam investigações sobre lavagem de dinheiro",
+        "description": "Desde janeiro, o MP está impedido, por decisão liminar, de investigar Alexandre Santini, sócio do filho mais velho de Bolsonaro em loja de chocolates",
+        "image": "https://ogimg.infoglobo.com.br/in/24280479-055-a7a/FT1086A/760/83490525_BRASILBrasilia-DF02-07-2019Retrato-do-senador-Flavio-Bolsonaro-PSL-RJ-Em-entre.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_kcg42si6x",
+      "occurredAt": "2020-03-20T12:26:00.000Z",
+      "retrievedAt": "2026-10-24T14:40:23.469Z",
+      "link": "https://www1.folha.uol.com.br/poder/2020/03/bolsonaro-se-nega-a-mostrar-exames-que-segundo-ele-deram-negativo-para-coronavirus.shtml",
+      "topicIds": [
+        "governo_bolsonaro",
+        "congresso_nacional"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "donald_trump",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos",
+        "israel"
+      ],
+      "preview": {
+        "title": "Bolsonaro se nega a mostrar exames que, segundo ele, deram negativo para coronavírus",
+        "description": "Já presidente dos EUA divulgou laudo médico, assinado pelo médico da Casa Branca, após análise não detectar Covid-19",
+        "image": "https://f.i.uol.com.br/fotografia/2020/03/18/15845696945e729d5ea4476_1584569694_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_l848wpue6",
+      "occurredAt": "2020-03-27T21:35:13.000Z",
+      "retrievedAt": "2026-10-24T14:40:35.649Z",
+      "link": "https://ictq.com.br/politica-farmaceutica/cloroquina-nao-tem-efeito-colateral-afirma-bolsonaro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "\"Cloroquina não tem efeito colateral\" afirma Bolsonaro",
+        "description": "Durante transmissão ao vivo pela internet, na última quinta-feira (26/03), o presidente da República, Jair Bolsonaro, defendeu o uso da hidroxicloroquina e cloroquina no combate ao novo coronavírus (Covid-19). No pronunciamento, mesmo contrariando o que diz a bula do próprio medicamento, o governante afirmou que o fármaco não tem efeitos colaterais.",
+        "image": "https://ictq.com.br/images/Cloroquina-nao-tem-efeito-colateral-afirma-Bolsonaro.jpeg",
+        "site": "ICTQ"
+      }
+    },
+    {
+      "id": "id_xezi8j80j",
+      "occurredAt": "2020-03-17T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T14:40:49.143Z",
+      "link": "https://www.camara.leg.br/noticias/646136-lideres-criticam-conduta-de-bolsonaro-na-crise-do-coronavirus/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "camara_deputados",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Agência Câmara de Notícias",
+        "description": "Líderes criticam conduta de Bolsonaro na crise do coronavírus - Portal da Câmara dos Deputados Ir ao conteúdo Ir à navegação principal Página inicial Acessibilidade Fale Conosco Congresso Senado PT English EN Español ES Entrar Assuntos Agropecuária Cidades e transportes Ciência, tecnologia e comunicações Consumidor…",
+        "image": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
+        "site": "Portal da Câmara dos Deputados"
+      }
+    },
+    {
+      "id": "id_fh61itndi",
+      "occurredAt": "2020-03-16T14:44:17.000Z",
+      "retrievedAt": "2026-10-24T14:41:13.431Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/03/16/senadores-condenam-apoio-de-bolsonaro-a-manifestacoes-em-meio-a-coronavirus",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Senadores condenam apoio de Bolsonaro a manifestações em meio a coronavírus",
+        "description": "Senadores usaram suas redes sociais para comentar os atos pró-governo neste domingo (15) em diversas cidades brasileiras. A maior parte dos parlamentares condenou a participação do presidente Jair Bolsonaro na manifestação em Brasília em meio ao aumento dos casos de coronavírus no país.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_v520gighd",
+      "occurredAt": "2020-03-20T16:27:40.000Z",
+      "retrievedAt": "2026-10-25T00:25:55.035Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/03/20/em-sessao-historica-senado-aprova-calamidade-publica-contra-covid-19",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "rogerio_carvalho",
+        "congresso_nacional",
+        "senado_federal",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Em sessão histórica, Senado aprova calamidade pública contra covid-19",
+        "description": "Primeira votação remota em Plenário nos 196 anos da instituição passa no teste e garante rapidez na aprovação de decreto para enfrentar pandemia causada por coronavírus",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_87e5f7pom",
+      "occurredAt": "2020-03-22T15:17:57.000Z",
+      "retrievedAt": "2026-10-25T00:27:37.936Z",
+      "link": "https://x.com/veraholtzirreal/status/1241745938844188673",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "vera holtz irreal no X: \"Agora acho que todos concordam que é melhor investir em ciência do que investir em armas, não dá pra matar o corona com um tiro de fuzil\"",
+        "description": "Agora acho que todos concordam que é melhor investir em ciência do que investir em armas, não dá pra matar o corona com um tiro de fuzil",
+        "image": "https://pbs.twimg.com/profile_images/1844076065460731904/BqwXdwwh_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_j73izxxgc",
+      "occurredAt": "2020-06-03T12:58:10.000Z",
+      "retrievedAt": "2026-10-25T00:54:12.235Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/06/03/bolsonaro-veta-repasse-de-r-8-6-bilhoes-para-combate-a-coronavirus",
+      "topicIds": [
+        "congresso_nacional",
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "banco_central",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro veta repasse de R$ 8,6 bilhões para combate a coronavírus",
+        "description": "O presidente Jair Bolsonaro sancionou com vetos uma lei que poderia liberar R$ 8,6 bilhões para estados, Distrito Federal e municípios comprarem equipamentos e materiais de combate à covid-19. O projeto original aprovado pelo Congresso Nacional previa a extinção do Fundo de Reserva Monetária, mantido Banco Central, e a destinação dos recursos para o enfrentamento da pandemia. Mas Bolsonaro vetou todos os dispositivos que vinculavam o uso do dinheiro à batalha contra o coronavírus.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_9cymqz1d2",
+      "occurredAt": "2020-05-17T12:51:00.000Z",
+      "retrievedAt": "2026-10-25T00:54:37.997Z",
+      "link": "https://www1.folha.uol.com.br/poder/2020/05/bolsonaro-provoca-nova-aglomeracao-diz-que-brasil-saira-mais-forte-da-pandemia-e-fala-em-resgate-de-valores.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro provoca nova aglomeração, evita ataque a Poderes e fala em resgate de valores",
+        "description": "Em meio a crise política, presidente vai à rampa do Planalto com ministros e filhos Eduardo e Carlos para saudar manifestantes",
+        "image": "https://f.i.uol.com.br/fotografia/2020/05/17/15897359355ec171ffb84e0_1589735935_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_ki4w9easl",
+      "occurredAt": "2020-05-15T19:08:13.000Z",
+      "retrievedAt": "2026-10-25T00:55:06.646Z",
+      "link": "https://www12.senado.leg.br/noticias/videos/2020/05/senadores-pedem-derrubada-imediata-de-veto-de-bolsonaro-a-auxilio-emergencial",
+      "topicIds": [
+        "assistencia_social"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Senadores pedem derrubada imediata de veto de Bolsonaro a auxílio emergencial",
+        "description": "O presidente Jair Bolsonaro sancionou com vetos o Projeto de Lei (PL) 873/2020, aprovado pelo Senado e pela Câmara, que amplia a lista de beneficiários do auxílio emergencial de R$ 600. O governo vetou a extensão do benefício para profissionais informais que não estão inscritos no Cadastro Único, como motoristas de aplicativos, pescadores, diaristas e ambulantes de praia. O projeto, do senador Randolfe Rodrigues (Rede-AP), altera a Lei 13.892, de 2020 , promulgada no início de abril, que criou o benefício por três meses, durante a pandemia de covid-19. \"O presidente mostra não estar preocupado com o sofrimento das pessoas em decorrência da pandemia\", disse Randolfe. O senador Major Olímpio (PSL-SP) considerou o veto uma \"vergonha, insensatez\". O senador Weverton (PDT-MA) afirmou que não resta alternativa ao Congresso a não ser derrubar o veto. O senador Humberto Costa (PT-PE) entende que",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_8ms0umiyu",
+      "occurredAt": "2020-06-23T19:47:07.294Z",
+      "retrievedAt": "2026-10-25T00:55:34.687Z",
+      "link": "https://www.dw.com/pt-br/juiz-manda-bolsonaro-usar-m%C3%A1scara-em-p%C3%BAblico/a-53918531",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Juiz manda Bolsonaro usar máscara em público",
+        "description": "Magistrado estipula multa diária de R$ 2.000 caso decisão seja descumprida. \"Mostra-se no mínimo desrespeitoso o ato de sair em público sem o uso de máscara, colocando em risco a saúde de outras pessoas.\"",
+        "image": "https://static.dw.com/image/53554436_6.jpg",
+        "site": "dw.com"
+      }
+    },
+    {
+      "id": "id_emnznc7d8",
+      "occurredAt": "2020-05-29T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T00:56:00.669Z",
+      "link": "https://www.camara.leg.br/comprove/665794-e-fato-que-existem-mais-de-30-pedidos-de-impeachment-contra-o-presidente-jair-bolsonaro/",
+      "topicIds": [
+        "camara_dos_deputados"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Comprove É fato que existem mais de 30 pedidos de impeachment contra o presidente Jair Bolsonaro",
+        "description": "Os pedidos estão sob análise e podem ser ou não aceitos pelo presidente da Câmara dos Deputados",
+        "image": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
+        "site": "Portal da Câmara dos Deputados"
+      }
+    },
+    {
+      "id": "id_auynx8s2v",
+      "occurredAt": "2020-05-22T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T00:56:31.159Z",
+      "link": "https://www.camara.leg.br/noticias/663975-video-de-reuniao-ministerial-repercute-entre-deputados/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "congresso_nacional",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Agência Câmara de Notícias",
+        "description": "Vídeo de reunião ministerial repercute entre deputados - Portal da Câmara dos Deputados Ir ao conteúdo Ir à navegação principal Página inicial Acessibilidade Fale Conosco Congresso Senado PT English EN Español ES Entrar Assuntos Agropecuária Cidades e transportes Ciência, tecnologia e comunicações Consumidor Direitos…",
+        "image": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
+        "site": "Portal da Câmara dos Deputados"
+      }
+    },
+    {
+      "id": "id_cnxp6ylss",
+      "occurredAt": "2020-06-06T02:58:00.000Z",
+      "retrievedAt": "2026-10-25T00:56:57.932Z",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2020-06/bolsonaro-diz-que-brasil-pode-sair-da-oms",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "donald_trump",
+        "congresso_nacional",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que Brasil pode sair da OMS",
+        "description": "\"A gente estuda, no futuro, ou a OMS trabalha sem viés ideológico, ou vamos estar fora também\", disse o presidente a jornalistas na portaria do Palácio da Alvorada.",
+        "image": "https://imagens.ebc.com.br/dDN3TkEAcN6KrN2tOsh480fBR_s=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/260520o_presidente_jair_bolsonaro_cumprimenta_populares_e_fala_a_imprensa_no_palacio_da_alvorada_3216.jpg?itok=yT_NH0sx",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_odvfdpvz8",
+      "occurredAt": "2020-05-08T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T00:57:10.238Z",
+      "link": "https://www.aosfatos.org/noticias/bolsonaro-chega-1000-declaracoes-falsas-ou-distorcidas-com-492-dias-de-mandato/",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "marcelo_alvaro_antonio",
+        "donald_trump"
+      ],
+      "preview": {
+        "title": "Bolsonaro chega a 1.000 declarações falsas ou distorcidas com 492 dias de mandato",
+        "description": "Jair Bolsonaro ultrapassou a marca de mil declarações falsas ou distorcidas ditas desde o início de seu mandato, mostra o contador do Aos Fatos que checa sistematicamente as falas do presidente passíveis de verificação. O número foi alcançado nesta quinta-feira (7), quando ele afirmou que a pandemia de Covid-19 já teria ceifado 10 milhões de empregos formais, o que não é atestado pelos dados disponíveis.",
+        "image": "https://www.aosfatos.org/noticias/bolsonaro-chega-1000-declaracoes-falsas-ou-distorcidas-com-492-dias-de-mandato/opengraph-image?00e45b2b8eeb2e8b",
+        "site": "www.aosfatos.org"
+      }
+    },
+    {
+      "id": "id_dd3itzebb",
+      "occurredAt": "2020-06-18T19:26:20.000Z",
+      "retrievedAt": "2026-10-25T00:57:43.740Z",
+      "link": "https://www12.senado.leg.br/noticias/videos/2020/06/pelo-twitter-flavio-bolsonaro-se-manifesta-sobre-prisao-de-seu-ex-assessor",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Pelo Twitter, Flávio Bolsonaro se manifesta sobre prisão de seu ex-assessor",
+        "description": "O senador Flávio Bolsonaro ( Republicanos-RJ) se manifestou nesta quinta (18) sobre a prisão de seu ex-assessor, Fabrício Queiroz, ocorrida no interior de São Paulo. Pelo Twitter, o senador escreveu que encara a situação com tranquilidade e que \"a verdade prevalecerá\". Para ele, a prisão é um ataque ao governo do seu pai, o presidente Jair Bolsonaro. Saiba mais na reportagem da TV Senado.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_6cma0klka",
+      "occurredAt": "2020-06-17T01:24:00.000Z",
+      "retrievedAt": "2026-10-25T00:58:00.735Z",
+      "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2020-06/justica-arquiva-segundo-inquerito-sobre-atentado-contra-bolsonaro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Justiça arquiva segundo inquérito sobre atentado contra Bolsonaro",
+        "description": "O juiz aceitou pedido de arquivamento feito pelo Ministério Público Federal (MPF). No entendimento da Justiça, Adélio agiu sozinho e não há indícios de exista um mandante ou cúmplice no crime.",
+        "image": "https://imagens.ebc.com.br/dLh8J_Etfvij4CZkvA7GJQdP1-A=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/adelio_bispop_de_oliveira_assessoria_de_comunicacao_organizacional_do_2deg_bpm.jpg?itok=PFofNu0P",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_rdp2ajka6",
+      "occurredAt": "2020-05-25T18:21:15.000Z",
+      "retrievedAt": "2026-10-25T00:58:15.161Z",
+      "link": "https://www.bbc.com/portuguese/brasil-52801691",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "donald_trump",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "A imagem de Bolsonaro na imprensa internacional: de 'quebrar Brasil' a 'levar país a desastre'",
+        "description": "\"Quebrar o Brasil\" e \"levar o país ao desastre\" são alguns dos prognósticos associados à atuação do presidente, descrito como um dos raros negacionistas da gravidade da pandemia e tem sua atuação apresentada como uma das piores em todo o mundo.",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_czdj4qtrw",
+      "occurredAt": "2020-06-15T18:47:17.000Z",
+      "retrievedAt": "2026-10-25T00:58:37.942Z",
+      "link": "https://apublica.org/2020/06/governo-gastou-r-30-milhoes-em-radios-e-tvs-de-pastores-que-apoiam-bolsonaro/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "policia_federal",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Governo gastou mais de R$ 30 milhões em rádios e TVs de pastores que apoiam Bolsonaro",
+        "description": "Emissoras de evangélicos que oraram junto ao presidente receberam 10% de todos os gastos da Secretaria de Comunicação no atual governo",
+        "image": "https://apublica.org/wp-content/uploads/2020/06/thumb-facebook-34.png",
+        "site": "Agência Pública"
+      }
+    },
+    {
+      "id": "id_fjblc20iu",
+      "occurredAt": "2020-06-26T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T00:59:52.894Z",
+      "link": "https://www.aosfatos.org/noticias/familia-bolsonaro-pediu-o-fim-do-foro-privilegiado-9-vezes-antes-de-decisao-que-beneficiou-flavio/",
+      "topicIds": [
+        "familia_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "eduardo_bolsonaro",
+        "fabricio_queiroz",
+        "donald_trump",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Família Bolsonaro pediu o fim do foro privilegiado 9 vezes antes de decisão que beneficiou Flávio",
+        "description": "A família Bolsonaro defendeu publicamente o fim do foro privilegiado ao menos nove vezes desde 2017, todas antes de o senador Flávio Bolsonaro (Republicanos-RJ) recorrer ao mecanismo no inquérito que o investiga pela prática de “rachadinha”. Nesse período, o parlamentar se posicionou em três ocasiões contra a prerrogativa; o presidente Jair Bolsonaro (sem partido) em quatro; o deputado federal Eduardo Bolsonaro (PSL-SP) e o vereador carioca Carlos Bolsonaro (Republicanos) uma vez cada, segundo levantamento do Aos Fatos em registros nas redes sociais e na imprensa.",
+        "image": "https://www.aosfatos.org/noticias/familia-bolsonaro-pediu-o-fim-do-foro-privilegiado-9-vezes-antes-de-decisao-que-beneficiou-flavio/opengraph-image?00e45b2b8eeb2e8b",
+        "site": "www.aosfatos.org"
+      }
+    },
+    {
+      "id": "id_8c6juqobe",
+      "occurredAt": "2020-06-04T20:18:27.000Z",
+      "retrievedAt": "2026-10-25T01:00:19.639Z",
+      "link": "https://www.bbc.com/portuguese/brasil-52929263",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "damares_alves"
+      ],
+      "preview": {
+        "title": "'Me decepcionei com Bolsonaro', diz indígena que integrou comitiva do presidente na ONU",
+        "description": "Apresentada pelo presidente como um contraponto ao cacique Raoni, youtuber Ysani Kalapalo diz em entrevista à BBC News Brasil que Bolsonaro tem falhado no diálogo com as minorias e privilegiado a indicação de amigos para cargos públicos.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/F2E5/production/_112718126_ysani_kalapalo.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_im365p9kp",
+      "occurredAt": "2020-06-12T21:20:51.000Z",
+      "retrievedAt": "2026-10-25T01:00:33.544Z",
+      "link": "https://diplomatique.org.br/o-necrogoverno-bolsonaro-isolado-da-ciencia-e-do-mundo/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "O necrogoverno Bolsonaro isolado da ciência e do mundo",
+        "description": "A ausência de liderança e de respeito com a vida de Jair Bolsonaro tem nos feito trocar o isolamento social pelo o isolamento internacional",
+        "image": "https://diplomatique.org.br/wp-content/uploads/2020/06/49988328912_c2056cbb6f_o_0.jpg",
+        "site": "Le Monde Diplomatique"
+      }
+    },
+    {
+      "id": "id_tjz3w0s8s",
+      "occurredAt": "2020-04-24T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T01:00:53.163Z",
+      "link": "https://www12.senado.leg.br/radio/1/noticia/2020/04/24/demissao-de-sergio-moro-do-ministerio-da-justica-repercute-entre-senadores",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Demissão de Sergio Moro do Ministério da Justiça repercute entre senadores",
+        "description": "Demissão de Sergio Moro do Ministério da Justiça repercute entre senadores — Rádio Senado Menu Acessibilidade Fale com o Senado MENU DESTA SEÇÃO Ao Vivo Canal 1 - Rádio Senado FM Canal 2 - Rádio Senado FM Programas Podcasts Notícias RadioAgência Todos os Áudios Serviços Programação Quem somos Como Sintonizar Rede…",
+        "site": "Rádio Senado"
+      }
+    },
+    {
+      "id": "id_esjwlfrh7",
+      "occurredAt": "2020-04-24T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T01:01:17.697Z",
+      "link": "https://www12.senado.leg.br/radio/1/noticia/2020/04/24/bolsonaro-nega-interferencia-na-pf-e-faz-acusacoes-contra-moro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro nega interferência na PF e faz acusações contra Moro",
+        "description": "Bolsonaro nega interferência na PF e faz acusações contra Moro — Rádio Senado Menu Acessibilidade Fale com o Senado MENU DESTA SEÇÃO Ao Vivo Canal 1 - Rádio Senado FM Canal 2 - Rádio Senado FM Programas Podcasts Notícias RadioAgência Todos os Áudios Serviços Programação Quem somos Como Sintonizar Rede Senado de Rádio…",
+        "site": "Rádio Senado"
+      }
+    },
+    {
+      "id": "id_d34e2jcje",
+      "occurredAt": "2020-04-24T11:35:00.000Z",
+      "retrievedAt": "2026-10-25T01:01:42.905Z",
+      "link": "https://oglobo.globo.com/politica/moro-ao-pedir-demissao-bolsonaro-queria-interferir-pessoalmente-na-pf-ligar-para-diretores-superintendentes-ter-acesso-relatorios-1-24390923",
+      "topicIds": [
+        "camara_dos_deputados"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "ministerio_justica",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Moro ao pedir demissão: Bolsonaro queria interferir pessoalmente na PF, ligar para diretores e superintendentes e ter acesso a relatórios",
+        "description": "'Presidente tinha preocupação com inquéritos em curso no STF' e por isso queria informações de inteligência; perda de mais um ministro amplia isolamento e agrava crise política",
+        "image": "https://ogimg.infoglobo.com.br/in/24391196-b23-ffc/FT1086A/760/87945588_Brasilia-DF-24-04-2020-Apos-exoneracao-de-Mauricio-Valeixo-oministro-da-Justica-Sergio-Mo.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_nanokoysw",
+      "occurredAt": "2020-04-24T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T01:01:53.115Z",
+      "link": "https://oglobo.globo.com/politica/bolsonarodemite-diretor-geral-da-pf-moro-avalia-deixar-governo-24390666",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Bolsonaro demite diretor-geral da PF, e Moro avalia deixar governo",
+        "description": "Exoneração de Maurício Valeixo foi publicada no Diário Oficial desta sexta-feira sem que ministro fosse avisado previamente",
+        "image": "https://ogcss.infoglobo.com.br/9876543210/img/oglobo.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_7rhuoyxwn",
+      "occurredAt": "2020-04-03T19:21:18.000Z",
+      "retrievedAt": "2026-10-25T01:21:41.761Z",
+      "link": "https://x.com/exame/status/1246155836168298496",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "exame no X: \"Maioria de tuítes a favor de Bolsonaro sobre coronavírus é feita por robôs https://t.co/lfzlVINrws\"",
+        "description": "Maioria de tuítes a favor de Bolsonaro sobre coronavírus é feita por robôs https://t.co/lfzlVINrws",
+        "image": "https://pbs.twimg.com/profile_images/1643709121739341825/UsMzL7zE_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_wttq39sd4",
+      "occurredAt": "2020-05-04T18:16:01.000Z",
+      "retrievedAt": "2026-10-25T01:22:53.180Z",
+      "link": "https://x.com/MarceloFreixo/status/1257373430913142784",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Marcelo Freixo no X: \"URGENTE! Novo chefe da PF, Rolando Souza já mostrou a que veio. Mal assumiu o cargo e já mandou trocar o comando da Polícia Federal no Rio. Bolsonaro está usando a presidência para impedir que as relações criminosas da",
+        "description": "URGENTE! Novo chefe da PF, Rolando Souza já mostrou a que veio. Mal assumiu o cargo e já mandou trocar o comando da Polícia Federal no Rio. Bolsonaro está usando a presidência para impedir que as relações criminosas da sua família com milícia sejam investigadas.",
+        "image": "https://pbs.twimg.com/profile_images/2107604391918239745/athRcCtr_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_zznyo9c3r",
+      "occurredAt": "2020-04-25T19:35:03.000Z",
+      "retrievedAt": "2026-10-25T01:26:28.994Z",
+      "link": "https://x.com/folha/status/1254131827658326026",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Folha de S.Paulo no X: \"PF identifica Carlos Bolsonaro como articulador em esquema criminoso de fake news https://t.co/65nLOhXDyQ\"",
+        "description": "PF identifica Carlos Bolsonaro como articulador em esquema criminoso de fake news https://t.co/65nLOhXDyQ",
+        "image": "https://pbs.twimg.com/card_img/2113809611430223873/mH-qiNzp?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_vbaoq5ivx",
+      "occurredAt": "2020-04-17T14:55:42.000Z",
+      "retrievedAt": "2026-10-25T01:28:11.962Z",
+      "link": "https://x.com/DudaSalabert/status/1251162425610526720",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "ibama"
+      ],
+      "preview": {
+        "title": "Duda Salabert no X: \"Bolsonaro acabou de demitir o Presidente do CNPq por ele pedir incentivo à pesquisa. Demitiu Mandetta por seguir orientações da OMS. Demitiu o presidente do IBAMA por combater garimpo ilegal. Demitiu presidente do INPE",
+        "description": "Bolsonaro acabou de demitir o Presidente do CNPq por ele pedir incentivo à pesquisa. Demitiu Mandetta por seguir orientações da OMS. Demitiu o presidente do IBAMA por combater garimpo ilegal. Demitiu presidente do INPE por alertar sobre desmatamento na Amazônia.Onde vamos parar?",
+        "image": "https://pbs.twimg.com/profile_images/2111444078801907712/77XxclpP_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_pri8whpro",
+      "occurredAt": "2020-04-17T13:57:37.000Z",
+      "retrievedAt": "2026-10-25T01:28:52.682Z",
+      "link": "https://x.com/laurojardim/status/1251147808209420290",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Lauro Jardim no X: \"Mandetta deixa ministério cantando. https://t.co/pPGTl93svv\"",
+        "description": "Mandetta deixa ministério cantando. https://t.co/pPGTl93svv",
+        "image": "https://pbs.twimg.com/ext_tw_video_thumb/1251144915783872514/pu/img/9O1EJLn2EXgoa7YF?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_dh4dkd763",
+      "occurredAt": "2020-04-06T18:37:46.000Z",
+      "retrievedAt": "2026-10-25T01:29:07.163Z",
+      "link": "https://x.com/JornalOGlobo/status/1247232043341287426",
+      "topicIds": [
+        "saude",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jornal O Globo no X: \"Bolsonaro decide demitir Mandetta do Ministério da Saúde. https://t.co/P6EneT9fpZ\"",
+        "description": "Bolsonaro decide demitir Mandetta do Ministério da Saúde. https://t.co/P6EneT9fpZ",
+        "image": "https://pbs.twimg.com/media/EU8Ozo7XQAsfrWY?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_q91q3oyx7",
+      "occurredAt": "2020-04-06T23:58:30.000Z",
+      "retrievedAt": "2026-10-25T01:29:23.474Z",
+      "link": "https://x.com/karinabuhr/status/1247312760838463491",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Karina Buhr no X: \"Mandetta: Nosso inimigo tem nome e sobrenome Todos telespectadores: Jair Bolsonaro\"",
+        "description": "Mandetta: Nosso inimigo tem nome e sobrenome Todos telespectadores: Jair Bolsonaro",
+        "image": "https://pbs.twimg.com/profile_images/1857438378146344960/V4rC380c_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_u5k7kokvr",
+      "occurredAt": "2020-05-08T15:42:52.000Z",
+      "retrievedAt": "2026-10-25T01:29:55.276Z",
+      "link": "https://x.com/MarceloFreixo/status/1258784440479875073",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Marcelo Freixo no X: \"Me digam um lugar do mundo que o presidente marcou um churrasco quando o país registrou 10 mil mortos por Corona vírus. Sabem?\"",
+        "description": "Me digam um lugar do mundo que o presidente marcou um churrasco quando o país registrou 10 mil mortos por Corona vírus. Sabem?",
+        "image": "https://pbs.twimg.com/profile_images/2107604391918239745/athRcCtr_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_23bhj4czq",
+      "occurredAt": "2020-05-28T21:07:29.000Z",
+      "retrievedAt": "2026-10-25T01:30:36.204Z",
+      "link": "https://x.com/Haddad_Fernando/status/1266113890292846593",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "fernando_haddad"
+      ],
+      "preview": {
+        "title": "Fernando Haddad no X: \"O Brasil concentra 25% das mortes por covid no mundo, em 24h, e Bolsonaro preocupado com Edgard Corona, Vírus da Havan etc. Triste país.\"",
+        "description": "O Brasil concentra 25% das mortes por covid no mundo, em 24h, e Bolsonaro preocupado com Edgard Corona, Vírus da Havan etc. Triste país.",
+        "image": "https://pbs.twimg.com/profile_images/2107554972317499392/w0YFjExe_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_0n618si3m",
+      "occurredAt": "2020-03-04T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T01:34:43.748Z",
+      "link": "https://www.intercept.com.br/2020/03/04/ibama-salles-exportacao-madeira-nativa/https://www.intercept.com.br/2020/03/04/ibama-salles-exportacao-madeira-nativa/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Just a moment...",
+        "description": "Just a moment...",
+        "site": "www.intercept.com.br"
+      }
+    },
+    {
+      "id": "id_a5cujyl7t",
+      "occurredAt": "2020-06-09T14:08:51.000Z",
+      "retrievedAt": "2026-10-25T01:35:14.860Z",
+      "link": "https://www.brasildefato.com.br/2020/06/09/o-que-passou-na-boiada-de-ricardo-salles-durante-a-pandemia/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ibama",
+        "icmbio",
+        "ministerio_meio_ambiente",
+        "ministerio_agricultura",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "O que passou na “boiada” de Ricardo Salles durante a pandemia?",
+        "description": "Demissão de fiscais, anistia a desmatadores, censura e militarização são algumas das politicas ambientais realizadas…",
+        "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/02/cropped-Brasil-de-Fato.webp",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_mhnvtp6h7",
+      "occurredAt": "2020-05-22T22:24:24.000Z",
+      "retrievedAt": "2026-10-25T01:35:24.986Z",
+      "link": "https://oeco.org.br/noticias/salles-sugeriu-aproveitar-a-pandemia-para-desregulamentar-as-leis-ambientais/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "icmbio",
+        "ministerio_meio_ambiente",
+        "ministerio_agricultura",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Salles sugeriu aproveitar a pandemia para desregulamentar as leis ambientais",
+        "description": "Em reunião no dia 22/04, o ministro sugeriu “ir passando a boiada”’ nos ministérios, já que a imprensa estava com atenção voltada para o novo coronavírus",
+        "image": "https://oeco.org.br/wp-content/uploads/2020/05/Salles.jpg",
+        "site": "((o))eco"
+      }
+    },
+    {
+      "id": "id_rz2ix9yae",
+      "occurredAt": "2020-05-05T00:00:16.000Z",
+      "retrievedAt": "2026-10-25T01:35:47.914Z",
+      "link": "https://x.com/WSJ/status/1257460066250297345",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "The Wall Street Journal no X: \"“Brazil is already the global epicenter of the coronavirus.\" One study concludes the country might have more Covid-19 cases than the U.S. https://t.co/z9jmIwa4Ba\"",
+        "description": "“Brazil is already the global epicenter of the coronavirus.\" One study concludes the country might have more Covid-19 cases than the U.S. https://t.co/z9jmIwa4Ba",
+        "image": "https://pbs.twimg.com/card_img/2113548495302856704/iTYkzVoA?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_ka3vzrdon",
+      "occurredAt": "2020-05-23T00:25:06.000Z",
+      "retrievedAt": "2026-10-25T01:36:02.877Z",
+      "link": "https://x.com/Reuters/status/1263989294886248449",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Reuters no X: \"Brazil minister calls for environmental deregulation while public distracted by COVID https://t.co/vjEdnMSxV6\"",
+        "description": "Brazil minister calls for environmental deregulation while public distracted by COVID https://t.co/vjEdnMSxV6",
+        "image": "https://pbs.twimg.com/media/EYqXkLEWsAMJuY2?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_c15y015wt",
+      "occurredAt": "2020-06-17T23:07:55.000Z",
+      "retrievedAt": "2026-10-25T01:36:47.062Z",
+      "link": "https://x.com/estadioscovid19/status/1273391958271168517",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "N° de óbitos da COVID no 🇧🇷 comparado a estádios no X: \"Dia: 17/06/2020 Óbitos por COVID no Brasil: 46.665 Estádio: Olímpico Nilton Santos, Rio de Janeiro, Brazil Capacidade: 46.831\"",
+        "description": "Dia: 17/06/2020 Óbitos por COVID no Brasil: 46.665 Estádio: Olímpico Nilton Santos, Rio de Janeiro, Brazil Capacidade: 46.831",
+        "image": "https://pbs.twimg.com/media/Eav_CAHWsAE56oy?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_0afxwxabp",
+      "occurredAt": "2020-06-12T22:01:29.000Z",
+      "retrievedAt": "2026-10-25T01:38:10.018Z",
+      "link": "https://x.com/darrenmccaffrey/status/1271563297947607041",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Darren McCaffrey no X: \"Top 5 countries 🌍 with highest number of #coronavirus cases 1. 🇺🇸 USA (Trump) 2. 🇧🇷 Brazil (Bolsonaro) 3. 🇷🇺 Russia (Putin) 4. 🇮🇳 India (Modi) 5. 🇬🇧 UK (Johnson)\"",
+        "description": "Top 5 countries 🌍 with highest number of #coronavirus cases 1. 🇺🇸 USA (Trump) 2. 🇧🇷 Brazil (Bolsonaro) 3. 🇷🇺 Russia (Putin) 4. 🇮🇳 India (Modi) 5. 🇬🇧 UK (Johnson)",
+        "image": "https://pbs.twimg.com/profile_images/2024210663585767424/N159SNWt_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_1s27015d0",
+      "occurredAt": "2020-05-15T17:52:05.000Z",
+      "retrievedAt": "2026-10-25T01:38:48.597Z",
+      "link": "https://x.com/ianbremmer/status/1261353672681967620",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "ian bremmer no X: \"Brazil: Two health ministers gone in less than a month. In a pandemic. President Bolsonaro far and away the most incompetent leader of a democracy in his coronavirus response.\"",
+        "description": "Brazil: Two health ministers gone in less than a month. In a pandemic. President Bolsonaro far and away the most incompetent leader of a democracy in his coronavirus response.",
+        "image": "https://pbs.twimg.com/media/EYE6eqvXgAA7KJr?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_re7r494w7",
+      "occurredAt": "2020-05-21T10:29:00.000Z",
+      "retrievedAt": "2026-10-25T03:24:10.904Z",
+      "link": "https://oglobo.globo.com/saude/coronavirus/brasil-ultrapassa-marca-de-cem-medicos-mortos-por-covid-19-dois-por-dia-1-24438369",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Brasil ultrapassa a marca de cem médicos mortos por Covid-19, dois por dia",
+        "description": "Com 143 vítimas, é também o país onde mais enfermeiros morrem no mundo; Rio de Janeiro é o estado com maior número de óbitos no período, segundo levantamento do GLOBO",
+        "image": "https://ogimg.infoglobo.com.br/saude/coronavirus/24438349-07f-4bc/FT1086A/760/clinicadador.rosapapaleo_71188181_2337754943156674_1330549905109160443_n.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_j44ee3tva",
+      "occurredAt": "2020-05-28T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:24:19.237Z",
+      "link": "https://www.cofen.gov.br/brasil-e-o-pais-com-mais-mortes-de-enfermeiros-por-covid-19-no-mundo-dizem-entidades/",
+      "topicIds": [
+        "estados_unidos"
+      ],
+      "entityIds": [
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Links Importantes Lei Geral de Proteção de Dados Planejamento Estratégico Missão, Visão e Valores Painel de Dados da Fiscalização e-dimensionamento Dados da Enfermagem Revista Enfermagem em Foco MUNEAN Pesquisa Perfil da Enfermagem DPN CBCE",
+        "description": "Conselho Federal de Enfermagem e Conselho Internacional de Enfermeiros falam que números estão acima de outros países com alta taxa de transmissão do vírus, como Reino Unido e Estados Unidos.",
+        "image": "https://www.cofen.gov.br/wp-content/uploads/2020/05/mortes_covid_26maio.jpg",
+        "site": "Cofen"
+      }
+    },
+    {
+      "id": "id_acfqbxev2",
+      "occurredAt": "2020-05-08T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:24:38.095Z",
+      "link": "https://www.cofen.gov.br/brasil-ultrapassa-eua-em-mortes-de-profissionais-de-enfermagem-por-covid-19/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Links Importantes Lei Geral de Proteção de Dados Planejamento Estratégico Missão, Visão e Valores Painel de Dados da Fiscalização e-dimensionamento Dados da Enfermagem Revista Enfermagem em Foco MUNEAN Pesquisa Perfil da Enfermagem DPN CBCE",
+        "description": "Enfermeiros e técnicos de enfermagem homenageiam colegas mortos em protesto na Praça dos Três Poderes, em Brasília O número de profissionais de enfermagem mortos pela Covid-19 no Brasil chegou a 98 nesta quarta-feira (7), segundo dados do Cofen (Conselho Federal de Enfermagem). O número de...",
+        "image": "https://www.cofen.gov.br/wp-content/uploads/2020/05/Ato-Praça-dos-Três-Poderes.jpg",
+        "site": "Cofen"
+      }
+    },
+    {
+      "id": "id_asuv99m51",
+      "occurredAt": "2020-04-30T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:31:07.757Z",
+      "link": "https://oglobo.globo.com/politica/da-gripezinha-ao-dai-confira-as-reacoes-de-bolsonaro-enquanto-aumentavam-as-mortes-pela-pandemia-no-brasil-24402593",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Da 'gripezinha' ao 'e daí?', confira as reações de Bolsonaro enquanto aumentavam as mortes pela pandemia no Brasil",
+        "description": "Desde março, presidente vem minimizando os efeitos da crise provocada pela Covid-19",
+        "image": "https://ogimg.infoglobo.com.br/in/24402597-686-63a/FT1086A/760/Captura-de-Tela-2020-04-30-as-00.43.10-1.png",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_o7ydmo58j",
+      "occurredAt": "2020-03-20T19:05:00.000Z",
+      "retrievedAt": "2026-10-25T03:31:24.610Z",
+      "link": "https://www1.folha.uol.com.br/poder/2020/03/nao-vai-ser-uma-gripezinha-que-vai-me-derrubar-diz-bolsonaro-sobre-coronavirus.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos",
+        "israel",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "'Não vai ser uma gripezinha que vai me derrubar', diz Bolsonaro sobre coronavírus",
+        "description": "Presidente disse que só fará um novo exame para a doença se for recomendado por seu médico",
+        "image": "https://f.i.uol.com.br/fotografia/2020/03/20/15847407905e7539b60c5cd_1584740790_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_o48gomeo6",
+      "occurredAt": "2020-03-24T23:07:00.000Z",
+      "retrievedAt": "2026-10-25T03:31:33.187Z",
+      "link": "https://www1.folha.uol.com.br/equilibrioesaude/2020/03/ao-contrario-do-que-disse-bolsonaro-passado-de-atleta-nao-e-garantia-de-protecao-contra-coronavirus.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "donald_trump",
+        "estados_unidos",
+        "israel",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Ao contrário do que disse Bolsonaro, passado de atleta não é garantia de proteção contra coronavírus",
+        "description": "Bolsonaro tem 65 anos e, portanto, faz parte do grupo de risco da Covid-19",
+        "image": "https://f.i.uol.com.br/fotografia/2020/03/24/15851004195e7ab68348f3d_1585100419_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_n9lnsgemc",
+      "occurredAt": "2020-04-20T22:07:35.830Z",
+      "retrievedAt": "2026-10-25T03:32:25.791Z",
+      "link": "https://g1.globo.com/politica/noticia/2020/04/20/nao-sou-coveiro-ta-diz-bolsonaro-ao-responder-sobre-mortos-por-coronavirus.ghtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "'Não sou coveiro, tá?', diz Bolsonaro ao responder sobre mortos por coronavírus",
+        "description": "Até esta segunda-feira, o Brasil registrava 2.575 mortes e 40.581 casos confirmados de pessoas contaminadas pelo coronavírus.",
+        "image": "https://s2-g1.glbimg.com/8QcBZfTLb7oL8PCC_vKlUXloERE=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/8496045.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_d4mnid9q2",
+      "occurredAt": "2020-04-20T19:57:00.000Z",
+      "retrievedAt": "2026-10-25T03:32:35.830Z",
+      "link": "https://www1.folha.uol.com.br/cotidiano/2020/04/nao-sou-coveiro-diz-bolsonaro-sobre-qual-seria-numero-aceitavel-de-mortes-por-coronavirus.shtml",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "exercito",
+        "estados_unidos",
+        "israel",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "'Não sou coveiro', diz Bolsonaro sobre qual seria número aceitável de mortes por coronavírus",
+        "description": "Questionado sobre o risco da reabertura de escolas, que defende, presidente disse também não ser médico",
+        "image": "https://f.i.uol.com.br/fotografia/2020/04/20/15874229345e9e26d602ed6_1587422934_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_lci8bvjfh",
+      "occurredAt": "2020-04-20T21:31:29.000Z",
+      "retrievedAt": "2026-10-25T03:32:47.499Z",
+      "link": "https://www.cnnbrasil.com.br/nacional/nao-sou-coveiro-diz-bolsonaro-ao-ser-questionado-por-mortes-por-covid-19/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "banco_central",
+        "senado_federal",
+        "camara_deputados",
+        "estados_unidos",
+        "israel"
+      ],
+      "preview": {
+        "title": "\"Não sou coveiro\", diz Bolsonaro ao ser questionado por mortes por COVID-19",
+        "description": "Em conversa com jornalistas na chegada ao Palácio do Alvorada, o presidente Jair Bolsonaro (sem partido) não quis fazer comentários sobre as",
+        "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/3217_775B88A897BD050A.jpeg?w=1200&h=630&crop=1",
+        "site": "CNN Brasil"
+      }
+    },
+    {
+      "id": "id_o5lclote6",
+      "occurredAt": "2020-04-29T00:44:52.000Z",
+      "retrievedAt": "2026-10-25T03:33:25.697Z",
+      "link": "https://x.com/antoniotabet/status/1255296960128573440",
+      "topicIds": [
+        "china",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Antonio Tabet no X: \"Bolsonaro na pandemia em 9 atos: 1. “Que pandemia?” 2. “É fantasia!” 3. “Golpe da China!” 4. “É uma gripezinha!” 5. “Brasileiro nada no esgoto! Não pega!” 6. “Saiam de casa! O Brasil não pode parar!” 7. “Hidroxicloroqui",
+        "description": "Bolsonaro na pandemia em 9 atos: 1. “Que pandemia?” 2. “É fantasia!” 3. “Golpe da China!” 4. “É uma gripezinha!” 5. “Brasileiro nada no esgoto! Não pega!” 6. “Saiam de casa! O Brasil não pode parar!” 7. “Hidroxicloroquina!” 8. “Não sou coveiro!” 9. “E daí? O que eu posso fazer?”",
+        "image": "https://pbs.twimg.com/profile_images/1697342038507769856/VUF00r6H_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_pa4kc5mik",
+      "occurredAt": "2020-04-20T22:51:30.000Z",
+      "retrievedAt": "2026-10-25T03:33:40.258Z",
+      "link": "https://x.com/paulosaldana/status/1252369329254850567",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Paulo Saldaña no X: \"- Perguntei ao Bolsonaro sobre quantas mortes ele julga aceitável para defender a abertura de escolas e do comércio em meio à pandemia. - Eu não sou coveiro, respondeu e já mudou de assunto.\"",
+        "description": "- Perguntei ao Bolsonaro sobre quantas mortes ele julga aceitável para defender a abertura de escolas e do comércio em meio à pandemia. - Eu não sou coveiro, respondeu e já mudou de assunto.",
+        "image": "https://pbs.twimg.com/ext_tw_video_thumb/1252369275685232641/pu/img/IdB45v6hl4urOSNL?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_7yeynxnpz",
+      "occurredAt": "2020-05-09T00:49:04.000Z",
+      "retrievedAt": "2026-10-25T03:34:11.782Z",
+      "link": "https://x.com/heldersalomao/status/1258921896046985217",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Helder Salomão no X: \"- 1mil mortes: \"histeria\" - 3 mil mortes: \"gripezinha\" - 5 mil mortes: \"não sou coveiro\" - 7 mil mortes: \"e daí, o que posso fazer?\" - 10 mil mortes: \"vou fazer um churrasco\" Bolsonaro, Presidente do Brasil.\"",
+        "description": "- 1mil mortes: \"histeria\" - 3 mil mortes: \"gripezinha\" - 5 mil mortes: \"não sou coveiro\" - 7 mil mortes: \"e daí, o que posso fazer?\" - 10 mil mortes: \"vou fazer um churrasco\" Bolsonaro, Presidente do Brasil.",
+        "image": "https://pbs.twimg.com/profile_images/2052204493207445506/dZIKPE_I_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_yg88dd88h",
+      "occurredAt": "2020-04-07T15:10:12.000Z",
+      "retrievedAt": "2026-10-25T03:35:40.206Z",
+      "link": "https://x.com/monicabergamo/status/1247542195927699458",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Mônica Bergamo no X: \"Atenção: Taxa de morte com cloroquina equivale à de quem não usa. Os dados são preliminares, de um estudo SÉRIO feito pela Fiocruz. https://t.co/uANuOarKlz\"",
+        "description": "Atenção: Taxa de morte com cloroquina equivale à de quem não usa. Os dados são preliminares, de um estudo SÉRIO feito pela Fiocruz. https://t.co/uANuOarKlz",
+        "image": "https://pbs.twimg.com/card_img/2113996957643333632/008g4KOS?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_qfphf8be7",
+      "occurredAt": "2020-03-12T13:38:29.000Z",
+      "retrievedAt": "2026-10-25T03:36:52.402Z",
+      "link": "https://x.com/ricardope/status/1238097030221791233",
+      "topicIds": [
+        "china",
+        "tweets"
+      ],
+      "entityIds": [
+        "cuba"
+      ],
+      "preview": {
+        "title": "Ricardo Pereira no X: \"A China construiu um hospital com mil leitos em dez dias. Cuba está desenvolvendo uma vacina. Na Europa eventos são cancelados. No Brasil bolsonaro diz que coronavírus é uma fantasia.\"",
+        "description": "A China construiu um hospital com mil leitos em dez dias. Cuba está desenvolvendo uma vacina. Na Europa eventos são cancelados. No Brasil bolsonaro diz que coronavírus é uma fantasia.",
+        "image": "https://pbs.twimg.com/profile_images/2022686957877309440/bkkcyjLe_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_ebwhnfg0a",
+      "occurredAt": "2020-05-16T11:10:00.000Z",
+      "retrievedAt": "2026-10-25T03:39:29.813Z",
+      "link": "https://x.com/Estadao/status/1261614873663995906",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Estadão 🗞️ no X: \"Entre trocas de ministros, número de mortes por covid-19 avança 666% no país https://t.co/7VEGIL9cXA\"",
+        "description": "Entre trocas de ministros, número de mortes por covid-19 avança 666% no país https://t.co/7VEGIL9cXA",
+        "image": "https://pbs.twimg.com/media/EYIkInjWkAAQY3R?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_yhkugbg56",
+      "occurredAt": "2020-04-28T23:39:18.000Z",
+      "retrievedAt": "2026-10-25T03:39:45.445Z",
+      "link": "https://x.com/samiabomfim/status/1255280461326307331",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Sâmia Bomfim no X: \"\"E daí? Lamento, quer que eu faça o que? Sou Messias mas não faço milagre\". Jair Bolsonaro, o genocida, sobre as mais de 5000 mortes de brasileiros por covid-19.\"",
+        "description": "\"E daí? Lamento, quer que eu faça o que? Sou Messias mas não faço milagre\". Jair Bolsonaro, o genocida, sobre as mais de 5000 mortes de brasileiros por covid-19.",
+        "image": "https://pbs.twimg.com/profile_images/2110738345349332992/lJJI52ts_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_2bt5p3pze",
+      "occurredAt": "2020-06-12T23:34:07.000Z",
+      "retrievedAt": "2026-10-25T03:40:11.306Z",
+      "link": "https://x.com/folha/status/1271586612284215297",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Folha de S.Paulo no X: \"#LUTO: Brasil passa Reino Unido e se torna 2º país no mundo com mais mortes por Covid-19 #coronavirus https://t.co/IeHY15Lkhc\"",
+        "description": "#LUTO: Brasil passa Reino Unido e se torna 2º país no mundo com mais mortes por Covid-19 #coronavirus https://t.co/IeHY15Lkhc",
+        "image": "https://pbs.twimg.com/media/EaWVSP9WoAAJHwt?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_7h9eccqe7",
+      "occurredAt": "2020-04-29T15:48:34.000Z",
+      "retrievedAt": "2026-10-25T03:40:32.455Z",
+      "link": "https://x.com/marcosmion/status/1255524383319261185",
+      "topicIds": [
+        "china",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Marcos Mion no X: \"China. População: 1.395.000.000 Mortes por Covid: 4.643 Brasil. População: 209.000.000 Mortes por Covid: 5.385 É...parece que não somos bons apenas em futebol, samba e caipirinha. Que tristeza.\"",
+        "description": "China. População: 1.395.000.000 Mortes por Covid: 4.643 Brasil. População: 209.000.000 Mortes por Covid: 5.385 É...parece que não somos bons apenas em futebol, samba e caipirinha. Que tristeza.",
+        "image": "https://pbs.twimg.com/profile_images/1536595169159569408/oZItc5nm_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    }
+  ]
+}

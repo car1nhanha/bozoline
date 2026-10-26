@@ -4429,6 +4429,380 @@
         "image": "https://imagenes.elpais.com/resizer/v2/HZUP2VDWSNDILDL3H7LBMHG4LQ.jpg?auth=72073879e081c1f992b8c8dcb71303f37e5b613b76d9fef6204e1de4d7369365&width=1200",
         "site": "El País Brasil"
       }
+    },
+    {
+      "id": "id_mom02lelz",
+      "occurredAt": "2019-10-06T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:21:48.818Z",
+      "link": "https://www.brasildefato.com.br/2019/10/06/investigacao-do-laranjal-do-psl-implica-bolsonaro-e-ministro-em-caixa-2/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "marcelo_alvaro_antonio",
+        "policia_federal",
+        "venezuela",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Investigação do “laranjal do PSL” implica Bolsonaro e ministro em caixa 2",
+        "description": "Depoimento de ex-assessor à PF e uma planilha sugerem que dinheiro do esquema foi para Bolsonaro e Marcelo Álvaro…",
+        "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/02/cropped-Brasil-de-Fato.webp",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_xko7haks8",
+      "occurredAt": "2019-10-16T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:33:50.905Z",
+      "link": "https://www.gazetadopovo.com.br/republica/candidaturas-laranja-a-fraude-psl-bolsonaro/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "marcelo_alvaro_antonio",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Vídeo explica “candidatura laranja”, a fraude que racha o partido de Bolsonaro",
+        "description": "O PSL, partido do presidente Jair Bolsonaro, está no centro de um escândalo envolvendo candidatos laranja. Entenda a polêmica!",
+        "image": "https://media.gazetadopovo.com.br/2019/10/16110320/Thumb-Horizontal2.png",
+        "site": "Gazeta do Povo"
+      }
+    },
+    {
+      "id": "id_vd81vz0ju",
+      "occurredAt": "2019-07-18T02:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:40:03.634Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/07/mensagens-apontam-que-moro-interferiu-em-negociacao-de-delacoes.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "sergio_moro",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos",
+        "israel",
+        "venezuela"
+      ],
+      "preview": {
+        "title": "Mensagens apontam que Moro interferiu em negociação de delações",
+        "description": "Conversas mostram divergência entre procuradores da Lava Jato sobre condições apresentadas pelo então juiz para aceitar acordo",
+        "image": "https://f.i.uol.com.br/fotografia/2019/07/17/15634063475d2fb00b5fefa_1563406347_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_m0c3lx0wb",
+      "occurredAt": "2019-08-08T17:20:00.000Z",
+      "retrievedAt": "2026-10-24T00:40:17.196Z",
+      "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2019-08/para-moro-violencia-contra-mulher-e-produto-de-distorcao-cultural",
+      "topicIds": [
+        "seguranca_publica",
+        "cultura"
+      ],
+      "entityIds": [
+        "sergio_moro",
+        "raquel_dodge",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Para Moro, violência contra mulher é produto de “distorção cultural”",
+        "description": "O ministro da Justiça e Segurança Pública, Sergio Moro, voltou hoje (8) a afirmar que os casos de violência doméstica contra a mulher são em grande medida produtos de uma “distorção cultural”, decorrente de um papel de maior destaque feminino na sociedade atual. “Até comentei ontem que a meu ver isso é um efeito colateral negativo do crescimento do papel da mulher na nossa sociedade e eventualmente isso gera reações violentas por parte daqueles que não estão acostumados como deveriam estar com essa importância do papel da mulher”, disse Moro.",
+        "image": "https://imagens.ebc.com.br/ESiam_0NwQymSuGtMYzyP_3tylg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/jfcrz_abr_08081920175.jpg?itok=VK5qbuyW",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_jbuqx6ho8",
+      "occurredAt": "2019-09-30T02:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:44:46.164Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/09/sob-moro-policia-federal-tem-o-menor-numero-de-operacoes-em-5-anos.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Sob Moro, Polícia Federal tem o menor número de operações em 5 anos",
+        "description": "Foram 204 ações de janeiro a junho, número mais baixo desde 2014; órgão aponta queda de efetivo e mudanças nos critérios de registro",
+        "image": "https://f.i.uol.com.br/fotografia/2019/09/27/15696330965d8eb348dcb0a_1569633096_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_je0uzg1qf",
+      "occurredAt": "2019-09-05T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:45:02.184Z",
+      "link": "https://oglobo.globo.com/politica/se-eu-estivesse-la-me-demitiria-diz-fh-sobre-sergio-moro-em-ministerio-23928848",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "fernando_henrique_cardoso",
+        "policia_federal",
+        "ministerio_justica",
+        "datafolha"
+      ],
+      "preview": {
+        "title": "'Se eu estivesse lá, me demitiria', diz FH sobre Sergio Moro em ministério",
+        "description": "Ex-presidente participou do programa 'Conversa com Bial', da TV Globo, e foi questionado sobre situação do ex-juiz",
+        "image": "https://ogimg.infoglobo.com.br/in/23882300-a28-83a/FT1086A/760/xFernando-Henrique-Cardoso.jpg.pagespeed.ic.xQ5OiVbqbo.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_ms44s5ohh",
+      "occurredAt": "2019-10-19T14:01:14.000Z",
+      "retrievedAt": "2026-10-24T00:46:48.555Z",
+      "link": "https://www.brasildefato.com.br/2019/10/19/sergio-moro-ordenou-mandato-de-busca-e-apreensao-sem-provocacao-do-ministerio-publico/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "venezuela",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Sérgio Moro ordenou mandado de busca e apreensão sem provocação do Ministério Público",
+        "description": "Novas mensagens revelam que o atual Ministro da Justiça participava de reuniões para definir detalhes das operações…",
+        "image": "https://farm66.staticflickr.com/65535/48924843317_138d506aae_o.jpg",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_4rtior3sy",
+      "occurredAt": "2019-11-21T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:50:20.850Z",
+      "link": "https://www.ihu.unisinos.br/categorias/594538-sergio-moro-e-seu-desprezo-pelos-povos-indigenas-2",
+      "topicIds": [
+        "povos_indigenas"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "sergio_moro",
+        "damares_alves",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Sérgio Moro e seu desprezo pelos povos indígenas",
+        "description": "Indígenas realizaram ato na sede da equipe de transição do governo Jair Bolsonaro, em 2018. Foto: Tiago Miotto/Cimi",
+        "image": "https://www.ihu.unisinos.br/images/ihu/2019/11/21-11-2019-sergio-moro-e-seu-desprezo-pelos-povos-indigenas-2-Foto-Tiago-Miotto-Cimi.jpg",
+        "site": "www.ihu.unisinos.br"
+      }
+    },
+    {
+      "id": "id_g9dyulwub",
+      "occurredAt": "2019-07-09T22:44:40.000Z",
+      "retrievedAt": "2026-10-24T02:45:31.981Z",
+      "link": "https://x.com/cirogomes/status/1148724677797384192",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "ciro_gomes"
+      ],
+      "preview": {
+        "title": "Ciro Gomes no X: \"Porque considero o voto a favor desta reforma Bolsonaro um voto contra os pobres e contra a classe média em resumo: 1. De cada 100 reais de sacrifício , 83 reais são cobrados de quem ganha até 2 mil reais ;\"",
+        "description": "Porque considero o voto a favor desta reforma Bolsonaro um voto contra os pobres e contra a classe média em resumo: 1. De cada 100 reais de sacrifício , 83 reais são cobrados de quem ganha até 2 mil reais ;",
+        "image": "https://pbs.twimg.com/profile_images/2107550446604722176/ir_gNqQb_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_5sglgkp44",
+      "occurredAt": "2019-08-26T10:33:36.000Z",
+      "retrievedAt": "2026-10-24T02:46:04.953Z",
+      "link": "https://x.com/laurojardim/status/1165935318517915648",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Lauro Jardim no X: \"\"New York Times\" chama Bolsonaro de \"o menor e mais insignificante dos líderes\" | Lauro Jardim - O Globo https://t.co/zZ9JYtTNhY\"",
+        "description": "\"New York Times\" chama Bolsonaro de \"o menor e mais insignificante dos líderes\" | Lauro Jardim - O Globo https://t.co/zZ9JYtTNhY",
+        "image": "https://pbs.twimg.com/card_img/2112541180575526912/10lmDGpH?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_igjjzvzd1",
+      "occurredAt": "2019-08-27T14:10:02.000Z",
+      "retrievedAt": "2026-10-24T02:46:35.163Z",
+      "link": "https://x.com/folha/status/1166352174340853761",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Folha de S.Paulo no X: \"Após ofender mulher de Macron, Bolsonaro diz que não a ofendeu https://t.co/AMeiWQtzD5\"",
+        "description": "Após ofender mulher de Macron, Bolsonaro diz que não a ofendeu https://t.co/AMeiWQtzD5",
+        "image": "https://pbs.twimg.com/card_img/2111483729394720768/p-yUiOkq?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_q7p6ucf36",
+      "occurredAt": "2019-07-01T17:04:20.000Z",
+      "retrievedAt": "2026-10-24T02:48:27.228Z",
+      "link": "https://x.com/tuliogadelha/status/1145739929869258754",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Túlio Gadêlha no X: \"Seis meses de governo Bolsonaro. E os feitos foram: - propôs o fim da tomada de 3 pinos; - acabou com o horário de verão; - liberou 239 agrotóxicos; - propôs o fim da multa para quem não usa cadeirinhas; - 7 decretos de",
+        "description": "Seis meses de governo Bolsonaro. E os feitos foram: - propôs o fim da tomada de 3 pinos; - acabou com o horário de verão; - liberou 239 agrotóxicos; - propôs o fim da multa para quem não usa cadeirinhas; - 7 decretos de armas; - propôs tirar a demarcação de terras da Funai.",
+        "image": "https://pbs.twimg.com/profile_images/2109737027113508864/Qlx0FowQ_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_m8k0aeik2",
+      "occurredAt": "2019-07-29T22:43:55.000Z",
+      "retrievedAt": "2026-10-24T02:49:26.963Z",
+      "link": "https://x.com/UOLNoticias/status/1155972248206901251",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "UOL Notícias no X: \"Falas de Bolsonaro quebram decoro e podem indicar crime de responsabilidade https://t.co/oI9mx7mEaX\"",
+        "description": "Falas de Bolsonaro quebram decoro e podem indicar crime de responsabilidade https://t.co/oI9mx7mEaX",
+        "image": "https://pbs.twimg.com/card_img/2112539651244257280/tHcyLAtU?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_6y9wsmv3g",
+      "occurredAt": "2019-07-21T15:30:55.000Z",
+      "retrievedAt": "2026-10-24T02:50:02.064Z",
+      "link": "https://x.com/ggreenwald/status/1152964177692151809",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "sergio_moro",
+        "policia_federal"
+      ],
+      "preview": {
+        "title": "Glenn Greenwald no X: \"EXCLUSIVO #VazoJato: Deltan Dallagnol, em chats secretos, sugeriu que Sergio Moro protegeria Flávio Bolsonaro para não desagradar ao presidente e não perder indicação ao STF https://t.co/EynwBcDoC8\"",
+        "description": "EXCLUSIVO #VazoJato: Deltan Dallagnol, em chats secretos, sugeriu que Sergio Moro protegeria Flávio Bolsonaro para não desagradar ao presidente e não perder indicação ao STF https://t.co/EynwBcDoC8",
+        "image": "https://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_jgei7t11z",
+      "occurredAt": "2019-11-26T04:20:07.000Z",
+      "retrievedAt": "2026-10-24T02:54:05.436Z",
+      "link": "https://x.com/monicabergamo/status/1199181011403362305",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Mônica Bergamo no X: \"Povo foi para a rua em protestos gigantescos em 2013, c quebra-quebra, fogo em carro da imprensa, tentativa de invasão da prefeitura. E ninguém falou em AI-5. Voltou às ruas em 2015. E ninguém falou em AI-5. Mas o gove",
+        "description": "Povo foi para a rua em protestos gigantescos em 2013, c quebra-quebra, fogo em carro da imprensa, tentativa de invasão da prefeitura. E ninguém falou em AI-5. Voltou às ruas em 2015. E ninguém falou em AI-5. Mas o governo Bolsonaro fala. https://t.co/0NYboz0TSB",
+        "image": "https://pbs.twimg.com/card_img/2112918943371292672/NRvZMJdM?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_h54iwt46u",
+      "occurredAt": "2019-10-15T13:48:02.000Z",
+      "retrievedAt": "2026-10-24T02:55:03.910Z",
+      "link": "https://x.com/GuilhermeBoulos/status/1184103640740425728",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Guilherme Boulos no X: \"Bolsonaro assinou hoje decreto que inclui a Casa da Moeda no programa de privatizações de Paulo Guedes. O Brasil pode entregar a emissão da própria moeda para uma empresa estrangeira. É o símbolo da perda de soberani",
+        "description": "Bolsonaro assinou hoje decreto que inclui a Casa da Moeda no programa de privatizações de Paulo Guedes. O Brasil pode entregar a emissão da própria moeda para uma empresa estrangeira. É o símbolo da perda de soberania de um país.",
+        "image": "https://pbs.twimg.com/profile_images/2106837232367579136/Cx_zIoye_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_0tta27so0",
+      "occurredAt": "2019-12-19T19:17:04.000Z",
+      "retrievedAt": "2026-10-24T02:56:13.742Z",
+      "link": "https://x.com/samiabomfim/status/1207741657074020352",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Sâmia Bomfim no X: \"A situação de Flávio Bolsonaro é tão grave que seus advogados ingressaram com pedido de habeas corpus preventivo no STF. O cerco está se fechando. Desvio de recursos públicos, transações com milicianos e lavagem de dinhe",
+        "description": "A situação de Flávio Bolsonaro é tão grave que seus advogados ingressaram com pedido de habeas corpus preventivo no STF. O cerco está se fechando. Desvio de recursos públicos, transações com milicianos e lavagem de dinheiro. Parece que o presidente tem sim bandido de estimação.",
+        "image": "https://pbs.twimg.com/profile_images/2110738345349332992/lJJI52ts_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_vv4it476w",
+      "occurredAt": "2019-11-28T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T02:54:03.250Z",
+      "link": "https://conjur.com.br/2019-nov-28/bolsonaro-denunciado-crimes-humanidade-tpi/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Just a moment...",
+        "description": "Just a moment...",
+        "site": "conjur.com.br"
+      }
+    },
+    {
+      "id": "id_tf8zxrnwn",
+      "occurredAt": "2019-08-05T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:00:00.978Z",
+      "link": "https://oglobo.globo.com/politica/entrevista-exclusiva-flavio-bolsonaro-admite-que-queiroz-pagava-suas-contas-pessoais-24568332",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "alerj"
+      ],
+      "preview": {
+        "title": "Entrevista exclusiva: Flávio Bolsonaro admite que Queiroz pagava suas contas pessoais",
+        "description": "Senador diz que origem dos recursos é lícita, e não tem a ver com depósitos feitos por outros assessores do gabinete na Alerj na conta do ex-PM",
+        "image": "https://ogimg.infoglobo.com.br/in/24568388-1a1-744/FT1086A/760/queiroz.png",
+        "site": "O Globo"
+      }
     }
   ]
 }

@@ -602,6 +602,10 @@
     {
       "id": "comercio_exterior",
       "name": "Comércio exterior"
+    },
+    {
+      "id": "tweets",
+      "name": "Twites (Twitter/X)"
     }
   ],
   "markers": [
@@ -614,6 +618,21 @@
       "id": "segundo_turno",
       "title": "Segundo turno 2018",
       "date": "2018-10-28"
+    },
+    {
+      "id": "vaza_jato",
+      "title": "Vaza Jato",
+      "date": "2019-06-09"
+    },
+    {
+      "id": "oms_covid",
+      "title": "OMS declara a pandemia",
+      "date": "2020-03-11"
+    },
+    {
+      "id": "brasil_covid",
+      "title": "brasil declara calamidade",
+      "date": "2020-03-20"
     }
   ]
 }

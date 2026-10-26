@@ -52,7 +52,7 @@
         "jair_bolsonaro"
       ],
       "preview": {
-        "title": "O secretário ruralista Temo perder a Constituição e o STF, diz líder indígena Alessandra Munduruku",
+        "title": "Governo Bolsonaro suspende reforma agrária por tempo indeterminado",
         "description": "Documentos distribuídos às superintendências do Incra determinam interrupção da compra e demarcação de terras para a criação de assentamentos. Órgão diz que medida é temporária, mas não informa quanto tempo ficará em vigor",
         "image": "https://reporterbrasil.org.br/wp-content/uploads/2019/01/Anapu-menor_lunaeparracho.jpg",
         "site": "Repórter Brasil"
@@ -901,26 +901,6 @@
       }
     },
     {
-      "id": "id_2pv04vhsc",
-      "occurredAt": "2019-04-11T20:18:00.000Z",
-      "retrievedAt": "2026-10-22T03:13:20.591Z",
-      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2019-04/bolsonaro-assina-projeto-de-lei-sobre-educacao-domiciliar",
-      "topicIds": [
-        "educacao",
-        "congresso_nacional"
-      ],
-      "entityIds": [
-        "jair_bolsonaro",
-        "congresso_nacional"
-      ],
-      "preview": {
-        "title": "Bolsonaro assina projeto de lei sobre educação domiciliar",
-        "description": "O presidente Jair Bolsonaro assinou hoje (11) projeto de lei que regula a educação domiciliar de crianças e adolescentes, prática conhecida como homeschooling. Segundo o Palácio do Planalto, o texto traz os requisitos mínimos que os pais ou responsáveis legais deverão cumprir para exercer essa opção, tais como o cadastro em plataforma a ser oferecida pelo Ministério da Educação (MEC) e a possibilidade de avaliação.",
-        "image": "https://imagens.ebc.com.br/8oHAXtWDtoTyuJ6Um-LLDroACK0=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_abr_11041914292df.jpg?itok=m3jKUJoB",
-        "site": "Agência Brasil"
-      }
-    },
-    {
       "id": "id_syicexeqi",
       "occurredAt": "2019-04-14T16:44:00.000Z",
       "retrievedAt": "2026-10-22T03:13:35.367Z",
@@ -976,24 +956,6 @@
         "description": "Queima de máquinas e veículos é adotada nas operações em lugares de difícil acesso; ministro quer destinar equipamentos apreendidos a órgãos de proteção do Meio Ambiente",
         "image": "https://ogimg.infoglobo.com.br/in/23588075-a66-ffd/FT1086A/760/82144444_BSBBrasiliaBrasil10-04-2019PARicardo-Salles-ministro-do-Meio-Ambiente-fala-s.jpg",
         "site": "O Globo"
-      }
-    },
-    {
-      "id": "id_u4s8wlon3",
-      "occurredAt": "2019-04-11T15:42:00.000Z",
-      "retrievedAt": "2026-10-22T03:15:09.259Z",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-04/bolsonaro-cria-13o-salario-para-o-bolsa-familia",
-      "topicIds": [
-        "assistencia_social"
-      ],
-      "entityIds": [
-        "jair_bolsonaro"
-      ],
-      "preview": {
-        "title": "Bolsonaro cria 13º salário para o Bolsa Família",
-        "description": "O presidente Jair Bolsonaro assinou nesta manhã vários instrumentos de mudanças e novas políticas para o país, que fazem parte das ações de 100 dias de governo, celebrados hoje (11) em cerimônia no Palácio do Planalto. Entre eles, a Política Nacional de Alfabetização e a revogação de colegiados com a participação da sociedade civil no âmbito da administração pública federal. Bolsonaro também anunciou o 13º para famílias que recebem o Bolsa Família.",
-        "image": "https://imagens.ebc.com.br/VNEqyMzYpkgrcTx-hutzolAFSfk=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/antcrz_abr_09041914123_0.jpg?itok=ZjuRqQXZ",
-        "site": "Agência Brasil"
       }
     },
     {
@@ -1918,28 +1880,6 @@
       }
     },
     {
-      "id": "id_nipq5hucl",
-      "occurredAt": "2019-06-06T11:49:00.000Z",
-      "retrievedAt": "2026-10-22T15:09:54.698Z",
-      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-06/bolsonaro-e-macri-se-reunem-em-buenos-aires-nesta-quinta-feira",
-      "topicIds": [
-        "relacoes_exteriores",
-        "america_latina_e_mercosul"
-      ],
-      "entityIds": [
-        "jair_bolsonaro",
-        "estados_unidos",
-        "venezuela",
-        "chile"
-      ],
-      "preview": {
-        "title": "Bolsonaro e Macri se reúnem em Buenos Aires nesta quinta-feira",
-        "description": "O presidente Jair Bolsonaro desembarca hoje (6) em Buenos Aires, na Argentina, em visita de Estado ao país, o principal parceiro comercial do Brasil na América Latina. Além do encontro com o presidente Maurício Macri, Bolsonaro se reunirá com as principais autoridades argentinas. É a primeira visita ao país vizinho e a segunda a um país sul-americano. Em março, Bolsonaro foi ao Chile, em um dos primeiros giros internacionais que fez depois que tomou posse.",
-        "image": "https://imagens.ebc.com.br/LJwrcUvYLGsfJ5Vm8SpeFLA2UQo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mcmgo_abr_16011910533df.jpg?itok=-uwyNadg",
-        "site": "Agência Brasil"
-      }
-    },
-    {
       "id": "id_vhk2ekczr",
       "occurredAt": "2019-06-07T15:10:13.685Z",
       "retrievedAt": "2026-10-22T15:10:13.685Z",
@@ -2140,7 +2080,8 @@
       "link": "https://x.com/jairbolsonaro/status/1141100416828096513",
       "topicIds": [
         "previdencia",
-        "orcamento_e_contas_publicas"
+        "orcamento_e_contas_publicas",
+        "tweets"
       ],
       "entityIds": [],
       "preview": {
@@ -2414,6 +2355,645 @@
         "description": "Às vésperas da cúpula do G20 em Osaka, no Japão, presidente recebeu advertências públicas de Angela Merkel e Emannuel Macron. Bolsonaro diz que Alemanha tem a aprender com o Brasil",
         "image": "https://imagenes.elpais.com/resizer/v2/SM7ZPTUDDQ7QRRPF434H2GTVSI.jpg?auth=cea32c2b0421dbf2ec42c175a6cb36f46a27c0433e9011a7dcf998b6287042f1&width=1200",
         "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_9f54uemmj",
+      "occurredAt": "2019-01-22T07:49:00.000Z",
+      "retrievedAt": "2026-10-23T14:56:55.884Z",
+      "link": "https://www1.folha.uol.com.br/poder/2019/01/em-davos-moro-fala-de-corrupcao-mas-evita-tratar-de-investigacao-sobre-filhos-do-presidente.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "sergio_moro",
+        "coaf",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Em Davos, Moro fala de corrupção, mas não responde sobre Flávio Bolsonaro",
+        "description": "No Fórum Econômico Mundial, ministro de Bolsonaro também não aborda combate a fake news",
+        "image": "https://f.i.uol.com.br/fotografia/2019/01/22/15481502215c46e5cdc7345_1548150221_3x2_rt.jpg",
+        "site": "Folha de S.Paulo"
+      }
+    },
+    {
+      "id": "id_1wg0txymf",
+      "occurredAt": "2019-01-22T11:35:25.000Z",
+      "retrievedAt": "2026-10-23T14:57:47.840Z",
+      "link": "https://veja.abril.com.br/politica/moro-evita-falar-sobre-queiroz-e-elogia-governo-bolsonaro-em-davos/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "sergio_moro"
+      ],
+      "preview": {
+        "title": "Moro evita falar sobre Queiroz e elogia governo Bolsonaro em Davos",
+        "description": "\"O que acontece é que as instituições estão funcionando”, afirmou o ministro",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/01/brasil-sergio-moro-davos-20190122-002.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_9c58f7xgj",
+      "occurredAt": "2019-02-20T09:50:49.000Z",
+      "retrievedAt": "2026-10-23T15:00:56.214Z",
+      "link": "https://brasil.elpais.com/brasil/2019/02/19/politica/1550605130_002550.html",
+      "topicIds": [
+        "seguranca_publica"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "chile"
+      ],
+      "preview": {
+        "title": "Moro juiz x Moro ministro: a mudança radical de opinião sobre caixa dois",
+        "description": "Ministro da Justiça e Segurança Pública atenua a gravidade do caixa dois, prática que, no passado, ele mesmo chegou a classificar como \"pior que a corrupção\" e \"trapaça\"",
+        "image": "https://imagenes.elpais.com/resizer/v2/4OXUKQVWG4XRFK5VKUQG2M7P34.jpg?auth=b9242cb149f82416e5a1e1a5fafe550d7cb72434838d49c3f4469dbe079e83d0&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_e58h8tf2d",
+      "occurredAt": "2019-05-22T23:56:04.000Z",
+      "retrievedAt": "2026-10-23T15:09:09.301Z",
+      "link": "https://www.congressoemfoco.com.br/noticia/25744/coaf-e-retirado-do-ministro-sergio-moro-por-dezoito-votos-de-diferenca",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Coaf é retirado do ministro Sérgio Moro por dezoito votos de diferença",
+        "description": "Coaf é retirado do ministro Sérgio Moro por dezoito votos de diferença",
+        "image": "https://static.congressoemfoco.com.br/2019/05/filipe.jpg",
+        "site": "Congresso em Foco"
+      }
+    },
+    {
+      "id": "id_b49i3rsui",
+      "occurredAt": "2019-05-09T13:56:44.000Z",
+      "retrievedAt": "2026-10-23T15:10:33.191Z",
+      "link": "https://www.gazetadopovo.com.br/republica/parlamentares-impoem-derrota-a-moro-e-tiram-coaf-do-ministerio-da-justica/",
+      "topicIds": [
+        "seguranca_publica",
+        "economia"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "sergio_moro",
+        "coaf",
+        "ministerio_justica"
+      ],
+      "preview": {
+        "title": "Parlamentares impõem derrota a Moro e tiram Coaf do Ministério da Justiça",
+        "description": "A comissão especial decidiu que o Coaf vai sair do guarda-chuva do Ministério da Justiça e Segurança Pública e ficar com o Ministério da Economia.",
+        "image": "https://media.gazetadopovo.com.br/2019/04/20181335/sergio-moro-jose-cruz-abr.jpg",
+        "site": "Gazeta do Povo"
+      }
+    },
+    {
+      "id": "id_4y666vlt2",
+      "occurredAt": "2019-06-09T19:58:09.000Z",
+      "retrievedAt": "2026-10-23T15:18:22.366Z",
+      "link": "https://www.intercept.com.br/2019/06/09/chat-moro-deltan-telegram-lava-jato/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "sergio_moro",
+        "policia_federal",
+        "israel"
+      ],
+      "preview": {
+        "title": "Exclusivo: chats privados revelam colaboração proibida de Sergio Moro com Deltan Dallagnol na Lava Jato",
+        "description": "Moro sugeriu trocar a ordem de fases da Lava Jato, cobrou novas operações, deu conselhos e pistas e antecipou ao menos uma decisão, mostram conversas privadas ao longo de dois anos.",
+        "image": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2023/03/pt-4-moro-21-scaled.jpg",
+        "site": "Intercept Brasil"
+      }
+    },
+    {
+      "id": "id_8rm2sy7ud",
+      "occurredAt": "2019-06-10T12:03:29.000Z",
+      "retrievedAt": "2026-10-24T00:00:26.820Z",
+      "link": "https://www.estadao.com.br/tecmundo/ciberseguranca/142354-lava-jato-vazamento-conversas-entre-moro-deltan-explode-internet/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "sergio_moro"
+      ],
+      "preview": {
+        "title": "Lava Jato: vazamento de conversas entre Moro e Deltan explode na internet",
+        "description": "'Vaza Jato' cresce na internet — entenda o que está acontecendo",
+        "image": "https://www.estadao.com.br/resizer/v2/CUJJ5PRKHZIANAHHQMCUOCMRP4.jpg?quality=80&auth=262dcccfe48bacbea66371883859752b1b596b87a49c5470fe80778c62bda456&width=1200&height=630&smart=true",
+        "site": "Estadão"
+      }
+    },
+    {
+      "id": "id_zj3pfu0uh",
+      "occurredAt": "2019-06-11T15:25:27.000Z",
+      "retrievedAt": "2026-10-24T00:00:52.402Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2019/06/11/vazamento-de-mensagens-entre-moro-e-procurador-da-lava-jato-repercute-na-cae",
+      "topicIds": [
+        "seguranca_publica"
+      ],
+      "entityIds": [
+        "sergio_moro",
+        "ministerio_justica",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Vazamento de mensagens entre Moro e procurador da Lava Jato repercute na CAE",
+        "description": "A troca de mensagens por um aplicativo entre o então juiz Sergio Moro — atual ministro da Justiça e Segurança Pública — e o procurador da República Deltan Dellagnol, reveladas no domingo (9) pelo site de notícias The Intercept, repercutiram nesta terça-feira (11) em reunião da Comissão de Assuntos Econômicos (CAE) do Senado.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_ohjw65ojk",
+      "occurredAt": "2019-02-15T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T00:33:01.078Z",
+      "link": "https://ihu.unisinos.br/categorias/586694-laranjal-do-psl-gera-nova-crise-no-governo-bolsonaro",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "sergio_moro",
+        "marcelo_alvaro_antonio",
+        "gustavo_bebianno",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Laranjal do PSL gera nova crise no governo Bolsonaro",
+        "description": "Gustavo Bebianno | Foto: Agência Brasil",
+        "image": "https://www.ihu.unisinos.br/images/ihu/2019/02/15_02_2019_bebiano_agenciabrasil-1.jpg",
+        "site": "ihu.unisinos.br"
+      }
+    },
+    {
+      "id": "id_x68qagnor",
+      "occurredAt": "2019-06-27T12:11:39.000Z",
+      "retrievedAt": "2026-10-24T00:35:52.545Z",
+      "link": "https://www.brasildefato.com.br/2019/06/27/flagrante-de-39kg-de-coca-na-comitiva-de-bolsonaro-foi-falta-de-sorte-diz-heleno/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "exercito",
+        "venezuela",
+        "cuba"
+      ],
+      "preview": {
+        "title": "Flagrante de 39kg de coca na comitiva de Bolsonaro foi “falta de sorte”, diz Heleno",
+        "description": "General chefe da segurança do presidente isentou-se de responsabilidade no episódio, jogando a culpa na Aeronáutica…",
+        "image": "https://www.brasildefato.com.br/wp-content/uploads/2026/02/cropped-Brasil-de-Fato.webp",
+        "site": "Brasil de Fato"
+      }
+    },
+    {
+      "id": "id_c2fps8oqb",
+      "occurredAt": "2019-06-26T18:13:02.000Z",
+      "retrievedAt": "2026-10-24T00:36:20.875Z",
+      "link": "https://piaui.uol.com.br/the-piaui-herald/aeromula-aviao-presidencial-ganha-novo-nome-apos-apreensao-de-cocaina/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "ibama",
+        "forcas_armadas"
+      ],
+      "preview": {
+        "title": "AeroMula: avião presidencial ganha novo nome após apreensão de cocaína",
+        "description": "AeroMula: avião presidencial ganha novo nome após apreensão de cocaína - revista piauí edições últimas newsletter entrar assine entrar O que você está procurando? assinar a piauí busca edições últimas newsletter rádio piauí A piauí em formato de conversa eventos Muita gente boa reunida dicas culturais Recomendações da…",
+        "image": "https://piaui.uol.com.br/media/_versions/legacy/posts/2019/06/18115154/herald260619_interna_85social.jpg",
+        "site": "revista piauí"
+      }
+    },
+    {
+      "id": "id_g42n39vv0",
+      "occurredAt": "2019-02-12T16:14:28.000Z",
+      "retrievedAt": "2026-10-24T01:12:45.546Z",
+      "link": "https://diplomatique.org.br/resposta-a-pergunta-quao-obscurantista-e-o-emplasto-filosofico-de-olavo-de-carvalho/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Quão obscurantista é o emplasto filosófico de Olavo de Carvalho?",
+        "description": "Na aula sobre o texto “O que é a Ilustração” são tantos os absurdos ditos por Olavo de Carvalho sobre Kant, que chega a ser difícil comentar. Seu objetivo: atacar a democracia, a liberdade e a diversidade.",
+        "image": "https://diplomatique.org.br/wp-content/uploads/2019/02/Kant-Anônimo-1790..jpg",
+        "site": "Le Monde Diplomatique"
+      }
+    },
+    {
+      "id": "id_dmdvnomgz",
+      "occurredAt": "2019-05-10T12:34:49.000Z",
+      "retrievedAt": "2026-10-24T01:13:01.765Z",
+      "link": "https://veja.abril.com.br/politica/militar-do-governo-diz-que-bolsonaro-parece-refem-de-olavo/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "forcas_armadas",
+        "exercito"
+      ],
+      "preview": {
+        "title": "General diz que Bolsonaro ‘parece refém’ de Olavo",
+        "description": "Apesar do desconforto, militares se sentem corresponsáveis pelo sucesso da atual gestão e não cogitam uma debandada",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/05/bolsonaro-olavo-de-carvalho.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_x0fmsnz45",
+      "occurredAt": "2019-01-12T22:00:39.000Z",
+      "retrievedAt": "2026-10-24T01:13:14.707Z",
+      "link": "https://brasil.elpais.com/brasil/2019/01/10/politica/1547145578_294383.html",
+      "topicIds": [
+        "educacao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "paulo_freire",
+        "camara_deputados",
+        "estados_unidos",
+        "chile"
+      ],
+      "preview": {
+        "title": "Os tentáculos de Olavo de Carvalho sobre 57 milhões de estudantes brasileiros",
+        "description": "Três discípulos do filósofo ocupam cargos importantes no Ministério da Educação de Bolsonaro. Ideias do pensador da ultradireita devem influenciar políticas da alfabetização às universidades",
+        "image": "https://imagenes.elpais.com/resizer/v2/VDKA73PCZEAD7PZ7EEHXZIOITU.jpg?auth=1cfa8154d25509b6269753c6e48b0102a9cf4dd1883d35fbef4377ea0739df16&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_r9q8exvkv",
+      "occurredAt": "2019-03-08T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T01:13:26.889Z",
+      "link": "https://oglobo.globo.com/politica/guru-do-bolsonarismo-olavo-de-carvalho-orienta-alunos-deixarem-governo-23507185",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Guru do bolsonarismo, Olavo de Carvalho orienta alunos a deixarem governo",
+        "description": "Filósofo afirma que gestão de Bolsonaro está 'cheia de inimigos do presidente e do povo'",
+        "image": "https://ogimg.infoglobo.com.br/in/23507180-b0d-e9e/FT1086A/760/80004318_SOC-Rio-de-Janeiro-RJ-O-filosofo-Olavo-de-Carvalho.-Foto-Divulgacao.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_tmrcgzutf",
+      "occurredAt": "2019-03-17T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T01:13:56.086Z",
+      "link": "https://oglobo.globo.com/politica/se-continuar-assim-mais-seis-meses-acabou-diz-olavo-de-carvalho-sobre-governo-bolsonaro-23529673",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "steve_bannon",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "'Se continuar assim, mais seis meses e acabou', diz Olavo de Carvalho sobre governo Bolsonaro",
+        "description": "Para ele, presidente é um grande homem, mas está sozinho e cercado por traidores fardados",
+        "image": "https://ogimg.infoglobo.com.br/in/23529675-1fb-e11/FT1086A/760/81652651_Brazilian-writer-Olavo-de-Carvalho-arrives-for-the-showing-of-a-documentary-on-the-governme.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_mf4zm9q8k",
+      "occurredAt": "2019-03-17T20:23:23.000Z",
+      "retrievedAt": "2026-10-24T01:14:29.629Z",
+      "link": "https://veja.abril.com.br/politica/olavo-de-carvalho-chama-mourao-de-idiota-e-diz-que-governo-vai-mal/",
+      "topicIds": [
+        "governo_bolsonaro",
+        "estados_unidos"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "fernando_haddad",
+        "steve_bannon",
+        "donald_trump",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Olavo de Carvalho chama Mourão de ‘idiota’ e diz que governo ‘vai mal’",
+        "description": "Segundo ele, \"é só continuar isso mais seis meses e acabou\"",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2019/03/olavo-de-carvalho-2017-8.jpg.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_2i005wku5",
+      "occurredAt": "2019-04-10T12:00:00.000Z",
+      "retrievedAt": "2026-10-24T01:15:06.280Z",
+      "link": "https://oglobo.globo.com/brasil/olavo-de-carvalho-escreve-ofensas-em-processo-juiza-manda-ele-reescrever-23587313",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Olavo de Carvalho escreve ofensas em processo, e juíza manda ele reescrever",
+        "description": "Ideólogo e guru de Bolsonaro processa professor após reportagem do GLOBO",
+        "image": "https://ogimg.infoglobo.com.br/in/23587295-e0d-a91/FT1086A/760/Olavo-de-Carvalho.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_6f216tnq8",
+      "occurredAt": "2019-06-28T05:36:51.000Z",
+      "retrievedAt": "2026-10-24T01:56:28.083Z",
+      "link": "https://x.com/jairbolsonaro/status/1144479756055744514",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "eduardo_bolsonaro"
+      ],
+      "preview": {
+        "title": "Jair M. Bolsonaro no X: \"- @realDonaldTrump 👍\"",
+        "description": "- @realDonaldTrump 👍",
+        "image": "https://pbs.twimg.com/media/D-ICROhU0AEY3US?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_ex3p5ej95",
+      "occurredAt": "2019-01-17T20:42:29.000Z",
+      "retrievedAt": "2026-10-24T02:01:03.480Z",
+      "link": "https://x.com/TheInterceptBr/status/1086000832057884672",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Intercept Brasil no X: \"Quando era candidato, Jair Bolsonaro não queria 'essa porcaria de foro privilegiado', mas seu filho Flavio usou o foro para pedir a suspensão das investigações de Queiroz ao STF. É melhor Jair se acostumando?\"",
+        "description": "Quando era candidato, Jair Bolsonaro não queria 'essa porcaria de foro privilegiado', mas seu filho Flavio usou o foro para pedir a suspensão das investigações de Queiroz ao STF. É melhor Jair se acostumando?",
+        "image": "https://pbs.twimg.com/amplify_video_thumb/1085996544648798208/img/a37NKAvR39cpOjzO?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_c9lr7dth7",
+      "occurredAt": "2019-01-05T05:41:55.000Z",
+      "retrievedAt": "2026-10-24T02:02:59.135Z",
+      "link": "https://x.com/charliekirk11/status/1081425542371520512",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Charlie Kirk no X: \"I love Jair Bolsonaro the new President of Brazil He has identified Marxism has a key threat to the future of Brazil He wants to restore gun rights to citizens to protect themselves He is committed to restoring the rule",
+        "description": "I love Jair Bolsonaro the new President of Brazil He has identified Marxism has a key threat to the future of Brazil He wants to restore gun rights to citizens to protect themselves He is committed to restoring the rule of law They call him \"Trump of the Tropics!\" #MBGA",
+        "image": "https://pbs.twimg.com/profile_images/1960021282202021888/uf_03Y-u_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_37d2eozxj",
+      "occurredAt": "2019-03-06T17:22:57.000Z",
+      "retrievedAt": "2026-10-24T02:06:01.575Z",
+      "link": "https://x.com/JornalOGlobo/status/1103345232723140608",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jornal O Globo no X: \"Divulgação de vídeo por Bolsonaro é passível de impeachment, diz autor de pedido contra Dilma. https://t.co/tY7IxmOQYU\"",
+        "description": "Divulgação de vídeo por Bolsonaro é passível de impeachment, diz autor de pedido contra Dilma. https://t.co/tY7IxmOQYU",
+        "image": "https://pbs.twimg.com/profile_images/2006719755479121920/ALnoT6H2_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_omio97lxy",
+      "occurredAt": "2019-01-02T22:51:14.000Z",
+      "retrievedAt": "2026-10-24T02:13:42.787Z",
+      "link": "https://x.com/LeilaneNeubarth/status/1080597411280707590",
+      "topicIds": [
+        "educacao",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Leilane Neubarth no X: \"Será que a primeira dama, Michelle Bolsonaro, sabe que, mesmo depois daquela bela homenagem na posse aos surdos do Brasil, o Min. da Educação Vélez Rodrigues no primeiro dia de governo acabou com a secretaria que cui",
+        "description": "Será que a primeira dama, Michelle Bolsonaro, sabe que, mesmo depois daquela bela homenagem na posse aos surdos do Brasil, o Min. da Educação Vélez Rodrigues no primeiro dia de governo acabou com a secretaria que cuida da educação dos surdos ??? 😳😳",
+        "image": "https://pbs.twimg.com/profile_images/1555151123287347206/-BN9jBL7_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_50oey3z7q",
+      "occurredAt": "2019-01-22T19:58:20.000Z",
+      "retrievedAt": "2026-10-24T02:14:59.432Z",
+      "link": "https://x.com/ivanildoiii/status/1087801659676340225",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Ivanildo Terceiro 🔸🌐 no X: \"Vocês lembram da juíza Patrícia Acioli? Condenou mais de 60 milicianos da região de São Gonçalo (RJ) e foi morta em 2011 numa emboscada. Deixou 3 filhos. É um caso famoso, mas muita gente esqueceu a reação que Fl",
+        "description": "Vocês lembram da juíza Patrícia Acioli? Condenou mais de 60 milicianos da região de São Gonçalo (RJ) e foi morta em 2011 numa emboscada. Deixou 3 filhos. É um caso famoso, mas muita gente esqueceu a reação que Flávio Bolsonaro teve ao saber da morte da juíza. Segue o fio:",
+        "image": "https://pbs.twimg.com/profile_images/2107075768756899840/GgF-Rkch_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_ooxvcuu0q",
+      "occurredAt": "2019-03-18T22:55:44.000Z",
+      "retrievedAt": "2026-10-24T02:16:56.635Z",
+      "link": "https://x.com/Glauber_Braga/status/1107777636758179842",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Glauber Braga no X: \"O governo Bolsonaro acaba de assinar acordo que permite aos EUA lançar satélites e foguetes da base de Alcântara, Maranhão. O Brasil abre mão de programa espacial soberano e ainda dá espaço estratégico para Trump e cia.",
+        "description": "O governo Bolsonaro acaba de assinar acordo que permite aos EUA lançar satélites e foguetes da base de Alcântara, Maranhão. O Brasil abre mão de programa espacial soberano e ainda dá espaço estratégico para Trump e cia. Como a matéria passa pelo congresso,já adianto meu voto:NÃO!",
+        "image": "https://pbs.twimg.com/profile_images/2108191399153717249/sPQm3bd8_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_6qzbrhq9x",
+      "occurredAt": "2019-03-07T11:08:39.000Z",
+      "retrievedAt": "2026-10-24T02:21:04.652Z",
+      "link": "https://x.com/apyus/status/1103613427476582405",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Marlos Ápyus no X: \"Jair Bolsonaro levou para dentro do Palácio do Planalto uma \"máquina\" de promover linchamentos virtuais e assassinar reputações de qualquer adversário externo ou mesmo interno. Essa longa thread irá explicar o problema a",
+        "description": "Jair Bolsonaro levou para dentro do Palácio do Planalto uma \"máquina\" de promover linchamentos virtuais e assassinar reputações de qualquer adversário externo ou mesmo interno. Essa longa thread irá explicar o problema a quem ainda não o compreende.",
+        "image": "https://pbs.twimg.com/profile_images/1660644132191186948/BLzduSql_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_psyidbb64",
+      "occurredAt": "2019-02-15T15:39:59.000Z",
+      "retrievedAt": "2026-10-24T02:22:08.945Z",
+      "link": "https://x.com/lf_ponde/status/1096433952062144512",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Luiz Felipe Pondé no X: \"Se Bolsonaro não afastar os filhos do Planalto eles vão destruir o governo. Não existe família real no Brasil.\"",
+        "description": "Se Bolsonaro não afastar os filhos do Planalto eles vão destruir o governo. Não existe família real no Brasil.",
+        "image": "https://pbs.twimg.com/profile_images/1876982738353311744/gYmoI8w2_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_2z5qj75sw",
+      "occurredAt": "2019-02-27T00:31:02.000Z",
+      "retrievedAt": "2026-10-24T02:23:10.997Z",
+      "link": "https://x.com/miriamleitao/status/1100553860370874369",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Míriam Leitão no X: \"O ditador Stroessner foi sanguinário, tinha uma polícia política das mais violentas e era chefe de um governo corrupto. Ficou 35 anos no poder no Paraguai. Essa é a verdade sobre ele. O presidente Bolsonaro o admira, co",
+        "description": "O ditador Stroessner foi sanguinário, tinha uma polícia política das mais violentas e era chefe de um governo corrupto. Ficou 35 anos no poder no Paraguai. Essa é a verdade sobre ele. O presidente Bolsonaro o admira, como disse hoje.",
+        "image": "https://pbs.twimg.com/profile_images/1583140345554034689/mOfp9V91_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_1dewnpz28",
+      "occurredAt": "2019-05-13T19:03:03.000Z",
+      "retrievedAt": "2026-10-24T02:32:11.920Z",
+      "link": "https://x.com/folha/status/1128012799253336064",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Folha de S.Paulo no X: \"Flávio Bolsonaro dá versões falsas sobre extrato bancário e compra de imóveis https://t.co/i2SIhcrDIR\"",
+        "description": "Flávio Bolsonaro dá versões falsas sobre extrato bancário e compra de imóveis https://t.co/i2SIhcrDIR",
+        "image": "https://pbs.twimg.com/card_img/2110724072745160706/ADOX3ucW?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_2kqpeok1g",
+      "occurredAt": "2019-05-19T00:36:19.000Z",
+      "retrievedAt": "2026-10-24T02:41:42.814Z",
+      "link": "https://x.com/FernandoHortaOf/status/1129908608593006594",
+      "topicIds": [
+        "educacao",
+        "tweets"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro"
+      ],
+      "preview": {
+        "title": "Fernando Horta no X: \"Amigo Bolsonarista, dia 26 você vai para rua em apoio a quê? ao dólar a 4,10? à gasolina de 5 reais? ao direito de receber o salário dos funcionários, como faz flávio bolsonaro? pedindo mais cortes \"padrão fifa\" na edu",
+        "description": "Amigo Bolsonarista, dia 26 você vai para rua em apoio a quê? ao dólar a 4,10? à gasolina de 5 reais? ao direito de receber o salário dos funcionários, como faz flávio bolsonaro? pedindo mais cortes \"padrão fifa\" na educação? ou para adotar a bandeira dos EUA de vez?",
+        "image": "https://pbs.twimg.com/profile_images/1051847946503942145/Pm1M0sB2_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_yadyf34gb",
+      "occurredAt": "2019-06-26T17:41:14.000Z",
+      "retrievedAt": "2026-10-24T02:43:05.640Z",
+      "link": "https://x.com/jandira_feghali/status/1143937276214484992",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jandira Feghali no X: \"- Vizinho de Bolsonaro é preso envolvido na morte de Marielle. - Ex-assessor do filho é investigado por esquema de lavagem de dinheiro. - Militar da comitiva de Bolsonaro é preso portando 39 kg de drogas. Esse aí era",
+        "description": "- Vizinho de Bolsonaro é preso envolvido na morte de Marielle. - Ex-assessor do filho é investigado por esquema de lavagem de dinheiro. - Militar da comitiva de Bolsonaro é preso portando 39 kg de drogas. Esse aí era o MITO? #BolsoNarcos",
+        "image": "https://pbs.twimg.com/profile_images/2111203839898431488/a1RLXsJw_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_qahrzcgov",
+      "occurredAt": "2019-05-20T10:10:00.000Z",
+      "retrievedAt": "2026-10-24T02:43:40.278Z",
+      "link": "https://x.com/folha/status/1130415366876696578",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Folha de S.Paulo no X: \"Bolsonaro quer fechar Congresso e STF, censurar a imprensa e perseguir esquerda; leia coluna de Celso Rocha de Barro @NPTO https://t.co/CjUUWY9bIg\"",
+        "description": "Bolsonaro quer fechar Congresso e STF, censurar a imprensa e perseguir esquerda; leia coluna de Celso Rocha de Barro @NPTO https://t.co/CjUUWY9bIg",
+        "image": "https://pbs.twimg.com/card_img/2111925230117527552/rsfLI30F?format=webp&name=medium",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_ec99af05y",
+      "occurredAt": "2019-06-26T19:00:01.000Z",
+      "retrievedAt": "2026-10-24T02:44:16.445Z",
+      "link": "https://x.com/JornalOGlobo/status/1143957101426823168",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jornal O Globo no X: \"Bolsonaro é listado entre 'fracassos de liderança' em documento da ONU. https://t.co/RktFR1FC4S\"",
+        "description": "Bolsonaro é listado entre 'fracassos de liderança' em documento da ONU. https://t.co/RktFR1FC4S",
+        "image": "https://pbs.twimg.com/profile_images/2006719755479121920/ALnoT6H2_400x400.jpg",
+        "site": "X (formerly Twitter)"
       }
     }
   ]

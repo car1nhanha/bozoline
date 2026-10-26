@@ -1,0 +1,900 @@
+{
+  "events": [
+    {
+      "id": "id_9imktzp61",
+      "occurredAt": "2020-07-23T22:18:51.000Z",
+      "retrievedAt": "2026-10-25T02:19:27.057Z",
+      "link": "https://www.poder360.com.br/governo/agora-bolsonaro-mostra-cloroquina-ate-para-as-emas-do-alvorada/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Agora, Bolsonaro mostra cloroquina até para as emas do Alvorada",
+        "description": "Agora, Bolsonaro mostra cloroquina até para as emas do Alvorada |",
+        "image": "https://static.poder360.com.br/uploads/2020/07/photo4958949943129778396.jpg",
+        "site": "Poder360"
+      }
+    },
+    {
+      "id": "id_nvsx6t9hc",
+      "occurredAt": "2020-07-24T01:35:00.000Z",
+      "retrievedAt": "2026-10-25T02:19:41.901Z",
+      "link": "https://www.em.com.br/app/noticia/politica/2020/07/23/interna_politica,1169707/bolsonaro-e-as-emas-depois-bicadas-presidente-leva-cloroquina-aves.shtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro e as emas: depois de algumas bicadas, presidente leva cloroquina para as aves",
+        "description": "A cena chamou a aten��o de fot�grafos nesta quinta-feira no Pal�cio da Alvorada",
+        "image": "https://i.em.com.br/cdrhds6y7sMyrEjC_2zutrUWCEg=/600x315/smart/imgsapp.em.com.br/app/noticia_127983242361/2020/07/23/1169707/20200723224024426302a.jpg",
+        "site": "Estado de Minas"
+      }
+    },
+    {
+      "id": "id_jkdhldz57",
+      "occurredAt": "2020-07-24T00:15:57.000Z",
+      "retrievedAt": "2026-10-25T02:22:31.195Z",
+      "link": "https://x.com/sensacionalista/status/1286455040618696704",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Sensacionalista no X: \"Ema recusa cloroquina e gado segue sendo única espécie a acreditar no remédio https://t.co/8XVO3kX5hp\"",
+        "description": "Ema recusa cloroquina e gado segue sendo única espécie a acreditar no remédio https://t.co/8XVO3kX5hp",
+        "image": "https://pbs.twimg.com/profile_images/1420783093384949767/BZ35kqF2_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_jtsavimme",
+      "occurredAt": "2020-07-24T00:28:59.000Z",
+      "retrievedAt": "2026-10-25T02:22:53.673Z",
+      "link": "https://x.com/QuebrandoOTabu/status/1286458322372251651",
+      "topicIds": [
+        "saude",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "QoT no X: \"O Brasil tem 84 mil mortes por coronavírus. O Brasil está há mais de 60 dias sem Ministro da Saúde. O presidente do Brasil está brincando de dar cloroquina pra uma ema. Quando esse pesadelo vai acabar?\"",
+        "description": "O Brasil tem 84 mil mortes por coronavírus. O Brasil está há mais de 60 dias sem Ministro da Saúde. O presidente do Brasil está brincando de dar cloroquina pra uma ema. Quando esse pesadelo vai acabar?",
+        "image": "https://pbs.twimg.com/media/Edpp92mXsAAb7ex?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_qsl3fhv4k",
+      "occurredAt": "2020-07-23T23:03:54.000Z",
+      "retrievedAt": "2026-10-25T02:23:11.439Z",
+      "link": "https://x.com/jandira_feghali/status/1286436910165041153",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Jandira Feghali no X: \"Bolsonaro anda mostrando caixa de cloroquina até pra Ema do Alvorada. Psicotécnico urgente.\"",
+        "description": "Bolsonaro anda mostrando caixa de cloroquina até pra Ema do Alvorada. Psicotécnico urgente.",
+        "image": "https://pbs.twimg.com/profile_images/2111203839898431488/a1RLXsJw_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_6swppcan0",
+      "occurredAt": "2020-07-24T01:39:21.000Z",
+      "retrievedAt": "2026-10-25T02:23:40.401Z",
+      "link": "https://x.com/MarceloAdnet/status/1286476030115446784",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Marcelo Adnet no X: \"Nem a ema quer cloroquina. Pra Jair tanto faz, importa a cortina de fumaça...\"",
+        "description": "Nem a ema quer cloroquina. Pra Jair tanto faz, importa a cortina de fumaça...",
+        "image": "https://pbs.twimg.com/profile_images/1367988117496606720/kd0JZFv8_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_778svf2o4",
+      "occurredAt": "2020-12-16T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T02:53:27.546Z",
+      "link": "https://www.andes.org.br/conteudos/noticia/tribunal-penal-internacional-de-haia-aceita-denuncia-contra-jair-bolsonaro1",
+      "topicIds": [
+        "educacao"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR",
+        "description": "O escritório da procuradoria do Tribunal Penal Internacional (TPI) informou a...",
+        "image": "https://www.andes.org.br/img/midias/a2c0f1a855cba7ea2ff50a01b1204760_1608137032.png",
+        "site": "ANDES-SN"
+      }
+    },
+    {
+      "id": "id_38kmkw4t8",
+      "occurredAt": "2020-08-24T20:52:00.000Z",
+      "retrievedAt": "2026-10-25T02:58:16.215Z",
+      "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2020-08/bolsonaro-defende-protocolo-de-tratamento-precoce-contra-covid-19",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro defende protocolo de tratamento precoce contra covid-19",
+        "description": "Em reunião com grupo de médicos no Palácio do Planalto, o presidente Jair Bolsonaro abordou protocolos de tratamento de covid-19 e voltou a falar sobre a autonomia médica no tratamento.",
+        "image": "https://imagens.ebc.com.br/ljj6bhL4Sad5DnraRGU1ty3hhvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/24082020-encontro-brasil-vencendo-a-covid-19_50264248382_o.jpg?itok=Ri04eEsG",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_t5d0p62cm",
+      "occurredAt": "2020-08-25T19:23:21.000Z",
+      "retrievedAt": "2026-10-25T02:58:50.238Z",
+      "link": "https://www.bbc.com/portuguese/brasil-53913205",
+      "topicIds": [
+        "caso_queiroz",
+        "familia_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "mprj",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Caso Queiroz e família Bolsonaro: quem depositou dinheiro para quem",
+        "description": "O que se sabe até agora sobre suspeitas de 'rachadinha' envolvendo o ex-assessor do filho do presidente, o senador Flávio Bolsonaro.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/C4FA/production/_112962405_a50ded80-8437-410f-8a62-fdc38c76f1c2.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_cpus0d5dd",
+      "occurredAt": "2020-08-13T19:30:26.000Z",
+      "retrievedAt": "2026-10-25T02:59:01.823Z",
+      "link": "https://www.intercept.com.br/2020/08/13/bolsonaro-usa-google-distribui-milhoes-reais-sites-fake-news-adsense/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "eduardo_bolsonaro",
+        "banco_do_brasil",
+        "exercito",
+        "israel"
+      ],
+      "preview": {
+        "title": "Bolsonaro entrega R$ 7,5 milhões para Google distribuir – inclusive a sites de fake news",
+        "description": "Ajustes do sistema de anúncios online permitem irrigar sites bolsonaristas sem despertar a atenção dos órgãos de controle.",
+        "image": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2023/03/BolsoGoogle-2.jpg",
+        "site": "Intercept Brasil"
+      }
+    },
+    {
+      "id": "id_oxsqup0ia",
+      "occurredAt": "2020-08-31T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T02:59:15.434Z",
+      "link": "https://www.cut.org.br/noticias/bolsonaro-amplia-liberacao-do-trabalho-aos-sabados-domingos-e-feriados-sem-direi-2191",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Bolsonaro amplia liberação do trabalho aos sábados, domingos e feriados sem direitos",
+        "description": "Portaria de Bolsonaro, que amplia o número de categorias liberadas para trabalhar aos sábados, domingos e feriados como dias normais fere a Constituição, a CLT e desrespeita acordos coletivos de trabalhadores",
+        "image": "https://www.cut.org.br/img/cache/ogimage/system/uploads/news/2191e2079db6f07fcb6e33a856cd1fcc/cover/mp-881-sabado-domingo-feriados-nao.jpg",
+        "site": "CUT - Central Única dos Trabalhadores"
+      }
+    },
+    {
+      "id": "id_bh97ldmh1",
+      "occurredAt": "2020-08-20T01:11:38.589Z",
+      "retrievedAt": "2026-10-25T02:59:44.843Z",
+      "link": "https://g1.globo.com/politica/noticia/2020/08/19/bolsonaro-contraria-ciencia-e-diz-a-apoiadores-que-eficacia-de-mascara-e-quase-nenhuma.ghtml",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "congresso_nacional",
+        "datafolha",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Bolsonaro contraria ciência e diz a apoiadores que eficácia de máscara é 'quase nenhuma'",
+        "description": "OMS reconhece estudos sobre eficácia do uso de máscaras há pelo menos três meses. Proteção ajuda a evitar que infectados propaguem o vírus e que pessoas saudáveis se contaminem.",
+        "image": "https://s2-g1.glbimg.com/hi67N7aQHFAsaKJk_nzvWGlTJpo=/1280x0/filters:format(jpeg)/https://s02.video.glbimg.com/x720/8790005.jpg",
+        "site": "G1"
+      }
+    },
+    {
+      "id": "id_cbbodnud0",
+      "occurredAt": "2020-08-19T22:10:57.000Z",
+      "retrievedAt": "2026-10-25T03:00:23.499Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/08/19/derrubado-veto-de-bolsonaro-ao-uso-obrigatorio-de-mascara-na-pandemia",
+      "topicIds": [
+        "congresso_nacional"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Derrubado veto de Bolsonaro ao uso obrigatório de máscara na pandemia",
+        "description": "Em sessão remota nesta quarta-feira (19), o Congresso Nacional derrubou o veto parcial ( VET 25/2020 ) do presidente da República, Jair Bolsonaro, ao projeto que obriga a população a usar máscaras de proteção facial enquanto durar o estado de calamidade pública decorrente da pandemia de coronavírus ( PL 1.562/2020 ).",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_5ltvlea2l",
+      "occurredAt": "2020-07-03T13:54:11.000Z",
+      "retrievedAt": "2026-10-25T03:00:42.531Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/07/03/bolsonaro-veta-uso-obrigatorio-de-mascara-no-comercio-em-escolas-e-em-igrejas",
+      "topicIds": [
+        "saude",
+        "assistencia_social"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "senado_federal",
+        "camara_deputados"
+      ],
+      "preview": {
+        "title": "Bolsonaro veta uso obrigatório de máscara no comércio, em escolas e em igrejas",
+        "description": "Nota do editor (21/10/2020): Devido ao interesse que esta matéria voltou a despertar, principalmente por meio do compartilhamento em redes sociais, a Agência Senado esclarece que os fatos aqui narrados foram atualizados, uma vez que o veto presidencial ao uso de máscaras foi derrubado pelo Congresso em 19 de agosto de 2020, como noticiado aqui: Derrubado veto de Bolsonaro ao uso obrigatório de máscara na pandemia",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_dx2rynync",
+      "occurredAt": "2020-08-25T16:49:11.000Z",
+      "retrievedAt": "2026-10-25T03:00:53.579Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/08/25/flavio-bolsonaro-tem-resultado-positivo-em-exame-de-covid-19",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Flávio Bolsonaro tem resultado positivo em exame de covid-19",
+        "description": "O senador Flávio Bolsonaro (Republicanos-RJ) informou, nesta terça-feira (25), por meio de sua assessoria de imprensa, ter recebido resultado positivo para a covid-19.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_cchfj8ksv",
+      "occurredAt": "2020-07-10T09:30:14.000Z",
+      "retrievedAt": "2026-10-25T03:01:06.342Z",
+      "link": "https://cimi.org.br/2020/07/vetos-de-bolsonaro-a-medidas-emergenciais-para-indigenas-na-pandemia-sao-denunciados-na-onu/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Vetos de Bolsonaro a medidas emergenciais para indígenas na pandemia são denunciados na ONU | Cimi",
+        "description": "O governo federal “vetou aspectos essenciais do plano emergencial indígena para a covid-19, como o acesso à água”, ressaltou pronunciamento feito por grupo de organizações",
+        "image": "https://cimi.org.br/wp-content/uploads/2019/09/GCAV0877.jpg",
+        "site": "cimi.org.br"
+      }
+    },
+    {
+      "id": "id_t73jfqg69",
+      "occurredAt": "2020-10-28T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:06:20.890Z",
+      "link": "https://www.andes.org.br/conteudos/noticia/decreto-de-bolsonaro-abre-caminho-para-privatizacao-do-sUS1",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR",
+        "description": "Em meio a uma das mais graves crises sanitárias mundiais, o presidente da República,...",
+        "image": "https://www.andes.org.br/img/midias/0d8836182a40432c4807c810eb2630c2_1603918122.png",
+        "site": "ANDES-SN"
+      }
+    },
+    {
+      "id": "id_npv3lp5gl",
+      "occurredAt": "2020-10-28T13:21:22.000Z",
+      "retrievedAt": "2026-10-25T03:07:00.908Z",
+      "link": "https://www.fecesc.org.br/conselho-rechaca-decreto-de-bolsonaro-que-facilita-privatizacao-de-unidades-de-saude/",
+      "topicIds": [
+        "governo_bolsonaro",
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Conselho rechaça decreto de Bolsonaro que facilita privatizar unidades de saúde",
+        "description": "Presidente do Conselho Nacional de Saúde, Fernando Pigatto disse que câmara técnica vai analisar a fundo o decreto e tomar as providências cabíveis O Decreto 10.530, de Jair Bolsonaro, publicado hoje (27) foi rechaçado pelo presidente do Conselho Nacional …",
+        "image": "https://www.fecesc.org.br/siteprincipal/wp-content/uploads/ft-sus.jpg",
+        "site": "FECESC"
+      }
+    },
+    {
+      "id": "id_dma820bfm",
+      "occurredAt": "2020-10-28T20:34:00.000Z",
+      "retrievedAt": "2026-10-25T03:12:27.528Z",
+      "link": "https://oglobo.globo.com/politica/ministerio-publico-pede-que-tcu-investigue-se-bolsonaro-usou-governo-para-favorecer-flavio-em-caso-queiroz-1-24717600",
+      "topicIds": [
+        "caso_queiroz"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Ministério Público pede que TCU investigue se Bolsonaro usou governo para favorecer Flavio em caso Queiroz",
+        "description": "Reportagem da revista Época revelou que advogados tentaram mobilizar órgãos federais para anular apurações da Receita",
+        "image": "https://ogimg.infoglobo.com.br/in/24708992-caf-a3a/FT1086A/760/jairflavio.png",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_pte43dsrr",
+      "occurredAt": "2020-09-29T11:30:14.000Z",
+      "retrievedAt": "2026-10-25T03:12:39.500Z",
+      "link": "https://www.intercept.com.br/2020/09/29/mbl-bolsonaro-rachadinha-flavio/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fernando_haddad",
+        "fabricio_queiroz",
+        "sergio_moro",
+        "gustavo_bebianno"
+      ],
+      "preview": {
+        "title": "MBL sabia que era ‘impossível defender’ Flavio Bolsonaro, mas minimizou rachadinha",
+        "description": "Áudios inéditos mostram como movimento acumulou desgastes com Carlos Bolsonaro e armou o bote para Jair em encontro com Bebianno.",
+        "image": "https://www.intercept.com.br/wp-content/plugins/seox-image-magick/imagick_convert.php?width=1200&height=627&format=webp&quality=91&imagick=uploads.intercept.com.br/2023/03/mbl-2-1.jpg",
+        "site": "Intercept Brasil"
+      }
+    },
+    {
+      "id": "id_589wloji2",
+      "occurredAt": "2020-10-30T03:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:12:51.758Z",
+      "link": "https://www.migalhas.com.br/quentes/335740/bolsonaro-diz-que-governo-nao-vai-pagar-vacina-de-doria",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Bolsonaro diz que governo não vai pagar vacina \"de Doria\"",
+        "description": "Fala se deu após governador de SP dizer que, se governo não incluir vacina no programa nacional, Doria vai pagar coronavac para os Estados.",
+        "image": "https://medproc.migalhas.com.br/https__img5.migalhas.com.br__SL__gf_base__SL__empresas__SL__miga__SL__imagens__SL__2020__SL__10__SL__30__SL__8a0981d3-b6aa-4ba9-867a-b7dbb923ca38.jpg._PROC_CP75CCH31622400.jpg",
+        "site": "Migalhas"
+      }
+    },
+    {
+      "id": "id_ei4c0g3kl",
+      "occurredAt": "2020-11-27T19:16:20.000Z",
+      "retrievedAt": "2026-10-25T03:13:46.167Z",
+      "link": "https://www.bbc.com/portuguese/brasil-55107536",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "2 momentos em que Bolsonaro chamou covid-19 de 'gripezinha', o que agora nega",
+        "description": "Presidente nega que tenha usado o termo para se referir à doença causada pelo novo coronavírus.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8559/production/_115673143_p08zv6rj.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_bc86733wt",
+      "occurredAt": "2020-10-23T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:14:01.575Z",
+      "link": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=453981&ori=1",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "Cinco partidos acionam STF para que presidente da República seja obrigado a adquirir vacina contra Covid-19",
+        "description": "PCdoB, PSOL, PT, PSB e Cidadania sustentam que a interrupção da colaboração entre o governo federal e o Instituto Butantan, sem justificativa científica ou técnica consistente, é inconstitucional.",
+        "site": "Supremo Tribunal Federal"
+      }
+    },
+    {
+      "id": "id_662078knl",
+      "occurredAt": "2020-11-04T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:14:25.748Z",
+      "link": "https://conjur.com.br/2020-nov-04/mp-denuncia-flavio-bolsonaro-esquema-rachadinha-alerj/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Just a moment...",
+        "description": "Just a moment...",
+        "site": "conjur.com.br"
+      }
+    },
+    {
+      "id": "id_57p6o62eu",
+      "occurredAt": "2020-11-17T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:14:45.531Z",
+      "link": "https://www.nexojornal.com.br/o-racismo-de-jair-bolsonaro-origens-e-consequencias",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro"
+      ],
+      "preview": {
+        "title": "O racismo de Jair Bolsonaro: origens e consequências",
+        "description": "As declarações discriminatórias do presidente se apoiam em artifícios antigos do preconceito racial e impactam concretamente a vida de negros e quilombolas brasileiros",
+        "image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2023/12/22090538/RTS3BG26_binary_218804-640x399.jpg",
+        "site": "Nexo Jornal"
+      }
+    },
+    {
+      "id": "id_yl4xbxxt7",
+      "occurredAt": "2020-11-11T14:24:59.000Z",
+      "retrievedAt": "2026-10-25T03:15:01.819Z",
+      "link": "https://www.bbc.com/portuguese/brasil-54902608",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Coronavírus: 'país de maricas' e outras 8 frases de Bolsonaro sobre pandemia que matou 162 mil pessoas no Brasil",
+        "description": "Desde janeiro, Bolsonaro já defendeu distribuição de remédio sem comprovação científica, afirmou que não compraria imunizantes chineses e se colocou contrário à obrigatoriedade da vacina.",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/14557/production/_113278238_c3f13eb6-7dd5-470c-8429-f3084976c000.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_egbkpcz1c",
+      "occurredAt": "2020-11-04T10:53:10.000Z",
+      "retrievedAt": "2026-10-25T03:15:13.400Z",
+      "link": "https://www.bbc.com/portuguese/brasil-54808605",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "coaf",
+        "alerj",
+        "israel"
+      ],
+      "preview": {
+        "title": "Promotoria denuncia Flávio Bolsonaro e Queiroz por organização criminosa: o que acontece agora?",
+        "description": "Filho mais velho do presidente da República é acusado dos crimes de organização criminosa, peculato, lavagem de dinheiro e apropriação indébita. Ele nega e fala em perseguição ilegal para",
+        "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/E089/production/_104918475_insta.jpg",
+        "site": "BBC News Brasil"
+      }
+    },
+    {
+      "id": "id_y0fpi7wbz",
+      "occurredAt": "2020-11-25T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:15:24.540Z",
+      "link": "https://www.intercept.com.br/2020/10/25/vacina-chinesa-bolsonaro-rodrigo-maia/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Just a moment...",
+        "description": "Just a moment...",
+        "site": "www.intercept.com.br"
+      }
+    },
+    {
+      "id": "id_musfkddzo",
+      "occurredAt": "2020-07-10T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:15:45.266Z",
+      "link": "https://www.cofen.gov.br/anvisa-esclarece-que-ivermectina-nao-e-indicada-contra-covid-19/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Links Importantes Lei Geral de Proteção de Dados Planejamento Estratégico Missão, Visão e Valores Painel de Dados da Fiscalização e-dimensionamento Dados da Enfermagem Revista Enfermagem em Foco MUNEAN Pesquisa Perfil da Enfermagem DPN CBCE",
+        "description": "Medicamento indicado para controle de parasitas vem sendo utilizado indevidamente para prevenção de covid-19",
+        "image": "https://www.cofen.gov.br/wp-content/uploads/2015/01/Anvisa.jpg",
+        "site": "Cofen"
+      }
+    },
+    {
+      "id": "id_5g07n22z5",
+      "occurredAt": "2020-11-10T21:15:33.000Z",
+      "retrievedAt": "2026-10-25T03:16:05.504Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/11/10/senadores-criticam-comemoracao-de-bolsonaro-da-suspensao-dos-testes-da-coronavac",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "rogerio_carvalho",
+        "senado_federal"
+      ],
+      "preview": {
+        "title": "Senadores criticam comemoração de Bolsonaro da suspensão dos testes da CoronaVac",
+        "description": "Parlamentares reagiram, nesta terça-feira (10), a comentário do presidente da República, Jair Bolsonaro, sobre a suspensão dos estudos para a produção da vacina CoronaVac, contra o novo coronavírus. Bolsonaro comemorou a decisão da Agência Nacional de Vigilância Sanitária (Anvisa) de suspender a vacina. Ao responder a um seguidor em suas redes sociais, o presidente publicou um comentário de que a vacina CoronaVac poderia causar “morte, invalidez, anomalia” e que não deveria ser obrigatória. O texto dizia ainda: \"mais uma que Jair Bolsonaro ganha”.",
+        "image": "https://www12.senado.leg.br/noticias/materias/2020/11/10/senadores-criticam-comemoracao-de-bolsonaro-da-suspensao-dos-testes-da-coronavac/vacina-instituto-butantan_0119s.jpg",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_go07cj7z7",
+      "occurredAt": "2020-11-11T18:15:00.000Z",
+      "retrievedAt": "2026-10-25T03:16:17.243Z",
+      "link": "https://oglobo.globo.com/politica/mulher-de-flavio-bolsonaro-pagou-despesas-em-dinheiro-vivo-sem-realizar-saques-da-conta-por-quatro-anos-24740951",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "luiz_fux",
+        "mprj",
+        "coaf"
+      ],
+      "preview": {
+        "title": "Mulher de Flávio Bolsonaro pagou despesas em dinheiro vivo sem realizar saques da conta por quatro anos",
+        "description": "Para o MP, o volume de pagamentos em espécie realizados pelo casal é incompatível com recursos declarados à Receita Federal",
+        "image": "https://ogimg.infoglobo.com.br/in/24710406-d65-998/FT1086A/760/flavio-fernanda-bolsonaro-1.png",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_jt0pva6xj",
+      "occurredAt": "2020-12-20T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:19:41.471Z",
+      "link": "https://oglobo.globo.com/mundo/bolsonaro-negligencia-contato-com-paises-vizinhos-nao-consegue-ter-boas-relacoes-nem-com-governos-conservadores-24805421",
+      "topicIds": [
+        "relacoes_exteriores"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "fernando_henrique_cardoso",
+        "donald_trump",
+        "israel",
+        "chile",
+        "paraguai"
+      ],
+      "preview": {
+        "title": "Bolsonaro negligencia contato com países vizinhos e não consegue ter boas relações nem com governos conservadores",
+        "description": "Presidente dá pouca importância a diplomacia presidencial, ignorando cúpulas regionais e não buscando se comunicar com outros líderes",
+        "image": "https://ogimg.infoglobo.com.br/mundo/24805416-e5b-041/FT1086A/760/81765740_Ecuadors-President-Lenin-Moreno-C-signs-a-declaration-to-kick-off-the-Prosur-regional.jpg",
+        "site": "O Globo"
+      }
+    },
+    {
+      "id": "id_ese4k4akz",
+      "occurredAt": "2020-12-04T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:20:00.865Z",
+      "link": "https://www.greenpeace.org/brasil/blog/governo-bolsonaro-lanca-programa-invade-brasil/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "incra",
+        "ministerio_agricultura",
+        "camara_deputados",
+        "israel",
+        "chile"
+      ],
+      "preview": {
+        "title": "Governo Bolsonaro lança programa “Invade Brasil”, mais um presente para grileiros",
+        "description": "Florestas e populações tradicionais seguem sendo ameaçadas com mais esse estímulo à invasão de terras públicas por criminosos e desmatadores",
+        "image": "https://www.greenpeace.org/static/planet4-brasil-stateless/01d430a5-greenpeace_invade_brasil_site_720x600px_2.png",
+        "site": "Greenpeace Brasil"
+      }
+    },
+    {
+      "id": "id_z5j3w6ght",
+      "occurredAt": "2020-12-19T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:20:15.691Z",
+      "link": "https://www.nexojornal.com.br/expresso/2020/12/19/bolsonaro-e-os-depositos-de-queiroz-para-a-primeira-dama",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Bolsonaro e os depósitos de Queiroz para a primeira-dama - Nexo Jornal",
+        "description": "Presidente inicialmente falou que estava recebendo uma dívida do amigo por meio da conta de Michelle. Dois anos depois, afirma que ex-assessor de Flávio pagava suas contas pessoais",
+        "image": "https://nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2023/12/26173550/RTX7DV8C_binary_208712-640x399.jpg",
+        "site": "Nexo Jornal"
+      }
+    },
+    {
+      "id": "id_l6373g1t7",
+      "occurredAt": "2020-09-17T22:13:18.264Z",
+      "retrievedAt": "2026-10-25T03:23:14.905Z",
+      "link": "https://www.dw.com/pt-br/brasil-registra-829-mortes-por-covid-19-em-24-horas/a-54970452",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "luiz_fux",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Brasil registra 829 mortes por covid-19 em 24 horas",
+        "description": "Mais 36.303 casos da doença foram notificados em um dia, elevando total para 4.455.386. Procurador-geral testa positivo.",
+        "image": "https://static.dw.com/image/54371712_6.jpg",
+        "site": "dw.com"
+      }
+    },
+    {
+      "id": "id_lb0jb4vix",
+      "occurredAt": "2020-10-10T17:20:45.000Z",
+      "retrievedAt": "2026-10-25T03:23:24.774Z",
+      "link": "https://brasil.elpais.com/brasil/2020-10-10/brasil-nao-detem-covid-19-e-chega-a-150000-mortes-um-terco-delas-registradas-em-dois-meses.html",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "congresso_nacional",
+        "exercito",
+        "estados_unidos",
+        "chile"
+      ],
+      "preview": {
+        "title": "Brasil não detém covid-19 e chega a 150.000 mortes, um terço delas registrado em dois meses",
+        "description": "País reduz média diária de vítimas, mas patamar segue alto, com o terceiro maior índice de óbitos por milhão de habitantes no mundo. Cidades levantam restrições e seguem sem coordenação",
+        "image": "https://imagenes.elpais.com/resizer/v2/SFMJ45CM7JCMRBKSV757IOCJLI.JPG?auth=493a72233cb5c64f9c92f9e418694bd1e624aec211fecc50c21149a4eaa35ffd&width=1200",
+        "site": "El País Brasil"
+      }
+    },
+    {
+      "id": "id_tztey1n5k",
+      "occurredAt": "2020-10-12T02:16:00.000Z",
+      "retrievedAt": "2026-10-25T03:23:35.219Z",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2020-10/covid-19-brasil-registra-290-obitos-nas-ultimas-24-horas",
+      "topicIds": [
+        "saude"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Covid-19: Brasil registra 290 mortes e 12,3 mil casos nas últimas 24h",
+        "description": "Desde o início da pandemia, foram diagnosticados 5.091.979 casos da doença e 150.488 óbitos. Ao todo, 4,47 milhões de pessoas estão recuperadas.",
+        "image": "https://imagens.ebc.com.br/JCWfjxfiJ-Mm7Vh_VcvspMVXEQA=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2020-08-12t155759z_1_lynxnpeg7b1a9_rtroptp_4_health-coronavirus-brazil.jpg?itok=0uVZ_WQb",
+        "site": "Agência Brasil"
+      }
+    },
+    {
+      "id": "id_e9kzpf3dt",
+      "occurredAt": "2020-07-14T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:23:44.979Z",
+      "link": "https://www.ipea.gov.br/cts/pt/central-de-conteudo/noticias/noticias/219-modelo-matematico-preve-quase-440-mil-de-mortes-na-america-latina",
+      "topicIds": [
+        "educacao"
+      ],
+      "entityIds": [
+        "chile"
+      ],
+      "preview": {
+        "title": "Centro de Pesquisa em Ciência, Tecnologia e Sociedade",
+        "description": "Centro de Pesquisa em Ciência, Tecnologia e Sociedade",
+        "image": "http://www.ipea.gov.br/cts/images/IHME.png",
+        "site": "www.ipea.gov.br"
+      }
+    },
+    {
+      "id": "id_c1gxcbuam",
+      "occurredAt": "2020-08-08T20:24:07.000Z",
+      "retrievedAt": "2026-10-25T03:24:56.315Z",
+      "link": "https://www12.senado.leg.br/noticias/materias/2020/08/08/congresso-nacional-decreta-luto-pelos-100-mil-brasileiros-mortos-por-covid-19",
+      "topicIds": [
+        "congresso_nacional",
+        "saude",
+        "estados_unidos"
+      ],
+      "entityIds": [
+        "congresso_nacional",
+        "senado_federal",
+        "estados_unidos"
+      ],
+      "preview": {
+        "title": "Congresso Nacional decreta luto pelos 100 mil brasileiros mortos por covid-19",
+        "description": "O Brasil superou neste sábado (8), a grave marca de 100 mil mortos em decorrência da covid-19, provocada pelo novo coronavírus. O presidente do Congresso, Davi Alcolumbre, decretou luto oficial de quatro dias em solidariedade a todos os brasileiros afetados pela pandemia e às vítimas desta tragédia.",
+        "site": "Senado Federal"
+      }
+    },
+    {
+      "id": "id_jkk5glodc",
+      "occurredAt": "2020-09-20T16:27:05.000Z",
+      "retrievedAt": "2026-10-25T03:27:04.095Z",
+      "link": "https://x.com/Danielhrs/status/1307717930390560768",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Daniel Sousa no X: \"Por onde anda o Nióbio? Estará junto a cloroquina e as provas da fraude nas eleições de 2018 na embaixada do Brasil em Jerusalém que continua em Tel Aviv?\"",
+        "description": "Por onde anda o Nióbio? Estará junto a cloroquina e as provas da fraude nas eleições de 2018 na embaixada do Brasil em Jerusalém que continua em Tel Aviv?",
+        "image": "https://pbs.twimg.com/profile_images/1925865457455706112/q2j9oqjw_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_tyl5tvlsl",
+      "occurredAt": "2020-10-26T15:40:03.000Z",
+      "retrievedAt": "2026-10-25T03:27:23.676Z",
+      "link": "https://x.com/GuilhermeBoulos/status/1320752058505564161",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Guilherme Boulos no X: \"\"No Brasil, cloroquina tem 100% de cura.\" \"É mais barato investir na cura do que na vacina.\" Bolsonaro segue zombando de 157 mil brasileiros que perderam a vida e de seus familiares que vivem a dor do luto.\"",
+        "description": "\"No Brasil, cloroquina tem 100% de cura.\" \"É mais barato investir na cura do que na vacina.\" Bolsonaro segue zombando de 157 mil brasileiros que perderam a vida e de seus familiares que vivem a dor do luto.",
+        "image": "https://pbs.twimg.com/profile_images/2106837232367579136/Cx_zIoye_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_tytx7yi7u",
+      "occurredAt": "2020-12-08T20:08:01.000Z",
+      "retrievedAt": "2026-10-25T03:27:48.769Z",
+      "link": "https://x.com/QuebrandoOTabu/status/1336402171127009281",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "QoT no X: \"A vacinação pode atrasar no Brasil por falta de algodão e seringa. Enquanto isso, o Brasil tem estoque de cloroquina por 18 anos. Que vontade de chorar, viu.\"",
+        "description": "A vacinação pode atrasar no Brasil por falta de algodão e seringa. Enquanto isso, o Brasil tem estoque de cloroquina por 18 anos. Que vontade de chorar, viu.",
+        "image": "https://pbs.twimg.com/profile_images/1940024617034215424/WNkEJO1Y_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_qj7aju1hq",
+      "occurredAt": "2020-10-21T14:15:03.000Z",
+      "retrievedAt": "2026-10-25T03:28:56.105Z",
+      "link": "https://x.com/cirogomes/status/1318918728709525504",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [
+        "ciro_gomes"
+      ],
+      "preview": {
+        "title": "Ciro Gomes no X: \"Este é o mesmo presidente que mandou comprar toneladas de cloroquina sem comprovação científica e com preço 6 vezes maior do que o valor normal e indicou vermífugo 'sem apresentar dados científicos, com gráfico de banco de",
+        "description": "Este é o mesmo presidente que mandou comprar toneladas de cloroquina sem comprovação científica e com preço 6 vezes maior do que o valor normal e indicou vermífugo 'sem apresentar dados científicos, com gráfico de banco de imagens. #BolsonaroGenocida",
+        "image": "https://pbs.twimg.com/profile_images/2107550446604722176/ir_gNqQb_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_6ynmk5okh",
+      "occurredAt": "2020-08-24T15:46:03.000Z",
+      "retrievedAt": "2026-10-25T03:31:42.376Z",
+      "link": "https://www.cartacapital.com.br/politica/bolsonaro-chama-jornalistas-de-bundoes-ao-relembrar-historico-de-atleta/",
+      "topicIds": [
+        "economia"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "flavio_bolsonaro",
+        "fabricio_queiroz",
+        "donald_trump",
+        "banco_central",
+        "congresso_nacional"
+      ],
+      "preview": {
+        "title": "Bolsonaro chama jornalistas de bundões ao relembrar histórico de atleta",
+        "description": "Presidente repetiu defesa da cloroquina em segundo dia seguido de ataques à imprensa",
+        "image": "https://www.cartacapital.com.br/wp-content/uploads/2020/08/jair-bolsonaro-coletiva.jpg",
+        "site": "CartaCapital"
+      }
+    },
+    {
+      "id": "id_x7sqv7rx6",
+      "occurredAt": "2020-07-07T16:31:24.000Z",
+      "retrievedAt": "2026-10-25T03:31:51.902Z",
+      "link": "https://veja.abril.com.br/coluna/maquiavel/infectado-pela-covid-19-bolsonaro-colocara-a-prova-historico-de-atleta/",
+      "topicIds": [
+        "governo_bolsonaro"
+      ],
+      "entityIds": [
+        "jair_bolsonaro",
+        "forcas_armadas",
+        "exercito"
+      ],
+      "preview": {
+        "title": "Por que o histórico de atleta não garante imunidade contra a Covid-19",
+        "description": "Em março, em tentativa de minimizar os efeitos da doença, o presidente afirmou que, caso contraísse o novo coronavírus, sentiria apenas uma \"gripezinha\"",
+        "image": "https://veja.abril.com.br/wp-content/uploads/2020/07/Bolsonaro-atleta-2.jpg?quality=70&strip=info&resize=1200,630&crop=1",
+        "site": "VEJA"
+      }
+    },
+    {
+      "id": "id_sxpnr8z70",
+      "occurredAt": "2020-11-10T12:00:00.000Z",
+      "retrievedAt": "2026-10-25T03:37:15.282Z",
+      "link": "https://x.com/Estadao/status/1326132498586345475",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Estadão 🗞️ no X: \"Sem provas, Bolsonaro atribui 'morte e invalidez' à vacina chinesa e diz que 'ganhou' de Doria https://t.co/6UA6AOi8XA\"",
+        "description": "Sem provas, Bolsonaro atribui 'morte e invalidez' à vacina chinesa e diz que 'ganhou' de Doria https://t.co/6UA6AOi8XA",
+        "image": "https://pbs.twimg.com/media/Emddz5iXEAEB7BZ?format=webp&name=large",
+        "site": "X (formerly Twitter)"
+      }
+    },
+    {
+      "id": "id_wcom8sec0",
+      "occurredAt": "2020-07-08T14:16:24.000Z",
+      "retrievedAt": "2026-10-25T03:38:49.548Z",
+      "link": "https://x.com/gleisi/status/1280868339238219778",
+      "topicIds": [
+        "governo_bolsonaro",
+        "tweets"
+      ],
+      "entityIds": [],
+      "preview": {
+        "title": "Gleisi Hoffmann no X: \"Impressionante os relatos de que Bolsonaro induzia seus convidados e funcionários a não usarem máscara e os constrangia com aperto de mão. Ainda dizia que usar máscara era coisa de viado. Homofóbico e Inconsequente!\"",
+        "description": "Impressionante os relatos de que Bolsonaro induzia seus convidados e funcionários a não usarem máscara e os constrangia com aperto de mão. Ainda dizia que usar máscara era coisa de viado. Homofóbico e Inconsequente!",
+        "image": "https://pbs.twimg.com/profile_images/2107635898573611009/EP6DWqIk_400x400.jpg",
+        "site": "X (formerly Twitter)"
+      }
+    }
+  ]
+}
